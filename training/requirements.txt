@@ -1,0 +1,14 @@
+# Recorded WSL/Linux CPython 3.11 training environment, 2026-11-17.
+# In an isolated environment, install the GPU wheel FIRST:
+# python -m pip install paddlepaddle-gpu==3.3.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu129/
+# Then, from the project root:
+# python -m pip install -r training/requirements.txt
+# python -m pip check
+# Full snapshot copied unchanged from records/packages.txt.
+# Snapshot includes multiple OpenCV distributions from the existing environment;
+# this records that state and is not a claim of a clean reinstall validation.
+# PaddleOCR training source is separate from its pip package:
+# repository https://github.com/PaddlePaddle/PaddleOCR.git, tag v3.7.0
+# commit b03f46425e8ff4442b268ce449e3eef758146cd4
+# See ../docs/KORIE_PP-OCRv5_GPU_파인튜닝_실행.md for setup and GPU checks.
+-r requirements.lock.txt

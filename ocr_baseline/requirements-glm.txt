@@ -1,0 +1,5 @@
+# Install torch/torchvision using the CUDA 12.8 index (see GLM_OCR.md).
+transformers==5.23.0
+huggingface-hub>=1.0,<2
+Pillow>=10,<14
+safetensors>=0.6

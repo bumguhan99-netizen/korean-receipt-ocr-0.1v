@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "training_sha256": "e35fea1f1781ff831e9b71a2761895828e9341fe71c818da45ef2d90abaae60e",
+  "restored_export_sha256": "27189167535899ce77935c96bb2c4e0c779289d3c63bb52a61b850f07a36a3c0",
+  "selected_export_sha256": "27189167535899ce77935c96bb2c4e0c779289d3c63bb52a61b850f07a36a3c0"
+}

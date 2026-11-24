@@ -1,0 +1,10 @@
+{
+  "scope": "One validation example visually inspected; not a complete crop-to-box mapping",
+  "receipt": "IMG00016",
+  "original": "data/detection/val/images/IMG00016.png",
+  "crop": "data/ocr/val/IMG00016_Total.jpg",
+  "provided_text": "26,420",
+  "observation": "The crop shows 26,420 with the final digit partially clipped. The same value appears in the original receipt's total and payment rows. The observed content is consistent with the shared receipt ID, but repeated values prevent assigning a unique detection box from text alone.",
+  "used_as_full_ocr_gt": false,
+  "reason": "No authoritative unique box-transcription mapping; avoid inferred full OCR CER"
+}

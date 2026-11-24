@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "data_root": "/workspace/full_receipt_20261117/data/ocr",
+  "dictionary_sha256": "2193f5dd0c62a4f268902b5d96dadfec3908d299afa9a6e5cad2c6a96c772828",
+  "max_text_length": 25,
+  "normalization": "NFC; terminal CR/LF only removed",
+  "seed": 42,
+  "counts": {
+    "train": {
+      "images": 5356,
+      "labels": 5356,
+      "usable": 5087,
+      "held": 269,
+      "reasons": {
+        "length": 211,
+        "nrtr_length": 52,
+        "oov": 8
+      },
+      "nfc_changed": 0,
+      "oov": {
+        "U+260E ☎": 2,
+        "U+20A9 ₩": 2,
+        "U+3015 〕": 3,
+        "U+3014 〔": 1
+      },
+      "length": {
+        "n": 5356,
+        "p50": 8,
+        "p95": 23,
+        "p99": 49,
+        "p100": 99
+      },
+      "width_at_height48": {
+        "n": 5356,
+        "p50": 154.14,
+        "p95": 528.83,
+        "p99": 686.27,
+        "p100": 1028.44
+      }
+    },
+    "val": {
+      "images": 1785,
+      "labels": 1785,
+      "usable": 1693,
+      "held": 92,
+      "reasons": {
+        "nrtr_length": 13,
+        "length": 79
+      },
+      "nfc_changed": 0,
+      "oov": {},
+      "length": {
+        "n": 1785,
+        "p50": 8,
+        "p95": 24,
+        "p99": 49,
+        "p100": 81
+      },
+      "width_at_height48": {
+        "n": 1785,
+        "p50": 150.77,
+        "p95": 531.56,
+        "p99": 685.03,
+        "p100": 880.0
+      }
+    },
+    "test": {
+      "images": 1786,
+      "labels": 1786,
+      "usable": 1711,
+      "held": 75,
+      "reasons": {
+        "length": 63,
+        "nrtr_length": 11,
+        "oov": 1
+      },
+      "nfc_changed": 0,
+      "oov": {
+        "U+260E ☎": 1
+      }
+    }
+  }
+}

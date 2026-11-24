@@ -1,0 +1,346 @@
+[
+  {
+    "id": "r003_007",
+    "v2_text": "지불액",
+    "v3_text": "지불액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r004_032",
+    "v2_text": "Cash i",
+    "v3_text": "Cash i",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r006_012",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_060",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_061",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_068",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_069",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_078",
+    "v2_text": "부",
+    "v3_text": "부",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r009_081",
+    "v2_text": "0",
+    "v3_text": "0",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r010_020",
+    "v2_text": "수증",
+    "v3_text": "수증",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r011_044",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r011_045",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r012_035",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r012_036",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r012_039",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r012_040",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r013_035",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r013_036",
+    "v2_text": "바 으",
+    "v3_text": "바 으",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r013_038",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r013_039",
+    "v2_text": "그 애",
+    "v3_text": "그 애",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r014_090",
+    "v2_text": "부",
+    "v3_text": "부",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r017_006",
+    "v2_text": "직접 받을게요",
+    "v3_text": "직접 받을게요",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r032_018",
+    "v2_text": "받 을 금 액",
+    "v3_text": "받 을 금 액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r047_010",
+    "v2_text": "1",
+    "v3_text": "]",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "explicit user correction"
+  },
+  {
+    "id": "r052_029",
+    "v2_text": "금액",
+    "v3_text": "금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r093_001",
+    "v2_text": "영 수 증",
+    "v3_text": "영 수 증",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r103_029",
+    "v2_text": "금액",
+    "v3_text": "금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r128_026",
+    "v2_text": "금액",
+    "v3_text": "금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r156_004",
+    "v2_text": "할인금액",
+    "v3_text": "할인금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r156_005",
+    "v2_text": "받을금액",
+    "v3_text": "받을금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r165_033",
+    "v2_text": "금액",
+    "v3_text": "금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r197_014",
+    "v2_text": "세물품가액",
+    "v3_text": "세물품가액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r198_012",
+    "v2_text": "면세물품가액",
+    "v3_text": "면세물품가액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r198_013",
+    "v2_text": "세물품가액",
+    "v3_text": "세물품가액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r211_008",
+    "v2_text": "상품",
+    "v3_text": "상품",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r234_022",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r235_008",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r235_009",
+    "v2_text": "받은금액",
+    "v3_text": "받은금액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r254_011",
+    "v2_text": "상품명",
+    "v3_text": "상품명",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r276_012",
+    "v2_text": "상품명",
+    "v3_text": "상품명",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r278_015",
+    "v2_text": "과세물품가액",
+    "v3_text": "과세물품가액",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  },
+  {
+    "id": "r284_017",
+    "v2_text": "음료수(체리부로)",
+    "v3_text": "국내산(체리부로)",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "explicit user correction"
+  },
+  {
+    "id": "r298_078",
+    "v2_text": "부",
+    "v3_text": "부",
+    "v2_status": "excluded",
+    "v3_status": "verified",
+    "basis": "user confirmed remaining labels"
+  }
+]

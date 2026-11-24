@@ -1,0 +1,32 @@
+{
+  "validation_status": "completed",
+  "models": {
+    "baseline": {
+      "inference.json": "eda87b6f8c2c95fa11461e487f7a34d2715e38354bff6954946780380374e835",
+      "inference.pdiparams": "27189167535899ce77935c96bb2c4e0c779289d3c63bb52a61b850f07a36a3c0",
+      "inference.yml": "60723ce943ecc524b5b32e07b8527a9b75f27c79c6fccf9c13e401304633b025"
+    },
+    "candidate": {
+      "inference.json": "eda87b6f8c2c95fa11461e487f7a34d2715e38354bff6954946780380374e835",
+      "inference.pdiparams": "10e0e6b65bce1582339440abcf844e1c1e40a1d6357c5722a177c0dabce8a155",
+      "inference.yml": "f757fa1c40e99edcf27e9cce879b93eb2a51fa46f5ef39095689b8c37dd75998"
+    },
+    "detector": {
+      "inference.json": "05feef1acb00aa4cd7362b15f7f501fc4f99d7b1fa73c1c871e0c7b1504b0f5c",
+      "inference.pdiparams": "afa1820cb16c1fd0dad589d0f8b389139061c1ef6d68019685fd07be997dda5b",
+      "inference.yml": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699"
+    }
+  },
+  "runner_sha256": "4e3bcb7a8c5b765bdb7ac17d3c2a354b78fa78f4e9652757ae61955221d2e0d5",
+  "selection": "round2",
+  "normalization": "NFC",
+  "scope": "Qualitative full OCR; incomplete GT does not support full CER/precision",
+  "packages": {
+    "paddlepaddle-gpu": "3.3.0",
+    "paddleocr": "3.7.0",
+    "paddlex": "3.7.2",
+    "opencv-contrib-python": "4.10.0.84",
+    "Pillow": "12.1.0",
+    "numpy": "2.3.5"
+  }
+}

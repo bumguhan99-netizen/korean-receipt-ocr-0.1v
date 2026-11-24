@@ -1,0 +1,25 @@
+{
+  "name": "ie_train",
+  "source_url": "https://drive.google.com/file/d/1W6XYnRtsQ2E8UZlo-MGwxQ0SkByTsdQV/view",
+  "local_file": "ie_train.csv",
+  "size": 155791,
+  "sha256": "3ff1d63ed4452dc09dd502923e5c3ffa36da16117196768a32fd23b31a8cd0c3",
+  "downloaded_at": "2026-11-17T12:17:28.700485+00:00",
+  "format": "CSV",
+  "fields": [
+    "image_name",
+    "Item_Name",
+    "class",
+    "Brand",
+    "Weight",
+    "Number of units",
+    "Size of units",
+    "Price",
+    "Total Price",
+    "Pack",
+    "Unit"
+  ],
+  "rows": 1731,
+  "receipt_ids": 580,
+  "has_bounding_boxes": false
+}

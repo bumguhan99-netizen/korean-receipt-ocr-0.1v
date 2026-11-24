@@ -1,0 +1,8 @@
+{
+  "completed": ["Six official ZIPs extracted with CRC/path checks", "GPU backward and parameter update passed", "Crop validation 1785 completed", "Full receipt smoke 20 completed", "Round1 pdparams restored from Git LFS and hash verified"],
+  "active": ["Full validation 154 receipts", "Training image build"],
+  "round1_weights": "restored_round1/best_accuracy.pdparams",
+  "round1_training_sha256": "e35fea1f1781ff831e9b71a2761895828e9341fe71c818da45ef2d90abaae60e",
+  "next": ["verify_restored_v1.py", "train_round2_v2.py prepare with --identity", "smoke/train/export/validate/freeze/test", "full receipt validation and final test comparisons", "final report"],
+  "additional_user_request": "After completing KORIE training/evaluation, inspect receipt_labeled smartphone receipt data and create pre-tuning model evaluation plan, design, and code. Use actual files and final selected KORIE model. This additional request does not authorize smartphone-data tuning yet."
+}

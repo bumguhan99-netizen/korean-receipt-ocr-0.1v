@@ -1,0 +1,132 @@
+﻿[
+    {
+        "Id": "sha256:80a91148f3842e1f37c8f63b87affbd5de06f7f7e8ffbb6c4ffc0f115f4b1912",
+        "RepoTags": [
+            "mogumogu-korie-eval:20261117"
+        ],
+        "RepoDigests": [
+            "mogumogu-korie-eval@sha256:80a91148f3842e1f37c8f63b87affbd5de06f7f7e8ffbb6c4ffc0f115f4b1912"
+        ],
+        "Comment": "buildkit.dockerfile.v0",
+        "Created": "2026-11-17T12:38:03.967121176Z",
+        "Config": {
+            "Env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.18",
+                "PYTHON_SHA256=9120e0a653868f6e3698d36cdd99e5a58903ec9469e448f21d98f7b16d8fa290",
+                "PYTHONUNBUFFERED=1",
+                "PIP_DISABLE_PIP_VERSION_CHECK=1"
+            ],
+            "Cmd": [
+                "python",
+                "/workspace/training/gpu_check.py"
+            ],
+            "WorkingDir": "/workspace",
+            "ArgsEscaped": true
+        },
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 15788539204,
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:1d7b9dd8778ebc4d9bf2f64436dd358640718cb349f5640b33bebaea4ffd62c2",
+                "sha256:9ae7def604682355f0b9a3468566bbb06aaae177e47a961444995169178590d2",
+                "sha256:bd3e172fa0bc2e7382210f6ffe9292e1ce66a4962721cc583787fe726d705f53",
+                "sha256:3306b96cb7baf10267980832b85ae4056efdc2b3dd659fa42d77af2f850e778d",
+                "sha256:eecf6c9138f30d6f1e77e46732e725a0db463d94d0ceace37c9af0789570f509",
+                "sha256:a3228571d0ffadd79ed153b71baa188398b78b99eaed2044b723e81c3c1f9568",
+                "sha256:2e1ac931a17330c619b79afcb5e9b4aa5bfcb6270d6b09d1d2a366040f116a14",
+                "sha256:fa49c69f5d8ebf1e594775ac43847d06fb5048f4cf62d284e32461f4edc848cd",
+                "sha256:b85826d6f620d7babf9e102108f2fc7b2f3621ad4d0f6be8da2b6bdf19b01d73"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "2026-11-17T12:40:55.755407935Z"
+        },
+        "Descriptor": {
+            "mediaType": "application/vnd.oci.image.index.v1+json",
+            "digest": "sha256:80a91148f3842e1f37c8f63b87affbd5de06f7f7e8ffbb6c4ffc0f115f4b1912",
+            "size": 856
+        },
+        "Identity": {
+            "Pull": [
+                {
+                    "Repository": "docker.io/library/mogumogu-korie-eval"
+                }
+            ],
+            "Build": [
+                {
+                    "Ref": "1vzzihlk81popdrrh02cvxbez",
+                    "CreatedAt": "2026-11-17T12:41:38.927717063Z"
+                }
+            ]
+        }
+    },
+    {
+        "Id": "sha256:db860e64a92955a36c02bc4f301f84ec6cbe71f2cec3a7131af26e717ada7668",
+        "RepoTags": [
+            "mogumogu-korie-training:20261117"
+        ],
+        "RepoDigests": [
+            "mogumogu-korie-training@sha256:db860e64a92955a36c02bc4f301f84ec6cbe71f2cec3a7131af26e717ada7668"
+        ],
+        "Comment": "buildkit.dockerfile.v0",
+        "Created": "2026-11-17T12:46:19.323342166Z",
+        "Config": {
+            "Env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.18",
+                "PYTHON_SHA256=9120e0a653868f6e3698d36cdd99e5a58903ec9469e448f21d98f7b16d8fa290",
+                "PYTHONUNBUFFERED=1",
+                "PIP_DISABLE_PIP_VERSION_CHECK=1"
+            ],
+            "Cmd": [
+                "python",
+                "/workspace/training/gpu_check.py"
+            ],
+            "WorkingDir": "/workspace",
+            "ArgsEscaped": true
+        },
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 20885240764,
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:1d7b9dd8778ebc4d9bf2f64436dd358640718cb349f5640b33bebaea4ffd62c2",
+                "sha256:9ae7def604682355f0b9a3468566bbb06aaae177e47a961444995169178590d2",
+                "sha256:bd3e172fa0bc2e7382210f6ffe9292e1ce66a4962721cc583787fe726d705f53",
+                "sha256:3306b96cb7baf10267980832b85ae4056efdc2b3dd659fa42d77af2f850e778d",
+                "sha256:eecf6c9138f30d6f1e77e46732e725a0db463d94d0ceace37c9af0789570f509",
+                "sha256:a3228571d0ffadd79ed153b71baa188398b78b99eaed2044b723e81c3c1f9568",
+                "sha256:2e1ac931a17330c619b79afcb5e9b4aa5bfcb6270d6b09d1d2a366040f116a14",
+                "sha256:fa49c69f5d8ebf1e594775ac43847d06fb5048f4cf62d284e32461f4edc848cd",
+                "sha256:b85826d6f620d7babf9e102108f2fc7b2f3621ad4d0f6be8da2b6bdf19b01d73",
+                "sha256:8f07be6c229b92d306a2cf7a516b735bf61a9b90d0c579b2cc32d677bfd0c3e6",
+                "sha256:e5ce510164c0718c87045a65a8484a4aa8dcfc5f3614257ba277a453f25f3b17",
+                "sha256:3c4deebb93389b709c8fda77d6c4e3824f6f66216598139566547659885ad636"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "2026-11-17T12:46:55.780855862Z"
+        },
+        "Descriptor": {
+            "mediaType": "application/vnd.oci.image.index.v1+json",
+            "digest": "sha256:db860e64a92955a36c02bc4f301f84ec6cbe71f2cec3a7131af26e717ada7668",
+            "size": 856
+        },
+        "Identity": {
+            "Build": [
+                {
+                    "Ref": "9q803aflnnwbdx8l866cpkf4u",
+                    "CreatedAt": "2026-11-17T12:47:04.878254549Z"
+                }
+            ]
+        }
+    }
+]

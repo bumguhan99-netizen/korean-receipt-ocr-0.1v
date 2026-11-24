@@ -1,0 +1,23 @@
+{
+  "receipts": 304,
+  "total_crops": 10075,
+  "visually_reviewed_previously_verified": 8343,
+  "previously_excluded_not_rereviewed": 1732,
+  "text_changed": 418,
+  "newly_excluded": 0,
+  "changed_records": 418,
+  "verified_final": 8343,
+  "excluded_final": 1732,
+  "review_pages": 209,
+  "integrity_checks": "passed",
+  "original_labels_unchanged": true,
+  "scope": "recognition crops only; full-image coverage, detection boxes and word OCR not certified",
+  "source_root": "D:\\ssafy\\ocr\\mogumogu\\dataset\\receipt_labeled",
+  "created_at": "2026-11-17T23:50:02.737368+09:00",
+  "user_restored": 43,
+  "user_text_corrections": {
+    "r284_017": "국내산(체리부로)",
+    "r047_010": "]"
+  },
+  "version": "v3"
+}

@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "geometry_tests": 5,
+  "full_image": "r001",
+  "exact_raw_and_merged_reproduction": true
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-17",
+  "task": "Docker Linux GPU 환경에서 KORIE 전체 영수증 튜닝 전후 평가",
+  "status": "awaiting_windows_restart",
+  "completed": [
+    "요청한 평가 계획과 기존 코드·튜닝 export 조사",
+    "Microsoft-Windows-Subsystem-Linux 및 VirtualMachinePlatform 활성화 성공; 두 기능 RestartNeeded=true",
+    "Microsoft 서명 검증 후 WSL 3.0.5.0 설치; MSI exit=0",
+    "Docker Inc 서명 검증 후 Docker Desktop 4.99.0.245822 사용자 설치; exit=0",
+    "공식 KORIE 검출/OCR/IE train,val,test 9개 다운로드 및 SHA-256 기록; ZIP CRC 검사",
+    "Validation 검출 원본 154장·5105개 박스, OCR crop 1785개 이미지 로딩 및 라벨 검사",
+    "공식 한국어 인식 baseline과 PP-OCRv5_mobile_det 후보를 Hugging Face commit/hash로 고정",
+    "Dockerfile 및 재부팅 후 Linux GPU 기본 연산·역전파 검증 진입점 작성"
+  ],
+  "actual_host": {
+    "os": "Windows 11 Pro 25H2 build 26200",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti",
+    "vram_mib": 16303,
+    "driver": "616.56",
+    "cuda_umd_display": "13.4; 로컬 CUDA Toolkit 버전으로 해석하지 않음",
+    "cpu": "AMD Ryzen 7 7800X3D",
+    "host_tools_python": "3.12.10; OCR Linux 환경과 별도"
+  },
+  "blocker": {
+    "cause": "Windows 기능 활성화 후 재부팅 필요; WSL status에서 Virtual Machine Platform 미활성 상태, Docker Linux engine info 실패",
+    "restart_performed": false,
+    "required_user_action": "작업을 저장하고 Windows 재부팅 후 이 대화에 재부팅 완료라고 알려주기",
+    "authorization": "사용자가 이번 작업의 Docker·Linux 설치 권한 모두 허용; 재설치 승인 재요청 불필요"
+  },
+  "not_completed": [
+    "Linux 컨테이너 이미지 빌드 및 패키지 설치 검증",
+    "컨테이너 NVIDIA GPU 연산·역전파와 실제 OCR 호환성 확인",
+    "원본 좌표와 OCR 문자열의 확실한 연결 및 학습 crop 관계 감사",
+    "전체 영수증 실행기·평가기·개선/악화 시각화 구현",
+    "20장 Validation 시험 및 전체 Validation 평가",
+    "프로토콜 고정 후 최종 Test 평가 및 결과 보고"
+  ],
+  "data_findings": {
+    "detection_label_format": "YOLO class cx cy width height; 문자열 없음",
+    "class_mapping": "다운로드 ZIP 및 공식 저장소에 클래스 ID-필드명 매핑 미제공",
+    "scope": "Key Information Detection의 필드 박스; 모든 글자의 완전한 정답이라고 간주하지 않음",
+    "ocr_val_receipt_ids": 641,
+    "ocr_val_receipt_ids_in_detection_val": 128,
+    "ocr_val_crops_with_detection_val_receipt": 346,
+    "ie_format": "CSV; 좌표 없음",
+    "unverified": "동일 영수증 ID만으로 특정 박스와 전사를 임의 연결하지 말 것; 원본-crop 연결과 평가 범위 검증 필요"
+  },
+  "models": {
+    "candidate": "../training/exports/selected",
+    "baseline": "models/korean_PP-OCRv5_mobile_rec",
+    "detector_candidate": "models/PP-OCRv5_mobile_det",
+    "detector_note": "기존 검출기 가중치는 발견하지 못함. 사용자가 가리킨 training 한국어 모델은 recognition 모델. 공식 검출기는 새 고정 비교 기준 후보이며 기존 검출기라고 표현하지 말 것."
+  },
+  "resume": [
+    "STATUS.json과 audit_validation/report.json을 먼저 읽기",
+    "Windows 재부팅이 완료됐는지 확인 후 verify_linux_after_restart.ps1 실행",
+    "이 스크립트는 환경 검증만 수행하며 OCR 평가를 완료하지 않음",
+    "두 모델의 전처리/사전/출력 정합성 확인; 공식 baseline은 기존 초기 export와 별도 공급원임을 기록",
+    "Test를 설정 선택에 사용하지 말고 Validation으로 평가 프로토콜을 고정한 후 최종 실행"
+  ],
+  "evidence": [
+    "bootstrap/enable_wsl.log",
+    "bootstrap/wsl_features.json",
+    "bootstrap/wsl_msi.log",
+    "bootstrap/wsl_msi_exit.txt",
+    "bootstrap/docker_install_exit.txt",
+    "bootstrap/docker_installer_hash.json",
+    "records/*_download.json",
+    "sources/korie_repository.json",
+    "audit_validation/report.json",
+    "audit_validation/detection_boxes.jsonl",
+    "audit_validation/ocr_crops.jsonl",
+    "models/*/download_manifest.json"
+  ],
+  "official_references": [
+    "https://docs.docker.com/desktop/setup/install/windows-install/",
+    "https://learn.microsoft.com/en-us/windows/wsl/install",
+    "https://github.com/MahmoudSalah/KORIE",
+    "https://www.paddlepaddle.org.cn/documentation/docs/en/install/pip/linux-pip_en.html",
+    "https://www.paddleocr.ai/v3.7.0/en/version3.x/module_usage/text_detection.html"
+  ]
+}

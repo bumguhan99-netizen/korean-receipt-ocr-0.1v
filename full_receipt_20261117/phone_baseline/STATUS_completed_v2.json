@@ -1,0 +1,49 @@
+{
+  "status": "completed",
+  "scope": "pre-tuning diagnostic only",
+  "crop": {
+    "status": "completed",
+    "n": 8343,
+    "cer_pct": 8.177353924987546,
+    "wer_pct": 41.93164747120681,
+    "exact_match_pct": 59.486995085700585,
+    "numeric_symbol_only_n": 2698,
+    "numeric_symbol_only_exact_pct": 87.80578206078577,
+    "char_edits": 6894,
+    "gt_chars": 84306,
+    "word_edits": 6699,
+    "gt_words": 15976,
+    "seconds": 152.10800225600002,
+    "scope": "verified recognition crops; not full receipt accuracy",
+    "amount_em": null,
+    "amount_reason": "No structured field GT",
+    "future_holdout_warning": "Any diagnostic images inspected here must not later be described as an untouched test set"
+  },
+  "partial": {
+    "status": "completed",
+    "images": 304,
+    "seconds": 279.260918381,
+    "n": 8343,
+    "cer_pct": 21.450430574336345,
+    "wer_pct": 54.6006509764647,
+    "exact_match_pct": 47.440968476567186,
+    "numeric_symbol_only_n": 2698,
+    "numeric_symbol_only_exact_pct": 74.09191994069681,
+    "char_edits": 18084,
+    "gt_chars": 84306,
+    "word_edits": 8723,
+    "gt_words": 15976,
+    "matched_gt": 7233,
+    "missing_gt": 1110,
+    "partial_gt_recall": 0.8669543329737505,
+    "unscored_predictions": 7014,
+    "precision": null,
+    "scope": "verified boxes only, aligned coordinate images; missing GT counted as deletions; not complete receipt accuracy"
+  },
+  "raw": {
+    "status": "completed",
+    "images": 20,
+    "scope": "qualitative only"
+  },
+  "report": "analysis_v2/평가결과_및_튜닝제안_v1.txt"
+}

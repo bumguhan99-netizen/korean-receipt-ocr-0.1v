@@ -1,0 +1,45 @@
+{
+  "detection": {
+    "receipts": 154,
+    "boxes": 5105,
+    "classes": {
+      "15": 139,
+      "14": 148,
+      "5": 140,
+      "12": 133,
+      "7": 61,
+      "6": 144,
+      "9": 154,
+      "10": 154,
+      "13": 140,
+      "4": 662,
+      "0": 661,
+      "3": 629,
+      "16": 512,
+      "1": 636,
+      "2": 659,
+      "8": 131,
+      "11": 2
+    },
+    "text_annotations": false,
+    "class_id_to_field_mapping": "not provided in downloaded ZIP or repository"
+  },
+  "ocr": {
+    "crops": 1785,
+    "receipt_ids": 641,
+    "receipt_ids_in_detection_val": 128,
+    "crops_with_detection_val_receipt": 346,
+    "oov_samples": 0,
+    "label_length_over25": 79
+  },
+  "ie": {
+    "rows": 577,
+    "receipt_ids": 360,
+    "receipt_ids_in_detection_val": 72,
+    "bbox_annotations": false
+  },
+  "issues": [],
+  "scope": "Detection annotations cover key information classes, not a confirmed exhaustive text transcription.",
+  "linkage": "Receipt-ID linkage is available. Bbox-to-transcription correspondence is NOT verified; do not assign by class order or filename guess.",
+  "next": "Need verified class mapping and crop localization correspondence before GT-box OCR CER/EM. Full-image predictions and overlays remain possible."
+}

@@ -1,0 +1,1572 @@
+{
+  "name": "detection_val",
+  "source_url": "https://drive.google.com/file/d/15wXqZUzWaYEJu-rWZwCPuMvHFMZgWQOD/view",
+  "local_file": "detection_val.zip",
+  "size": 362965643,
+  "sha256": "6db08a5c8d40db764a47dad1d89c7f94066aa168e35b0b5cac4a9b5d66da0e93",
+  "downloaded_at": "2026-11-17T12:13:37.368916+00:00",
+  "entries": 311,
+  "uncompressed_bytes": 364524068,
+  "extensions": {
+    ".png": 135,
+    ".jpeg": 19,
+    ".txt": 154
+  },
+  "members": [
+    {
+      "name": "val/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "val/images/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "val/images/IMG00640.png",
+      "size": 4137626,
+      "crc": 3307192362
+    },
+    {
+      "name": "val/images/IMG00097.png",
+      "size": 2806711,
+      "crc": 928887978
+    },
+    {
+      "name": "val/images/IMG00521.png",
+      "size": 2263742,
+      "crc": 1860616937
+    },
+    {
+      "name": "val/images/IMG00671.png",
+      "size": 5637238,
+      "crc": 4005723600
+    },
+    {
+      "name": "val/images/IMG00083.png",
+      "size": 1608091,
+      "crc": 3996638281
+    },
+    {
+      "name": "val/images/IMG00657.png",
+      "size": 4498476,
+      "crc": 3232365476
+    },
+    {
+      "name": "val/images/IMG00327.png",
+      "size": 2377409,
+      "crc": 4199565005
+    },
+    {
+      "name": "val/images/IMG00439.png",
+      "size": 1836431,
+      "crc": 3174668242
+    },
+    {
+      "name": "val/images/IMG00610.png",
+      "size": 4171845,
+      "crc": 1229506666
+    },
+    {
+      "name": "val/images/IMG00744.jpeg",
+      "size": 1873610,
+      "crc": 3545552162
+    },
+    {
+      "name": "val/images/IMG00406.png",
+      "size": 1914398,
+      "crc": 2111562801
+    },
+    {
+      "name": "val/images/IMG00076.png",
+      "size": 2278400,
+      "crc": 3692687155
+    },
+    {
+      "name": "val/images/IMG00409.png",
+      "size": 2214192,
+      "crc": 154856922
+    },
+    {
+      "name": "val/images/IMG00680.jpeg",
+      "size": 911840,
+      "crc": 180901339
+    },
+    {
+      "name": "val/images/IMG00016.png",
+      "size": 2716500,
+      "crc": 460651208
+    },
+    {
+      "name": "val/images/IMG00189.png",
+      "size": 1850629,
+      "crc": 608807514
+    },
+    {
+      "name": "val/images/IMG00048.png",
+      "size": 2391158,
+      "crc": 2379429899
+    },
+    {
+      "name": "val/images/IMG00162.png",
+      "size": 2004634,
+      "crc": 102546803
+    },
+    {
+      "name": "val/images/IMG00056.png",
+      "size": 2050234,
+      "crc": 1082117931
+    },
+    {
+      "name": "val/images/IMG00529.png",
+      "size": 2720163,
+      "crc": 2048667105
+    },
+    {
+      "name": "val/images/IMG00331.png",
+      "size": 3098795,
+      "crc": 642246709
+    },
+    {
+      "name": "val/images/IMG00712.jpeg",
+      "size": 1301800,
+      "crc": 935447049
+    },
+    {
+      "name": "val/images/IMG00772.jpeg",
+      "size": 1389528,
+      "crc": 2314073503
+    },
+    {
+      "name": "val/images/IMG00025.png",
+      "size": 3171086,
+      "crc": 2005273987
+    },
+    {
+      "name": "val/images/IMG00270.png",
+      "size": 1396946,
+      "crc": 624731562
+    },
+    {
+      "name": "val/images/IMG00054.png",
+      "size": 1808636,
+      "crc": 1161312614
+    },
+    {
+      "name": "val/images/IMG00627.png",
+      "size": 4203474,
+      "crc": 3825546512
+    },
+    {
+      "name": "val/images/IMG00402.png",
+      "size": 2811349,
+      "crc": 2057823740
+    },
+    {
+      "name": "val/images/IMG00599.png",
+      "size": 2523287,
+      "crc": 1063352709
+    },
+    {
+      "name": "val/images/IMG00696.jpeg",
+      "size": 1532623,
+      "crc": 4264925772
+    },
+    {
+      "name": "val/images/IMG00428.png",
+      "size": 2884761,
+      "crc": 2098633318
+    },
+    {
+      "name": "val/images/IMG00074.png",
+      "size": 1970404,
+      "crc": 185562536
+    },
+    {
+      "name": "val/images/IMG00293.png",
+      "size": 2671431,
+      "crc": 4001932609
+    },
+    {
+      "name": "val/images/IMG00350.png",
+      "size": 1643288,
+      "crc": 167782127
+    },
+    {
+      "name": "val/images/IMG00243.png",
+      "size": 1590319,
+      "crc": 2776162221
+    },
+    {
+      "name": "val/images/IMG00230.png",
+      "size": 2076315,
+      "crc": 1761908679
+    },
+    {
+      "name": "val/images/IMG00757.jpeg",
+      "size": 1484873,
+      "crc": 2017982805
+    },
+    {
+      "name": "val/images/IMG00698.jpeg",
+      "size": 1266343,
+      "crc": 2785529
+    },
+    {
+      "name": "val/images/IMG00310.png",
+      "size": 3178998,
+      "crc": 3695947435
+    },
+    {
+      "name": "val/images/IMG00102.png",
+      "size": 2479405,
+      "crc": 2301449183
+    },
+    {
+      "name": "val/images/IMG00195.png",
+      "size": 1957220,
+      "crc": 56415689
+    },
+    {
+      "name": "val/images/IMG00212.png",
+      "size": 1706082,
+      "crc": 2484595086
+    },
+    {
+      "name": "val/images/IMG00548.png",
+      "size": 2358782,
+      "crc": 3248900237
+    },
+    {
+      "name": "val/images/IMG00153.png",
+      "size": 2147064,
+      "crc": 3565923295
+    },
+    {
+      "name": "val/images/IMG00496.png",
+      "size": 1718304,
+      "crc": 3540946874
+    },
+    {
+      "name": "val/images/IMG00253.png",
+      "size": 2866069,
+      "crc": 3016723930
+    },
+    {
+      "name": "val/images/IMG00706.jpeg",
+      "size": 1562885,
+      "crc": 1309014935
+    },
+    {
+      "name": "val/images/IMG00415.png",
+      "size": 1612087,
+      "crc": 1463395805
+    },
+    {
+      "name": "val/images/IMG00231.png",
+      "size": 1960691,
+      "crc": 838545524
+    },
+    {
+      "name": "val/images/IMG00117.png",
+      "size": 2340924,
+      "crc": 21246020
+    },
+    {
+      "name": "val/images/IMG00430.png",
+      "size": 2370510,
+      "crc": 1301448200
+    },
+    {
+      "name": "val/images/IMG00262.png",
+      "size": 2223780,
+      "crc": 1000547879
+    },
+    {
+      "name": "val/images/IMG00584.png",
+      "size": 4229131,
+      "crc": 3391562080
+    },
+    {
+      "name": "val/images/IMG00567.png",
+      "size": 2149766,
+      "crc": 2062762482
+    },
+    {
+      "name": "val/images/IMG00284.png",
+      "size": 2153011,
+      "crc": 3219585467
+    },
+    {
+      "name": "val/images/IMG00524.png",
+      "size": 2078191,
+      "crc": 4006778891
+    },
+    {
+      "name": "val/images/IMG00510.png",
+      "size": 3048556,
+      "crc": 115692529
+    },
+    {
+      "name": "val/images/IMG00138.png",
+      "size": 2977591,
+      "crc": 3160859639
+    },
+    {
+      "name": "val/images/IMG00418.png",
+      "size": 750174,
+      "crc": 4002373442
+    },
+    {
+      "name": "val/images/IMG00454.png",
+      "size": 2008220,
+      "crc": 1836895248
+    },
+    {
+      "name": "val/images/IMG00767.jpeg",
+      "size": 1887972,
+      "crc": 2401592020
+    },
+    {
+      "name": "val/images/IMG00686.jpeg",
+      "size": 717711,
+      "crc": 698224189
+    },
+    {
+      "name": "val/images/IMG00393.png",
+      "size": 1355389,
+      "crc": 581547055
+    },
+    {
+      "name": "val/images/IMG00223.png",
+      "size": 1774783,
+      "crc": 3600702077
+    },
+    {
+      "name": "val/images/IMG00018.png",
+      "size": 2115420,
+      "crc": 1212087788
+    },
+    {
+      "name": "val/images/IMG00399.png",
+      "size": 784779,
+      "crc": 1938699140
+    },
+    {
+      "name": "val/images/IMG00098.png",
+      "size": 3294285,
+      "crc": 2856387889
+    },
+    {
+      "name": "val/images/IMG00485.png",
+      "size": 2060237,
+      "crc": 465810147
+    },
+    {
+      "name": "val/images/IMG00566.png",
+      "size": 3488004,
+      "crc": 788422396
+    },
+    {
+      "name": "val/images/IMG00729.jpeg",
+      "size": 1021425,
+      "crc": 4288693249
+    },
+    {
+      "name": "val/images/IMG00113.png",
+      "size": 2523013,
+      "crc": 1788637666
+    },
+    {
+      "name": "val/images/IMG00740.jpeg",
+      "size": 1413064,
+      "crc": 397244138
+    },
+    {
+      "name": "val/images/IMG00549.png",
+      "size": 2619058,
+      "crc": 2408616190
+    },
+    {
+      "name": "val/images/IMG00533.png",
+      "size": 1647394,
+      "crc": 2350914854
+    },
+    {
+      "name": "val/images/IMG00561.png",
+      "size": 2312266,
+      "crc": 3718069511
+    },
+    {
+      "name": "val/images/IMG00305.png",
+      "size": 2129079,
+      "crc": 1744642152
+    },
+    {
+      "name": "val/images/IMG00691.jpeg",
+      "size": 1331078,
+      "crc": 735061135
+    },
+    {
+      "name": "val/images/IMG00252.png",
+      "size": 2722731,
+      "crc": 1507854474
+    },
+    {
+      "name": "val/images/IMG00094.png",
+      "size": 2974759,
+      "crc": 377016271
+    },
+    {
+      "name": "val/images/IMG00468.png",
+      "size": 2996958,
+      "crc": 949934898
+    },
+    {
+      "name": "val/images/IMG00169.png",
+      "size": 1957594,
+      "crc": 698677560
+    },
+    {
+      "name": "val/images/IMG00377.png",
+      "size": 1646432,
+      "crc": 593977006
+    },
+    {
+      "name": "val/images/IMG00651.png",
+      "size": 5487611,
+      "crc": 3047616098
+    },
+    {
+      "name": "val/images/IMG00199.png",
+      "size": 1938239,
+      "crc": 3927617137
+    },
+    {
+      "name": "val/images/IMG00595.png",
+      "size": 2621320,
+      "crc": 4018101513
+    },
+    {
+      "name": "val/images/IMG00497.png",
+      "size": 2474706,
+      "crc": 2394662396
+    },
+    {
+      "name": "val/images/IMG00050.png",
+      "size": 3230001,
+      "crc": 3993083368
+    },
+    {
+      "name": "val/images/IMG00526.png",
+      "size": 1816647,
+      "crc": 2376495980
+    },
+    {
+      "name": "val/images/IMG00261.png",
+      "size": 1469144,
+      "crc": 2205378240
+    },
+    {
+      "name": "val/images/IMG00644.png",
+      "size": 3493107,
+      "crc": 452300559
+    },
+    {
+      "name": "val/images/IMG00476.png",
+      "size": 2902251,
+      "crc": 1091087175
+    },
+    {
+      "name": "val/images/IMG00572.png",
+      "size": 3832481,
+      "crc": 3647381197
+    },
+    {
+      "name": "val/images/IMG00202.png",
+      "size": 1521123,
+      "crc": 3513143524
+    },
+    {
+      "name": "val/images/IMG00071.png",
+      "size": 4454886,
+      "crc": 3815748490
+    },
+    {
+      "name": "val/images/IMG00151.png",
+      "size": 2024166,
+      "crc": 3532255030
+    },
+    {
+      "name": "val/images/IMG00157.png",
+      "size": 1909743,
+      "crc": 1061741683
+    },
+    {
+      "name": "val/images/IMG00379.png",
+      "size": 3097897,
+      "crc": 3641207893
+    },
+    {
+      "name": "val/images/IMG00338.png",
+      "size": 3082238,
+      "crc": 433733884
+    },
+    {
+      "name": "val/images/IMG00367.png",
+      "size": 1397945,
+      "crc": 68556583
+    },
+    {
+      "name": "val/images/IMG00685.jpeg",
+      "size": 1045096,
+      "crc": 968018832
+    },
+    {
+      "name": "val/images/IMG00404.png",
+      "size": 2991727,
+      "crc": 2373374883
+    },
+    {
+      "name": "val/images/IMG00554.png",
+      "size": 1864870,
+      "crc": 2121161169
+    },
+    {
+      "name": "val/images/IMG00766.jpeg",
+      "size": 748649,
+      "crc": 636276905
+    },
+    {
+      "name": "val/images/IMG00128.png",
+      "size": 2425389,
+      "crc": 3999202172
+    },
+    {
+      "name": "val/images/IMG00073.png",
+      "size": 1482510,
+      "crc": 4292856825
+    },
+    {
+      "name": "val/images/IMG00667.png",
+      "size": 3827871,
+      "crc": 2684178061
+    },
+    {
+      "name": "val/images/IMG00028.png",
+      "size": 2145842,
+      "crc": 37093063
+    },
+    {
+      "name": "val/images/IMG00452.png",
+      "size": 1651881,
+      "crc": 977685441
+    },
+    {
+      "name": "val/images/IMG00457.png",
+      "size": 2438712,
+      "crc": 2320251018
+    },
+    {
+      "name": "val/images/IMG00661.png",
+      "size": 3616759,
+      "crc": 26946606
+    },
+    {
+      "name": "val/images/IMG00381.png",
+      "size": 1450177,
+      "crc": 744761622
+    },
+    {
+      "name": "val/images/IMG00583.png",
+      "size": 3607932,
+      "crc": 68234987
+    },
+    {
+      "name": "val/images/IMG00320.png",
+      "size": 1392257,
+      "crc": 1661667373
+    },
+    {
+      "name": "val/images/IMG00557.png",
+      "size": 2061056,
+      "crc": 98840288
+    },
+    {
+      "name": "val/images/IMG00099.png",
+      "size": 3176072,
+      "crc": 1633479052
+    },
+    {
+      "name": "val/images/IMG00733.jpeg",
+      "size": 1317538,
+      "crc": 1036864897
+    },
+    {
+      "name": "val/images/IMG00105.png",
+      "size": 3091379,
+      "crc": 271893747
+    },
+    {
+      "name": "val/images/IMG00444.png",
+      "size": 1745272,
+      "crc": 2261849581
+    },
+    {
+      "name": "val/images/IMG00675.png",
+      "size": 4533221,
+      "crc": 673936781
+    },
+    {
+      "name": "val/images/IMG00563.png",
+      "size": 2738387,
+      "crc": 2469566142
+    },
+    {
+      "name": "val/images/IMG00562.png",
+      "size": 2133776,
+      "crc": 3904102272
+    },
+    {
+      "name": "val/images/IMG00192.png",
+      "size": 2270120,
+      "crc": 2031327272
+    },
+    {
+      "name": "val/images/IMG00545.png",
+      "size": 2282598,
+      "crc": 2038017340
+    },
+    {
+      "name": "val/images/IMG00425.png",
+      "size": 2398141,
+      "crc": 4068050864
+    },
+    {
+      "name": "val/images/IMG00198.png",
+      "size": 1299345,
+      "crc": 2757396913
+    },
+    {
+      "name": "val/images/IMG00175.png",
+      "size": 3259705,
+      "crc": 3910817090
+    },
+    {
+      "name": "val/images/IMG00603.png",
+      "size": 4859857,
+      "crc": 1543588412
+    },
+    {
+      "name": "val/images/IMG00643.png",
+      "size": 5165178,
+      "crc": 4090334677
+    },
+    {
+      "name": "val/images/IMG00077.png",
+      "size": 3211546,
+      "crc": 1363395087
+    },
+    {
+      "name": "val/images/IMG00550.png",
+      "size": 3618969,
+      "crc": 3156278324
+    },
+    {
+      "name": "val/images/IMG00601.png",
+      "size": 3409658,
+      "crc": 1613687900
+    },
+    {
+      "name": "val/images/IMG00621.png",
+      "size": 5522015,
+      "crc": 3820158074
+    },
+    {
+      "name": "val/images/IMG00551.png",
+      "size": 1821064,
+      "crc": 1164754360
+    },
+    {
+      "name": "val/images/IMG00245.png",
+      "size": 1710548,
+      "crc": 3153575806
+    },
+    {
+      "name": "val/images/IMG00341.png",
+      "size": 2044834,
+      "crc": 3504244803
+    },
+    {
+      "name": "val/images/IMG00482.png",
+      "size": 1961966,
+      "crc": 1397522813
+    },
+    {
+      "name": "val/images/IMG00646.png",
+      "size": 4178955,
+      "crc": 1946394455
+    },
+    {
+      "name": "val/images/IMG00211.png",
+      "size": 1661078,
+      "crc": 804244467
+    },
+    {
+      "name": "val/images/IMG00160.png",
+      "size": 1537263,
+      "crc": 368622080
+    },
+    {
+      "name": "val/images/IMG00110.png",
+      "size": 1733418,
+      "crc": 3188293400
+    },
+    {
+      "name": "val/images/IMG00069.png",
+      "size": 3777828,
+      "crc": 2708903047
+    },
+    {
+      "name": "val/images/IMG00389.png",
+      "size": 1421570,
+      "crc": 3106370408
+    },
+    {
+      "name": "val/images/IMG00479.png",
+      "size": 1144447,
+      "crc": 249767412
+    },
+    {
+      "name": "val/images/IMG00306.png",
+      "size": 1841764,
+      "crc": 1109122951
+    },
+    {
+      "name": "val/images/IMG00089.png",
+      "size": 2342143,
+      "crc": 3350794145
+    },
+    {
+      "name": "val/images/IMG00716.jpeg",
+      "size": 1023122,
+      "crc": 1356422507
+    },
+    {
+      "name": "val/images/IMG00692.jpeg",
+      "size": 1507621,
+      "crc": 370057686
+    },
+    {
+      "name": "val/images/IMG00491.png",
+      "size": 2741878,
+      "crc": 664085726
+    },
+    {
+      "name": "val/images/IMG00236.png",
+      "size": 1733098,
+      "crc": 248379181
+    },
+    {
+      "name": "val/images/IMG00442.png",
+      "size": 2742823,
+      "crc": 3976617478
+    },
+    {
+      "name": "val/images/IMG00420.png",
+      "size": 1448621,
+      "crc": 506730010
+    },
+    {
+      "name": "val/images/IMG00773.jpeg",
+      "size": 789429,
+      "crc": 2173459690
+    },
+    {
+      "name": "val/images/IMG00535.png",
+      "size": 1920489,
+      "crc": 4175428886
+    },
+    {
+      "name": "val/images/IMG00215.png",
+      "size": 1753018,
+      "crc": 3341395933
+    },
+    {
+      "name": "val/labels/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "val/labels/IMG00640.txt",
+      "size": 1913,
+      "crc": 3660199401
+    },
+    {
+      "name": "val/labels/IMG00097.txt",
+      "size": 2759,
+      "crc": 1067141574
+    },
+    {
+      "name": "val/labels/IMG00521.txt",
+      "size": 3639,
+      "crc": 976646928
+    },
+    {
+      "name": "val/labels/IMG00671.txt",
+      "size": 6429,
+      "crc": 3389161524
+    },
+    {
+      "name": "val/labels/IMG00083.txt",
+      "size": 648,
+      "crc": 260270750
+    },
+    {
+      "name": "val/labels/IMG00657.txt",
+      "size": 2692,
+      "crc": 3871913123
+    },
+    {
+      "name": "val/labels/IMG00327.txt",
+      "size": 3618,
+      "crc": 2297687907
+    },
+    {
+      "name": "val/labels/IMG00439.txt",
+      "size": 4126,
+      "crc": 854284142
+    },
+    {
+      "name": "val/labels/IMG00610.txt",
+      "size": 1618,
+      "crc": 1138821791
+    },
+    {
+      "name": "val/labels/IMG00744.txt",
+      "size": 4166,
+      "crc": 372496174
+    },
+    {
+      "name": "val/labels/IMG00406.txt",
+      "size": 4975,
+      "crc": 1846803360
+    },
+    {
+      "name": "val/labels/IMG00076.txt",
+      "size": 1207,
+      "crc": 2882432673
+    },
+    {
+      "name": "val/labels/IMG00409.txt",
+      "size": 3235,
+      "crc": 1873072783
+    },
+    {
+      "name": "val/labels/IMG00680.txt",
+      "size": 1141,
+      "crc": 2941922278
+    },
+    {
+      "name": "val/labels/IMG00016.txt",
+      "size": 3163,
+      "crc": 4201181187
+    },
+    {
+      "name": "val/labels/IMG00189.txt",
+      "size": 3163,
+      "crc": 765050523
+    },
+    {
+      "name": "val/labels/IMG00048.txt",
+      "size": 4279,
+      "crc": 2142588852
+    },
+    {
+      "name": "val/labels/IMG00162.txt",
+      "size": 3150,
+      "crc": 2901809206
+    },
+    {
+      "name": "val/labels/IMG00056.txt",
+      "size": 1136,
+      "crc": 7572772
+    },
+    {
+      "name": "val/labels/IMG00529.txt",
+      "size": 2652,
+      "crc": 301044693
+    },
+    {
+      "name": "val/labels/IMG00331.txt",
+      "size": 7015,
+      "crc": 682237159
+    },
+    {
+      "name": "val/labels/IMG00712.txt",
+      "size": 1600,
+      "crc": 1503617670
+    },
+    {
+      "name": "val/labels/IMG00772.txt",
+      "size": 3267,
+      "crc": 3249464374
+    },
+    {
+      "name": "val/labels/IMG00025.txt",
+      "size": 3027,
+      "crc": 3933492080
+    },
+    {
+      "name": "val/labels/IMG00270.txt",
+      "size": 2107,
+      "crc": 323476770
+    },
+    {
+      "name": "val/labels/IMG00054.txt",
+      "size": 1054,
+      "crc": 1746639632
+    },
+    {
+      "name": "val/labels/IMG00627.txt",
+      "size": 1125,
+      "crc": 3412706018
+    },
+    {
+      "name": "val/labels/IMG00402.txt",
+      "size": 5406,
+      "crc": 1064427467
+    },
+    {
+      "name": "val/labels/IMG00599.txt",
+      "size": 1195,
+      "crc": 1807728483
+    },
+    {
+      "name": "val/labels/IMG00696.txt",
+      "size": 3534,
+      "crc": 1873603186
+    },
+    {
+      "name": "val/labels/IMG00428.txt",
+      "size": 4921,
+      "crc": 1055162803
+    },
+    {
+      "name": "val/labels/IMG00074.txt",
+      "size": 2023,
+      "crc": 3697239695
+    },
+    {
+      "name": "val/labels/IMG00293.txt",
+      "size": 1133,
+      "crc": 2991038638
+    },
+    {
+      "name": "val/labels/IMG00350.txt",
+      "size": 2276,
+      "crc": 2416783486
+    },
+    {
+      "name": "val/labels/IMG00243.txt",
+      "size": 4120,
+      "crc": 1010647974
+    },
+    {
+      "name": "val/labels/IMG00230.txt",
+      "size": 3640,
+      "crc": 1393198136
+    },
+    {
+      "name": "val/labels/IMG00757.txt",
+      "size": 1601,
+      "crc": 4007063158
+    },
+    {
+      "name": "val/labels/IMG00698.txt",
+      "size": 1133,
+      "crc": 910780096
+    },
+    {
+      "name": "val/labels/IMG00310.txt",
+      "size": 3060,
+      "crc": 3188052769
+    },
+    {
+      "name": "val/labels/IMG00102.txt",
+      "size": 2169,
+      "crc": 2017886706
+    },
+    {
+      "name": "val/labels/IMG00195.txt",
+      "size": 1049,
+      "crc": 1539557686
+    },
+    {
+      "name": "val/labels/IMG00212.txt",
+      "size": 1209,
+      "crc": 1511537202
+    },
+    {
+      "name": "val/labels/IMG00548.txt",
+      "size": 3166,
+      "crc": 1093794943
+    },
+    {
+      "name": "val/labels/IMG00153.txt",
+      "size": 2189,
+      "crc": 2493262421
+    },
+    {
+      "name": "val/labels/IMG00496.txt",
+      "size": 1297,
+      "crc": 1555192807
+    },
+    {
+      "name": "val/labels/IMG00253.txt",
+      "size": 1438,
+      "crc": 544237591
+    },
+    {
+      "name": "val/labels/IMG00706.txt",
+      "size": 2108,
+      "crc": 3013754980
+    },
+    {
+      "name": "val/labels/IMG00415.txt",
+      "size": 1695,
+      "crc": 872375700
+    },
+    {
+      "name": "val/labels/IMG00231.txt",
+      "size": 2731,
+      "crc": 3901806037
+    },
+    {
+      "name": "val/labels/IMG00117.txt",
+      "size": 7050,
+      "crc": 838826788
+    },
+    {
+      "name": "val/labels/IMG00430.txt",
+      "size": 2649,
+      "crc": 609418005
+    },
+    {
+      "name": "val/labels/IMG00262.txt",
+      "size": 4129,
+      "crc": 2791028132
+    },
+    {
+      "name": "val/labels/IMG00584.txt",
+      "size": 4442,
+      "crc": 363290700
+    },
+    {
+      "name": "val/labels/IMG00567.txt",
+      "size": 1441,
+      "crc": 3385532741
+    },
+    {
+      "name": "val/labels/IMG00284.txt",
+      "size": 5005,
+      "crc": 3391099948
+    },
+    {
+      "name": "val/labels/IMG00524.txt",
+      "size": 1697,
+      "crc": 3953191395
+    },
+    {
+      "name": "val/labels/IMG00510.txt",
+      "size": 4431,
+      "crc": 1517764535
+    },
+    {
+      "name": "val/labels/IMG00138.txt",
+      "size": 3193,
+      "crc": 407843942
+    },
+    {
+      "name": "val/labels/IMG00418.txt",
+      "size": 883,
+      "crc": 141619029
+    },
+    {
+      "name": "val/labels/IMG00454.txt",
+      "size": 2505,
+      "crc": 2767506722
+    },
+    {
+      "name": "val/labels/IMG00767.txt",
+      "size": 3577,
+      "crc": 2969989308
+    },
+    {
+      "name": "val/labels/IMG00686.txt",
+      "size": 1542,
+      "crc": 724832
+    },
+    {
+      "name": "val/labels/IMG00393.txt",
+      "size": 1132,
+      "crc": 3511501695
+    },
+    {
+      "name": "val/labels/IMG00223.txt",
+      "size": 1779,
+      "crc": 4226508478
+    },
+    {
+      "name": "val/labels/IMG00018.txt",
+      "size": 2088,
+      "crc": 2551646358
+    },
+    {
+      "name": "val/labels/IMG00399.txt",
+      "size": 804,
+      "crc": 2529196054
+    },
+    {
+      "name": "val/labels/IMG00098.txt",
+      "size": 2749,
+      "crc": 3297123770
+    },
+    {
+      "name": "val/labels/IMG00485.txt",
+      "size": 2254,
+      "crc": 2413667772
+    },
+    {
+      "name": "val/labels/IMG00566.txt",
+      "size": 1948,
+      "crc": 2299343665
+    },
+    {
+      "name": "val/labels/IMG00729.txt",
+      "size": 321,
+      "crc": 3054269678
+    },
+    {
+      "name": "val/labels/IMG00113.txt",
+      "size": 1224,
+      "crc": 3293249057
+    },
+    {
+      "name": "val/labels/IMG00740.txt",
+      "size": 1053,
+      "crc": 3437015914
+    },
+    {
+      "name": "val/labels/IMG00549.txt",
+      "size": 5058,
+      "crc": 849623550
+    },
+    {
+      "name": "val/labels/IMG00533.txt",
+      "size": 1693,
+      "crc": 3262205941
+    },
+    {
+      "name": "val/labels/IMG00561.txt",
+      "size": 2998,
+      "crc": 1875961294
+    },
+    {
+      "name": "val/labels/IMG00305.txt",
+      "size": 2244,
+      "crc": 3208490905
+    },
+    {
+      "name": "val/labels/IMG00691.txt",
+      "size": 1137,
+      "crc": 1773973455
+    },
+    {
+      "name": "val/labels/IMG00252.txt",
+      "size": 971,
+      "crc": 795120420
+    },
+    {
+      "name": "val/labels/IMG00094.txt",
+      "size": 973,
+      "crc": 2066571103
+    },
+    {
+      "name": "val/labels/IMG00468.txt",
+      "size": 3674,
+      "crc": 1149459207
+    },
+    {
+      "name": "val/labels/IMG00169.txt",
+      "size": 2267,
+      "crc": 3636521547
+    },
+    {
+      "name": "val/labels/IMG00377.txt",
+      "size": 3141,
+      "crc": 718904090
+    },
+    {
+      "name": "val/labels/IMG00651.txt",
+      "size": 3552,
+      "crc": 4022950787
+    },
+    {
+      "name": "val/labels/IMG00199.txt",
+      "size": 1707,
+      "crc": 466934100
+    },
+    {
+      "name": "val/labels/IMG00595.txt",
+      "size": 3698,
+      "crc": 1072996161
+    },
+    {
+      "name": "val/labels/IMG00497.txt",
+      "size": 1218,
+      "crc": 48980445
+    },
+    {
+      "name": "val/labels/IMG00050.txt",
+      "size": 5042,
+      "crc": 837507565
+    },
+    {
+      "name": "val/labels/IMG00526.txt",
+      "size": 820,
+      "crc": 1539707313
+    },
+    {
+      "name": "val/labels/IMG00261.txt",
+      "size": 1131,
+      "crc": 3066921919
+    },
+    {
+      "name": "val/labels/IMG00644.txt",
+      "size": 4133,
+      "crc": 2248459939
+    },
+    {
+      "name": "val/labels/IMG00476.txt",
+      "size": 1207,
+      "crc": 699316939
+    },
+    {
+      "name": "val/labels/IMG00572.txt",
+      "size": 3083,
+      "crc": 796861133
+    },
+    {
+      "name": "val/labels/IMG00202.txt",
+      "size": 1205,
+      "crc": 1853158877
+    },
+    {
+      "name": "val/labels/IMG00071.txt",
+      "size": 1215,
+      "crc": 3726153088
+    },
+    {
+      "name": "val/labels/IMG00151.txt",
+      "size": 1677,
+      "crc": 3835809605
+    },
+    {
+      "name": "val/labels/IMG00157.txt",
+      "size": 2670,
+      "crc": 3642715139
+    },
+    {
+      "name": "val/labels/IMG00379.txt",
+      "size": 8138,
+      "crc": 2240078324
+    },
+    {
+      "name": "val/labels/IMG00338.txt",
+      "size": 4657,
+      "crc": 393297115
+    },
+    {
+      "name": "val/labels/IMG00367.txt",
+      "size": 1712,
+      "crc": 3362759680
+    },
+    {
+      "name": "val/labels/IMG00685.txt",
+      "size": 1218,
+      "crc": 2009360202
+    },
+    {
+      "name": "val/labels/IMG00404.txt",
+      "size": 5808,
+      "crc": 3418789217
+    },
+    {
+      "name": "val/labels/IMG00554.txt",
+      "size": 3065,
+      "crc": 4168900060
+    },
+    {
+      "name": "val/labels/IMG00766.txt",
+      "size": 3651,
+      "crc": 1696070267
+    },
+    {
+      "name": "val/labels/IMG00128.txt",
+      "size": 2107,
+      "crc": 205258748
+    },
+    {
+      "name": "val/labels/IMG00073.txt",
+      "size": 650,
+      "crc": 1727668782
+    },
+    {
+      "name": "val/labels/IMG00667.txt",
+      "size": 6003,
+      "crc": 1382259481
+    },
+    {
+      "name": "val/labels/IMG00028.txt",
+      "size": 1120,
+      "crc": 3304722057
+    },
+    {
+      "name": "val/labels/IMG00452.txt",
+      "size": 1781,
+      "crc": 2915476351
+    },
+    {
+      "name": "val/labels/IMG00457.txt",
+      "size": 6152,
+      "crc": 3712191791
+    },
+    {
+      "name": "val/labels/IMG00661.txt",
+      "size": 4363,
+      "crc": 3428947191
+    },
+    {
+      "name": "val/labels/IMG00381.txt",
+      "size": 1377,
+      "crc": 1455191783
+    },
+    {
+      "name": "val/labels/IMG00583.txt",
+      "size": 3982,
+      "crc": 3294417867
+    },
+    {
+      "name": "val/labels/IMG00320.txt",
+      "size": 2351,
+      "crc": 807158514
+    },
+    {
+      "name": "val/labels/IMG00557.txt",
+      "size": 2675,
+      "crc": 1748446398
+    },
+    {
+      "name": "val/labels/IMG00099.txt",
+      "size": 2671,
+      "crc": 1742381278
+    },
+    {
+      "name": "val/labels/IMG00733.txt",
+      "size": 1137,
+      "crc": 845798612
+    },
+    {
+      "name": "val/labels/IMG00105.txt",
+      "size": 2248,
+      "crc": 602708006
+    },
+    {
+      "name": "val/labels/IMG00444.txt",
+      "size": 2891,
+      "crc": 1966408762
+    },
+    {
+      "name": "val/labels/IMG00675.txt",
+      "size": 5015,
+      "crc": 1677080947
+    },
+    {
+      "name": "val/labels/IMG00563.txt",
+      "size": 813,
+      "crc": 1595986890
+    },
+    {
+      "name": "val/labels/IMG00562.txt",
+      "size": 3231,
+      "crc": 88976360
+    },
+    {
+      "name": "val/labels/IMG00192.txt",
+      "size": 2197,
+      "crc": 245941249
+    },
+    {
+      "name": "val/labels/IMG00545.txt",
+      "size": 3626,
+      "crc": 3099563323
+    },
+    {
+      "name": "val/labels/IMG00425.txt",
+      "size": 3465,
+      "crc": 3772980452
+    },
+    {
+      "name": "val/labels/IMG00198.txt",
+      "size": 1704,
+      "crc": 2629366565
+    },
+    {
+      "name": "val/labels/IMG00175.txt",
+      "size": 3092,
+      "crc": 359674619
+    },
+    {
+      "name": "val/labels/IMG00603.txt",
+      "size": 4110,
+      "crc": 1138190811
+    },
+    {
+      "name": "val/labels/IMG00643.txt",
+      "size": 2108,
+      "crc": 3163833760
+    },
+    {
+      "name": "val/labels/IMG00077.txt",
+      "size": 1695,
+      "crc": 3853559258
+    },
+    {
+      "name": "val/labels/IMG00550.txt",
+      "size": 4375,
+      "crc": 3938690886
+    },
+    {
+      "name": "val/labels/IMG00601.txt",
+      "size": 2195,
+      "crc": 615435700
+    },
+    {
+      "name": "val/labels/IMG00621.txt",
+      "size": 2077,
+      "crc": 1343954055
+    },
+    {
+      "name": "val/labels/IMG00551.txt",
+      "size": 1187,
+      "crc": 1260839501
+    },
+    {
+      "name": "val/labels/IMG00245.txt",
+      "size": 4619,
+      "crc": 1258598176
+    },
+    {
+      "name": "val/labels/IMG00341.txt",
+      "size": 3217,
+      "crc": 1538390661
+    },
+    {
+      "name": "val/labels/IMG00482.txt",
+      "size": 2657,
+      "crc": 973692470
+    },
+    {
+      "name": "val/labels/IMG00646.txt",
+      "size": 5036,
+      "crc": 3020512412
+    },
+    {
+      "name": "val/labels/IMG00211.txt",
+      "size": 1692,
+      "crc": 3412738366
+    },
+    {
+      "name": "val/labels/IMG00160.txt",
+      "size": 1700,
+      "crc": 2202955863
+    },
+    {
+      "name": "val/labels/IMG00110.txt",
+      "size": 2197,
+      "crc": 2261505092
+    },
+    {
+      "name": "val/labels/IMG00069.txt",
+      "size": 3167,
+      "crc": 4080956403
+    },
+    {
+      "name": "val/labels/IMG00389.txt",
+      "size": 2021,
+      "crc": 1604625371
+    },
+    {
+      "name": "val/labels/IMG00479.txt",
+      "size": 1214,
+      "crc": 312272561
+    },
+    {
+      "name": "val/labels/IMG00306.txt",
+      "size": 2270,
+      "crc": 1779731152
+    },
+    {
+      "name": "val/labels/IMG00089.txt",
+      "size": 4612,
+      "crc": 274682299
+    },
+    {
+      "name": "val/labels/IMG00716.txt",
+      "size": 2184,
+      "crc": 1168010293
+    },
+    {
+      "name": "val/labels/IMG00692.txt",
+      "size": 1439,
+      "crc": 3906899487
+    },
+    {
+      "name": "val/labels/IMG00491.txt",
+      "size": 1767,
+      "crc": 4077743556
+    },
+    {
+      "name": "val/labels/IMG00236.txt",
+      "size": 2672,
+      "crc": 2089029026
+    },
+    {
+      "name": "val/labels/IMG00442.txt",
+      "size": 1206,
+      "crc": 1547440073
+    },
+    {
+      "name": "val/labels/IMG00420.txt",
+      "size": 3219,
+      "crc": 2723337208
+    },
+    {
+      "name": "val/labels/IMG00773.txt",
+      "size": 3215,
+      "crc": 1578310894
+    },
+    {
+      "name": "val/labels/IMG00535.txt",
+      "size": 1767,
+      "crc": 20401548
+    },
+    {
+      "name": "val/labels/IMG00215.txt",
+      "size": 1699,
+      "crc": 2405960292
+    }
+  ]
+}

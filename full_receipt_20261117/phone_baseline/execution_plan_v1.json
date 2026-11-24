@@ -1,0 +1,20 @@
+{
+  "scope": "Pre-tuning diagnostic evaluation; no smartphone-data training in this run",
+  "model": "round2/run_001/export",
+  "model_weights_sha256": "10e0e6b65bce1582339440abcf844e1c1e40a1d6357c5722a177c0dabce8a155",
+  "dataset": "dataset/receipt_labeled",
+  "manifest": "phone_baseline/audit_v2/manifest.jsonl",
+  "population": {"receipts":304,"verified_lines":8343,"excluded_lines":1732},
+  "steps": [
+    "Evaluate all verified original crops using NFC-only CER/EM and numeric-symbol EM",
+    "Evaluate aligned coordinate images with fixed detector and IoU>=0.5 maximum-cardinality one-to-one matching; score missed GT as empty predictions",
+    "Persist detection crops, all predictions, and overlays; unannotated detections remain unscored",
+    "Qualitatively inspect a deterministic 20-image subset of unaligned source PNGs; do not assign aligned GT to raw coordinates",
+    "Compare recognition errors against detection/matching failures and prepare prioritized tuning recommendations"
+  ],
+  "holdout_policy": "This is all-data diagnostic evaluation, not an untouched test set. Future final generalization testing requires pre-isolated or newly collected receipt/rephotograph groups.",
+  "prohibited_claims": ["complete-receipt CER","full detection precision","amount-field accuracy without field GT"],
+  "runtime": "mogumogu-korie-training:20261117",
+  "outputs": ["crops_diagnostic_v1","aligned_partial_v1","raw_preview_v2","analysis_v1"],
+  "retry_note": "raw_preview_v1 stopped on a polygon list/array conversion error; preserved and retried in raw_preview_v2 after accepting either representation"
+}

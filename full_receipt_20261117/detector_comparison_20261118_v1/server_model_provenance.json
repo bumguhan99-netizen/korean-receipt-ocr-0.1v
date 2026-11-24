@@ -1,0 +1,24 @@
+{
+  "repo": "PaddlePaddle/PP-OCRv5_server_det",
+  "revision": "ca867c897ecbca8873081573a802ad70d499cb94",
+  "files": [
+    {
+      "name": "inference.json",
+      "bytes": 402480,
+      "sha256": "af5876933d8806a1b50d895867e0781e135cd92ff37381992828fc8d1b842d28",
+      "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det/resolve/ca867c897ecbca8873081573a802ad70d499cb94/inference.json"
+    },
+    {
+      "name": "inference.yml",
+      "bytes": 903,
+      "sha256": "28fb721efc3634fc8aa677e474b9602cb815a91cf569ef357a7a553d7b3ce685",
+      "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det/resolve/ca867c897ecbca8873081573a802ad70d499cb94/inference.yml"
+    },
+    {
+      "name": "inference.pdiparams",
+      "bytes": 87932887,
+      "sha256": "183146fe9d9910352f68482f623bcbbb9fa7b9e8fa1463b9ad288cef00524d2d",
+      "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det/resolve/ca867c897ecbca8873081573a802ad70d499cb94/inference.pdiparams"
+    }
+  ]
+}

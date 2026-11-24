@@ -1,0 +1,243 @@
+{
+  "before": {
+    "status": "completed",
+    "n": 8343,
+    "cer_pct": 21.450430574336345,
+    "wer_pct": 54.6006509764647,
+    "exact_match_pct": 47.440968476567186,
+    "numeric_symbol_only_n": 2698,
+    "numeric_symbol_only_exact_pct": 74.09191994069681,
+    "char_edits": 18084,
+    "gt_chars": 84306,
+    "word_edits": 8723,
+    "gt_words": 15976,
+    "missing_gt": 1110,
+    "unscored_predictions": 7014,
+    "merge": false,
+    "subset": "all",
+    "images": 304,
+    "recovered_missing": 0,
+    "recovered_missing_exact": 0,
+    "recovered_624_exact": 0,
+    "regressed_exact": 0,
+    "improved_exact": 0,
+    "development": {
+      "n": 1407,
+      "cer_pct": 20.40088451387403,
+      "wer_pct": 54.28885630498534,
+      "exact_match_pct": 47.76119402985075,
+      "numeric_symbol_only_n": 463,
+      "numeric_symbol_only_exact_pct": 72.13822894168466,
+      "char_edits": 2860,
+      "gt_chars": 14019,
+      "word_edits": 1481,
+      "gt_words": 2728,
+      "missing_gt": 173
+    },
+    "confirmation": {
+      "n": 6936,
+      "cer_pct": 21.65976638638724,
+      "wer_pct": 54.664855072463766,
+      "exact_match_pct": 47.3760092272203,
+      "numeric_symbol_only_n": 2235,
+      "numeric_symbol_only_exact_pct": 74.49664429530202,
+      "char_edits": 15224,
+      "gt_chars": 70287,
+      "word_edits": 7242,
+      "gt_words": 13248,
+      "missing_gt": 937
+    }
+  },
+  "after": {
+    "status": "completed",
+    "n": 8343,
+    "cer_pct": 20.524043365833986,
+    "wer_pct": 51.86529794692038,
+    "exact_match_pct": 50.269687162891046,
+    "numeric_symbol_only_n": 2698,
+    "numeric_symbol_only_exact_pct": 78.05782060785768,
+    "char_edits": 17303,
+    "gt_chars": 84306,
+    "word_edits": 8286,
+    "gt_words": 15976,
+    "missing_gt": 984,
+    "unscored_predictions": 8111,
+    "merge": true,
+    "subset": "all",
+    "images": 304,
+    "recovered_missing": 353,
+    "recovered_missing_exact": 148,
+    "recovered_624_exact": 296,
+    "regressed_exact": 317,
+    "improved_exact": 553,
+    "development": {
+      "n": 1407,
+      "cer_pct": 17.88287324345531,
+      "wer_pct": 49.266862170087975,
+      "exact_match_pct": 52.09665955934613,
+      "numeric_symbol_only_n": 463,
+      "numeric_symbol_only_exact_pct": 79.6976241900648,
+      "char_edits": 2507,
+      "gt_chars": 14019,
+      "word_edits": 1344,
+      "gt_words": 2728,
+      "missing_gt": 140
+    },
+    "confirmation": {
+      "n": 6936,
+      "cer_pct": 21.05083443595544,
+      "wer_pct": 52.40036231884058,
+      "exact_match_pct": 49.89907727797001,
+      "numeric_symbol_only_n": 2235,
+      "numeric_symbol_only_exact_pct": 77.71812080536913,
+      "char_edits": 14796,
+      "gt_chars": 70287,
+      "word_edits": 6942,
+      "gt_words": 13248,
+      "missing_gt": 844
+    }
+  },
+  "detector_only": {
+    "status": "completed",
+    "n": 8343,
+    "cer_pct": 20.579792660071643,
+    "wer_pct": 51.92789183775663,
+    "exact_match_pct": 50.365575931918976,
+    "numeric_symbol_only_n": 2698,
+    "numeric_symbol_only_exact_pct": 78.31727205337288,
+    "char_edits": 17350,
+    "gt_chars": 84306,
+    "word_edits": 8296,
+    "gt_words": 15976,
+    "missing_gt": 983,
+    "unscored_predictions": 8394,
+    "merge": false,
+    "subset": "all",
+    "images": 304,
+    "recovered_missing": 345,
+    "recovered_missing_exact": 151,
+    "recovered_624_exact": 290,
+    "regressed_exact": 304,
+    "improved_exact": 548,
+    "development": {
+      "n": 1407,
+      "cer_pct": 17.99700406591055,
+      "wer_pct": 49.30351906158358,
+      "exact_match_pct": 51.954513148543,
+      "numeric_symbol_only_n": 463,
+      "numeric_symbol_only_exact_pct": 79.26565874730022,
+      "char_edits": 2523,
+      "gt_chars": 14019,
+      "word_edits": 1345,
+      "gt_words": 2728,
+      "missing_gt": 140
+    },
+    "confirmation": {
+      "n": 6936,
+      "cer_pct": 21.094939320215687,
+      "wer_pct": 52.468297101449274,
+      "exact_match_pct": 50.04325259515571,
+      "numeric_symbol_only_n": 2235,
+      "numeric_symbol_only_exact_pct": 78.12080536912751,
+      "char_edits": 14827,
+      "gt_chars": 70287,
+      "word_edits": 6951,
+      "gt_words": 13248,
+      "missing_gt": 843
+    }
+  },
+  "policy": {
+    "resolution": 1920,
+    "limit_type": "max",
+    "thresh": 0.3,
+    "box_thresh": 0.45,
+    "unclip_ratio": 1.2,
+    "merge": true,
+    "selection": "lowest development CER among prespecified evaluated candidates; 48 source-hash groups; frozen before remaining 256 receipts",
+    "scope": "Previously inspected diagnostic corpus, not untouched test",
+    "script_sha256": "ccee2f6ed68aca86c54e1257f828c25a6b4c72e62ddc76427da476d52909ebcf"
+  },
+  "causes": {
+    "missing": {
+      "covered_but_box_too_large": 494,
+      "split_into_multiple_boxes": 335,
+      "little_or_no_detection": 144,
+      "partial_overlap_or_offset": 137
+    },
+    "crop_correct_full_wrong": {
+      "recognition_sensitive_to_crop": 413,
+      "whitespace_only": 83,
+      "potential_split_or_clipped": 102,
+      "partial_coverage": 26
+    }
+  },
+  "cause_outcomes": {
+    "covered_but_box_too_large": {
+      "n": 494,
+      "after_matched": 169,
+      "after_exact": 88,
+      "before_edits": 2332,
+      "after_edits": 1695
+    },
+    "little_or_no_detection": {
+      "n": 144,
+      "after_matched": 56,
+      "after_exact": 33,
+      "before_edits": 712,
+      "after_edits": 439
+    },
+    "partial_coverage": {
+      "n": 26,
+      "after_matched": 23,
+      "after_exact": 5,
+      "before_edits": 62,
+      "after_edits": 59
+    },
+    "partial_overlap_or_offset": {
+      "n": 137,
+      "after_matched": 34,
+      "after_exact": 11,
+      "before_edits": 1089,
+      "after_edits": 951
+    },
+    "potential_split_or_clipped": {
+      "n": 102,
+      "after_matched": 81,
+      "after_exact": 14,
+      "before_edits": 478,
+      "after_edits": 588
+    },
+    "recognition_sensitive_to_crop": {
+      "n": 413,
+      "after_matched": 394,
+      "after_exact": 225,
+      "before_edits": 687,
+      "after_edits": 528
+    },
+    "split_into_multiple_boxes": {
+      "n": 335,
+      "after_matched": 94,
+      "after_exact": 16,
+      "before_edits": 4928,
+      "after_edits": 4111
+    },
+    "whitespace_only": {
+      "n": 83,
+      "after_matched": 81,
+      "after_exact": 52,
+      "before_edits": 101,
+      "after_edits": 55
+    }
+  },
+  "newly_unmatched": 227,
+  "checks": {
+    "same_lines": true,
+    "same_images": true,
+    "same_model": true,
+    "same_detector_weights": true,
+    "same_scoring": true,
+    "baseline_48_receipts_2436_detections_reproduced": true,
+    "pilot_full_rerun_equal": true
+  },
+  "scope": "paired diagnostic comparison on aligned images with partial GT; not untouched test; unannotated detections unscored"
+}

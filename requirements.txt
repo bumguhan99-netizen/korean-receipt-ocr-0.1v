@@ -1,0 +1,23 @@
+# Project environment index (2026-11-17; local metadata / recorded pip freeze).
+# Install this file for receipt preparation/review scripts only:
+#   python -m pip install -r requirements.txt
+# Windows Python 3.11.9 recorded in venv/pyvenv.cfg.
+# That old venv currently points to a missing Python; create a fresh environment.
+Pillow==12.1.0
+
+# Keep the following environments separate: their dependencies differ.
+# OCR baseline: ocr_baseline/requirements.txt
+#   Full recorded versions: ocr_baseline/requirements.lock.txt
+# GLM-OCR: ocr_baseline/requirements-glm.txt
+#   Full recorded versions: ocr_baseline/requirements-glm.lock.txt
+#   Torch CUDA installation instructions: ocr_baseline/GLM_OCR.md
+# KORIE GPU training: training/requirements.txt
+#   Full recorded versions: training/requirements.lock.txt
+#   WSL/Linux CPython 3.11; Paddle GPU 3.3.0; CUDA runtime 12.9;
+#   PaddleOCR 3.7.0; PaddleX 3.7.2; numpy 2.3.5; Pillow 12.1.0.
+#   PaddleOCR source commit: b03f46425e8ff4442b268ce449e3eef758146cd4
+#   GPU/backprop passed in the existing training/records/gpu_check.log.
+#   Driver API/UMD 13.3 is NOT the installed CUDA Toolkit version.
+# These are recorded environments, not a new installation verification.
+# Do not combine Paddle CPU/GPU or baseline/GLM/training into one environment.
+# OS packages, NVIDIA driver and Windows Korean OCR are not pip dependencies.

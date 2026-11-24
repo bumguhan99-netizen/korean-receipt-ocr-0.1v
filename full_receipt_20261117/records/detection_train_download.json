@@ -1,0 +1,4672 @@
+{
+  "name": "detection_train",
+  "source_url": "https://drive.google.com/file/d/1M3C_xG8Vg47DIbPP2fYpXs6mv5t6YOVq/view",
+  "local_file": "detection_train.zip",
+  "size": 1055990813,
+  "sha256": "2391664bf55ecc5c93631c1a613926c5f906602587be95bff10ae76d37abded0",
+  "downloaded_at": "2026-11-17T12:16:38.070977+00:00",
+  "entries": 931,
+  "uncompressed_bytes": 1060891808,
+  "extensions": {
+    ".png": 408,
+    ".jpeg": 56,
+    ".txt": 464
+  },
+  "members": [
+    {
+      "name": "train/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "train/images/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "train/images/IMG00092.png",
+      "size": 2447120,
+      "crc": 2521265428
+    },
+    {
+      "name": "train/images/IMG00046.png",
+      "size": 4266899,
+      "crc": 3280350675
+    },
+    {
+      "name": "train/images/IMG00222.png",
+      "size": 1834139,
+      "crc": 2967866183
+    },
+    {
+      "name": "train/images/IMG00660.png",
+      "size": 3407759,
+      "crc": 590275699
+    },
+    {
+      "name": "train/images/IMG00219.png",
+      "size": 2062470,
+      "crc": 1196506027
+    },
+    {
+      "name": "train/images/IMG00523.png",
+      "size": 2268560,
+      "crc": 1946369036
+    },
+    {
+      "name": "train/images/IMG00311.png",
+      "size": 2949055,
+      "crc": 456477860
+    },
+    {
+      "name": "train/images/IMG00624.png",
+      "size": 5612576,
+      "crc": 1724806004
+    },
+    {
+      "name": "train/images/IMG00615.png",
+      "size": 4941712,
+      "crc": 420681814
+    },
+    {
+      "name": "train/images/IMG00131.png",
+      "size": 1497977,
+      "crc": 3235535286
+    },
+    {
+      "name": "train/images/IMG00559.png",
+      "size": 2578719,
+      "crc": 928876974
+    },
+    {
+      "name": "train/images/IMG00185.png",
+      "size": 1913804,
+      "crc": 2967378881
+    },
+    {
+      "name": "train/images/IMG00065.png",
+      "size": 3174414,
+      "crc": 1724954289
+    },
+    {
+      "name": "train/images/IMG00571.png",
+      "size": 3786405,
+      "crc": 1561207204
+    },
+    {
+      "name": "train/images/IMG00012.png",
+      "size": 1045477,
+      "crc": 3046936653
+    },
+    {
+      "name": "train/images/IMG00400.png",
+      "size": 872717,
+      "crc": 3462946771
+    },
+    {
+      "name": "train/images/IMG00011.png",
+      "size": 3245316,
+      "crc": 3207434476
+    },
+    {
+      "name": "train/images/IMG00067.png",
+      "size": 4306454,
+      "crc": 2452411950
+    },
+    {
+      "name": "train/images/IMG00546.png",
+      "size": 2815178,
+      "crc": 1406508503
+    },
+    {
+      "name": "train/images/IMG00085.png",
+      "size": 2778544,
+      "crc": 2479730015
+    },
+    {
+      "name": "train/images/IMG00225.png",
+      "size": 1644593,
+      "crc": 144599717
+    },
+    {
+      "name": "train/images/IMG00315.png",
+      "size": 1526195,
+      "crc": 3350750440
+    },
+    {
+      "name": "train/images/IMG00443.png",
+      "size": 1083366,
+      "crc": 1048968843
+    },
+    {
+      "name": "train/images/IMG00063.png",
+      "size": 3431015,
+      "crc": 2227115841
+    },
+    {
+      "name": "train/images/IMG00421.png",
+      "size": 2439102,
+      "crc": 3933026612
+    },
+    {
+      "name": "train/images/IMG00632.png",
+      "size": 3788731,
+      "crc": 448567950
+    },
+    {
+      "name": "train/images/IMG00726.jpeg",
+      "size": 1444480,
+      "crc": 1854521305
+    },
+    {
+      "name": "train/images/IMG00172.png",
+      "size": 2162075,
+      "crc": 3695112012
+    },
+    {
+      "name": "train/images/IMG00438.png",
+      "size": 2927095,
+      "crc": 2594885010
+    },
+    {
+      "name": "train/images/IMG00278.png",
+      "size": 1509857,
+      "crc": 135112083
+    },
+    {
+      "name": "train/images/IMG00081.png",
+      "size": 1823552,
+      "crc": 2671158177
+    },
+    {
+      "name": "train/images/IMG00357.png",
+      "size": 1696443,
+      "crc": 4166992239
+    },
+    {
+      "name": "train/images/IMG00761.jpeg",
+      "size": 1443838,
+      "crc": 3408675991
+    },
+    {
+      "name": "train/images/IMG00265.png",
+      "size": 1812439,
+      "crc": 3664222944
+    },
+    {
+      "name": "train/images/IMG00516.png",
+      "size": 2345730,
+      "crc": 3261838351
+    },
+    {
+      "name": "train/images/IMG00165.png",
+      "size": 1917633,
+      "crc": 13982173
+    },
+    {
+      "name": "train/images/IMG00043.png",
+      "size": 2899974,
+      "crc": 3932730214
+    },
+    {
+      "name": "train/images/IMG00376.png",
+      "size": 1890289,
+      "crc": 1334987829
+    },
+    {
+      "name": "train/images/IMG00653.png",
+      "size": 5114496,
+      "crc": 4035140927
+    },
+    {
+      "name": "train/images/IMG00375.png",
+      "size": 1536173,
+      "crc": 344102051
+    },
+    {
+      "name": "train/images/IMG00682.jpeg",
+      "size": 814747,
+      "crc": 1916716781
+    },
+    {
+      "name": "train/images/IMG00637.png",
+      "size": 4300637,
+      "crc": 3928163144
+    },
+    {
+      "name": "train/images/IMG00066.png",
+      "size": 3888224,
+      "crc": 349823375
+    },
+    {
+      "name": "train/images/IMG00191.png",
+      "size": 1952661,
+      "crc": 1637503169
+    },
+    {
+      "name": "train/images/IMG00403.png",
+      "size": 1955621,
+      "crc": 3655558912
+    },
+    {
+      "name": "train/images/IMG00455.png",
+      "size": 2777731,
+      "crc": 1145822298
+    },
+    {
+      "name": "train/images/IMG00489.png",
+      "size": 1627875,
+      "crc": 2272658085
+    },
+    {
+      "name": "train/images/IMG00004.png",
+      "size": 3902455,
+      "crc": 2125840295
+    },
+    {
+      "name": "train/images/IMG00776.jpeg",
+      "size": 1567117,
+      "crc": 1243024953
+    },
+    {
+      "name": "train/images/IMG00319.png",
+      "size": 1118535,
+      "crc": 175946449
+    },
+    {
+      "name": "train/images/IMG00036.png",
+      "size": 3742418,
+      "crc": 1131680326
+    },
+    {
+      "name": "train/images/IMG00631.png",
+      "size": 2122998,
+      "crc": 387280515
+    },
+    {
+      "name": "train/images/IMG00538.png",
+      "size": 2568251,
+      "crc": 1578400434
+    },
+    {
+      "name": "train/images/IMG00764.jpeg",
+      "size": 893277,
+      "crc": 1601839991
+    },
+    {
+      "name": "train/images/IMG00453.png",
+      "size": 1477726,
+      "crc": 1171492864
+    },
+    {
+      "name": "train/images/IMG00469.png",
+      "size": 3135022,
+      "crc": 1268125994
+    },
+    {
+      "name": "train/images/IMG00033.png",
+      "size": 3903215,
+      "crc": 2765278867
+    },
+    {
+      "name": "train/images/IMG00107.png",
+      "size": 3071674,
+      "crc": 3692443014
+    },
+    {
+      "name": "train/images/IMG00473.png",
+      "size": 1358395,
+      "crc": 2110728785
+    },
+    {
+      "name": "train/images/IMG00520.png",
+      "size": 1992662,
+      "crc": 1776620039
+    },
+    {
+      "name": "train/images/IMG00429.png",
+      "size": 2689792,
+      "crc": 4112687191
+    },
+    {
+      "name": "train/images/IMG00164.png",
+      "size": 1664224,
+      "crc": 333678799
+    },
+    {
+      "name": "train/images/IMG00576.png",
+      "size": 3424174,
+      "crc": 3014601317
+    },
+    {
+      "name": "train/images/IMG00623.png",
+      "size": 2715992,
+      "crc": 2979448465
+    },
+    {
+      "name": "train/images/IMG00605.png",
+      "size": 2149993,
+      "crc": 178767716
+    },
+    {
+      "name": "train/images/IMG00276.png",
+      "size": 1662753,
+      "crc": 2833043623
+    },
+    {
+      "name": "train/images/IMG00146.png",
+      "size": 1441216,
+      "crc": 730128888
+    },
+    {
+      "name": "train/images/IMG00398.png",
+      "size": 2371993,
+      "crc": 2374075428
+    },
+    {
+      "name": "train/images/IMG00178.png",
+      "size": 1136664,
+      "crc": 1669137367
+    },
+    {
+      "name": "train/images/IMG00460.png",
+      "size": 3222948,
+      "crc": 512017711
+    },
+    {
+      "name": "train/images/IMG00193.png",
+      "size": 1906592,
+      "crc": 1904491787
+    },
+    {
+      "name": "train/images/IMG00095.png",
+      "size": 2748721,
+      "crc": 1655463231
+    },
+    {
+      "name": "train/images/IMG00626.png",
+      "size": 2656955,
+      "crc": 3884692679
+    },
+    {
+      "name": "train/images/IMG00038.png",
+      "size": 3717641,
+      "crc": 1128802200
+    },
+    {
+      "name": "train/images/IMG00602.png",
+      "size": 3444170,
+      "crc": 3926446506
+    },
+    {
+      "name": "train/images/IMG00010.png",
+      "size": 2754480,
+      "crc": 3519171047
+    },
+    {
+      "name": "train/images/IMG00707.jpeg",
+      "size": 1513450,
+      "crc": 2083905779
+    },
+    {
+      "name": "train/images/IMG00451.png",
+      "size": 1364136,
+      "crc": 1133829516
+    },
+    {
+      "name": "train/images/IMG00547.png",
+      "size": 2187474,
+      "crc": 3202251028
+    },
+    {
+      "name": "train/images/IMG00494.png",
+      "size": 2827358,
+      "crc": 1405231989
+    },
+    {
+      "name": "train/images/IMG00058.png",
+      "size": 2610802,
+      "crc": 2242062653
+    },
+    {
+      "name": "train/images/IMG00134.png",
+      "size": 2830254,
+      "crc": 1521545751
+    },
+    {
+      "name": "train/images/IMG00316.png",
+      "size": 1757978,
+      "crc": 922157632
+    },
+    {
+      "name": "train/images/IMG00257.png",
+      "size": 2022577,
+      "crc": 846022733
+    },
+    {
+      "name": "train/images/IMG00248.png",
+      "size": 1286285,
+      "crc": 588420645
+    },
+    {
+      "name": "train/images/IMG00574.png",
+      "size": 1916223,
+      "crc": 1400590792
+    },
+    {
+      "name": "train/images/IMG00416.png",
+      "size": 805212,
+      "crc": 4213095323
+    },
+    {
+      "name": "train/images/IMG00414.png",
+      "size": 1228465,
+      "crc": 3274064998
+    },
+    {
+      "name": "train/images/IMG00663.png",
+      "size": 4283505,
+      "crc": 577268986
+    },
+    {
+      "name": "train/images/IMG00044.png",
+      "size": 4277965,
+      "crc": 2291056432
+    },
+    {
+      "name": "train/images/IMG00577.png",
+      "size": 4229063,
+      "crc": 1213050510
+    },
+    {
+      "name": "train/images/IMG00711.jpeg",
+      "size": 1094625,
+      "crc": 1041249393
+    },
+    {
+      "name": "train/images/IMG00619.png",
+      "size": 2473381,
+      "crc": 3812583546
+    },
+    {
+      "name": "train/images/IMG00167.png",
+      "size": 1944376,
+      "crc": 3537277096
+    },
+    {
+      "name": "train/images/IMG00483.png",
+      "size": 2474017,
+      "crc": 1135607270
+    },
+    {
+      "name": "train/images/IMG00127.png",
+      "size": 2299033,
+      "crc": 1710427300
+    },
+    {
+      "name": "train/images/IMG00259.png",
+      "size": 1799548,
+      "crc": 846969287
+    },
+    {
+      "name": "train/images/IMG00592.png",
+      "size": 3969725,
+      "crc": 1268746846
+    },
+    {
+      "name": "train/images/IMG00754.jpeg",
+      "size": 1938249,
+      "crc": 940827390
+    },
+    {
+      "name": "train/images/IMG00303.png",
+      "size": 2237029,
+      "crc": 1087377917
+    },
+    {
+      "name": "train/images/IMG00569.png",
+      "size": 3232163,
+      "crc": 2006122666
+    },
+    {
+      "name": "train/images/IMG00026.png",
+      "size": 2073493,
+      "crc": 3793846604
+    },
+    {
+      "name": "train/images/IMG00340.png",
+      "size": 2340592,
+      "crc": 2352164111
+    },
+    {
+      "name": "train/images/IMG00137.png",
+      "size": 1538190,
+      "crc": 2354711339
+    },
+    {
+      "name": "train/images/IMG00029.png",
+      "size": 4257160,
+      "crc": 3467712854
+    },
+    {
+      "name": "train/images/IMG00560.png",
+      "size": 2656168,
+      "crc": 2917320166
+    },
+    {
+      "name": "train/images/IMG00100.png",
+      "size": 4430983,
+      "crc": 2920172160
+    },
+    {
+      "name": "train/images/IMG00634.png",
+      "size": 2616314,
+      "crc": 2418522567
+    },
+    {
+      "name": "train/images/IMG00736.jpeg",
+      "size": 1001868,
+      "crc": 2787267081
+    },
+    {
+      "name": "train/images/IMG00298.png",
+      "size": 1720175,
+      "crc": 3331614445
+    },
+    {
+      "name": "train/images/IMG00370.png",
+      "size": 1712365,
+      "crc": 2854321522
+    },
+    {
+      "name": "train/images/IMG00059.png",
+      "size": 2198473,
+      "crc": 3096959075
+    },
+    {
+      "name": "train/images/IMG00570.png",
+      "size": 3795733,
+      "crc": 3023069266
+    },
+    {
+      "name": "train/images/IMG00022.png",
+      "size": 1782581,
+      "crc": 3898025849
+    },
+    {
+      "name": "train/images/IMG00129.png",
+      "size": 1873920,
+      "crc": 3774132209
+    },
+    {
+      "name": "train/images/IMG00301.png",
+      "size": 2463761,
+      "crc": 2309176364
+    },
+    {
+      "name": "train/images/IMG00228.png",
+      "size": 1731198,
+      "crc": 293335443
+    },
+    {
+      "name": "train/images/IMG00540.png",
+      "size": 1588085,
+      "crc": 2687921523
+    },
+    {
+      "name": "train/images/IMG00226.png",
+      "size": 1721565,
+      "crc": 3360756281
+    },
+    {
+      "name": "train/images/IMG00530.png",
+      "size": 2246259,
+      "crc": 1653566951
+    },
+    {
+      "name": "train/images/IMG00611.png",
+      "size": 3481118,
+      "crc": 2103612007
+    },
+    {
+      "name": "train/images/IMG00283.png",
+      "size": 2743124,
+      "crc": 2479658223
+    },
+    {
+      "name": "train/images/IMG00337.png",
+      "size": 1973314,
+      "crc": 32885216
+    },
+    {
+      "name": "train/images/IMG00383.png",
+      "size": 849238,
+      "crc": 2747790953
+    },
+    {
+      "name": "train/images/IMG00743.jpeg",
+      "size": 1726351,
+      "crc": 2328127172
+    },
+    {
+      "name": "train/images/IMG00458.png",
+      "size": 2398353,
+      "crc": 3516027924
+    },
+    {
+      "name": "train/images/IMG00049.png",
+      "size": 3801227,
+      "crc": 3593902938
+    },
+    {
+      "name": "train/images/IMG00689.jpeg",
+      "size": 1245657,
+      "crc": 3655990901
+    },
+    {
+      "name": "train/images/IMG00353.png",
+      "size": 2510399,
+      "crc": 907347574
+    },
+    {
+      "name": "train/images/IMG00734.jpeg",
+      "size": 1271935,
+      "crc": 2676861698
+    },
+    {
+      "name": "train/images/IMG00344.png",
+      "size": 2091972,
+      "crc": 2440730088
+    },
+    {
+      "name": "train/images/IMG00001.png",
+      "size": 2326443,
+      "crc": 1948787103
+    },
+    {
+      "name": "train/images/IMG00622.png",
+      "size": 4473690,
+      "crc": 970943085
+    },
+    {
+      "name": "train/images/IMG00775.jpeg",
+      "size": 1293407,
+      "crc": 549518719
+    },
+    {
+      "name": "train/images/IMG00638.png",
+      "size": 4851928,
+      "crc": 619618672
+    },
+    {
+      "name": "train/images/IMG00394.png",
+      "size": 775695,
+      "crc": 670539502
+    },
+    {
+      "name": "train/images/IMG00335.png",
+      "size": 1218158,
+      "crc": 1179071595
+    },
+    {
+      "name": "train/images/IMG00009.png",
+      "size": 2423631,
+      "crc": 1111315605
+    },
+    {
+      "name": "train/images/IMG00777.jpeg",
+      "size": 1495418,
+      "crc": 3903593824
+    },
+    {
+      "name": "train/images/IMG00459.png",
+      "size": 2648064,
+      "crc": 3807267652
+    },
+    {
+      "name": "train/images/IMG00670.png",
+      "size": 3523770,
+      "crc": 722865937
+    },
+    {
+      "name": "train/images/IMG00057.png",
+      "size": 1766991,
+      "crc": 1572978245
+    },
+    {
+      "name": "train/images/IMG00581.png",
+      "size": 2098772,
+      "crc": 54728687
+    },
+    {
+      "name": "train/images/IMG00269.png",
+      "size": 1491086,
+      "crc": 2006530682
+    },
+    {
+      "name": "train/images/IMG00511.png",
+      "size": 2094811,
+      "crc": 775320046
+    },
+    {
+      "name": "train/images/IMG00580.png",
+      "size": 5339503,
+      "crc": 722256359
+    },
+    {
+      "name": "train/images/IMG00173.png",
+      "size": 2129855,
+      "crc": 1611955395
+    },
+    {
+      "name": "train/images/IMG00525.png",
+      "size": 2106971,
+      "crc": 534263958
+    },
+    {
+      "name": "train/images/IMG00503.png",
+      "size": 2928845,
+      "crc": 1767135906
+    },
+    {
+      "name": "train/images/IMG00447.png",
+      "size": 2068938,
+      "crc": 1596413541
+    },
+    {
+      "name": "train/images/IMG00246.png",
+      "size": 2857982,
+      "crc": 3002608586
+    },
+    {
+      "name": "train/images/IMG00023.png",
+      "size": 2991828,
+      "crc": 3143675913
+    },
+    {
+      "name": "train/images/IMG00177.png",
+      "size": 3346149,
+      "crc": 3047223351
+    },
+    {
+      "name": "train/images/IMG00239.png",
+      "size": 1662533,
+      "crc": 3159045346
+    },
+    {
+      "name": "train/images/IMG00260.png",
+      "size": 1388206,
+      "crc": 780532326
+    },
+    {
+      "name": "train/images/IMG00196.png",
+      "size": 2159698,
+      "crc": 1106175698
+    },
+    {
+      "name": "train/images/IMG00032.png",
+      "size": 3401760,
+      "crc": 2038310450
+    },
+    {
+      "name": "train/images/IMG00755.jpeg",
+      "size": 1911205,
+      "crc": 2655959333
+    },
+    {
+      "name": "train/images/IMG00747.jpeg",
+      "size": 1444444,
+      "crc": 3193031734
+    },
+    {
+      "name": "train/images/IMG00294.png",
+      "size": 1781332,
+      "crc": 438609207
+    },
+    {
+      "name": "train/images/IMG00759.jpeg",
+      "size": 1530100,
+      "crc": 343557940
+    },
+    {
+      "name": "train/images/IMG00251.png",
+      "size": 1522028,
+      "crc": 2372628459
+    },
+    {
+      "name": "train/images/IMG00217.png",
+      "size": 1598625,
+      "crc": 2816392160
+    },
+    {
+      "name": "train/images/IMG00299.png",
+      "size": 2383525,
+      "crc": 3628504218
+    },
+    {
+      "name": "train/images/IMG00002.png",
+      "size": 2102077,
+      "crc": 1210777938
+    },
+    {
+      "name": "train/images/IMG00149.png",
+      "size": 2158614,
+      "crc": 590997943
+    },
+    {
+      "name": "train/images/IMG00170.png",
+      "size": 2065312,
+      "crc": 2404100880
+    },
+    {
+      "name": "train/images/IMG00126.png",
+      "size": 1957932,
+      "crc": 274201618
+    },
+    {
+      "name": "train/images/IMG00143.png",
+      "size": 1780768,
+      "crc": 1576100775
+    },
+    {
+      "name": "train/images/IMG00673.png",
+      "size": 4094650,
+      "crc": 2969718203
+    },
+    {
+      "name": "train/images/IMG00373.png",
+      "size": 1990527,
+      "crc": 3079192664
+    },
+    {
+      "name": "train/images/IMG00513.png",
+      "size": 2121729,
+      "crc": 386476053
+    },
+    {
+      "name": "train/images/IMG00722.jpeg",
+      "size": 1432225,
+      "crc": 1154168511
+    },
+    {
+      "name": "train/images/IMG00596.png",
+      "size": 2190823,
+      "crc": 416799269
+    },
+    {
+      "name": "train/images/IMG00737.jpeg",
+      "size": 1422180,
+      "crc": 3538072668
+    },
+    {
+      "name": "train/images/IMG00159.png",
+      "size": 1040174,
+      "crc": 2533547949
+    },
+    {
+      "name": "train/images/IMG00441.png",
+      "size": 1163400,
+      "crc": 2078489974
+    },
+    {
+      "name": "train/images/IMG00727.jpeg",
+      "size": 1307449,
+      "crc": 1505201484
+    },
+    {
+      "name": "train/images/IMG00194.png",
+      "size": 2235914,
+      "crc": 1208230576
+    },
+    {
+      "name": "train/images/IMG00769.jpeg",
+      "size": 1426720,
+      "crc": 1463945714
+    },
+    {
+      "name": "train/images/IMG00371.png",
+      "size": 1436244,
+      "crc": 3222643361
+    },
+    {
+      "name": "train/images/IMG00312.png",
+      "size": 2100251,
+      "crc": 3012406213
+    },
+    {
+      "name": "train/images/IMG00140.png",
+      "size": 1794282,
+      "crc": 3580375707
+    },
+    {
+      "name": "train/images/IMG00112.png",
+      "size": 1845706,
+      "crc": 237227539
+    },
+    {
+      "name": "train/images/IMG00628.png",
+      "size": 3059953,
+      "crc": 303766821
+    },
+    {
+      "name": "train/images/IMG00166.png",
+      "size": 2088337,
+      "crc": 3401378874
+    },
+    {
+      "name": "train/images/IMG00515.png",
+      "size": 2523899,
+      "crc": 275691733
+    },
+    {
+      "name": "train/images/IMG00208.png",
+      "size": 2196159,
+      "crc": 3111719383
+    },
+    {
+      "name": "train/images/IMG00291.png",
+      "size": 3050151,
+      "crc": 2274919164
+    },
+    {
+      "name": "train/images/IMG00120.png",
+      "size": 2080756,
+      "crc": 3296157925
+    },
+    {
+      "name": "train/images/IMG00053.png",
+      "size": 2220052,
+      "crc": 2916743683
+    },
+    {
+      "name": "train/images/IMG00719.jpeg",
+      "size": 1337199,
+      "crc": 1664036527
+    },
+    {
+      "name": "train/images/IMG00779.jpeg",
+      "size": 818606,
+      "crc": 1067785645
+    },
+    {
+      "name": "train/images/IMG00518.png",
+      "size": 3646085,
+      "crc": 460697301
+    },
+    {
+      "name": "train/images/IMG00401.png",
+      "size": 2141703,
+      "crc": 996724515
+    },
+    {
+      "name": "train/images/IMG00210.png",
+      "size": 1478364,
+      "crc": 76104044
+    },
+    {
+      "name": "train/images/IMG00006.png",
+      "size": 1783248,
+      "crc": 3139146949
+    },
+    {
+      "name": "train/images/IMG00093.png",
+      "size": 1934558,
+      "crc": 1391935647
+    },
+    {
+      "name": "train/images/IMG00463.png",
+      "size": 2486825,
+      "crc": 474770066
+    },
+    {
+      "name": "train/images/IMG00612.png",
+      "size": 5423178,
+      "crc": 3776804736
+    },
+    {
+      "name": "train/images/IMG00396.png",
+      "size": 798255,
+      "crc": 3702450082
+    },
+    {
+      "name": "train/images/IMG00168.png",
+      "size": 1934700,
+      "crc": 455579898
+    },
+    {
+      "name": "train/images/IMG00014.png",
+      "size": 1848458,
+      "crc": 2661624044
+    },
+    {
+      "name": "train/images/IMG00724.jpeg",
+      "size": 1284782,
+      "crc": 1360686840
+    },
+    {
+      "name": "train/images/IMG00183.png",
+      "size": 3662572,
+      "crc": 3919458526
+    },
+    {
+      "name": "train/images/IMG00352.png",
+      "size": 2839003,
+      "crc": 3323978400
+    },
+    {
+      "name": "train/images/IMG00346.png",
+      "size": 1705793,
+      "crc": 204284694
+    },
+    {
+      "name": "train/images/IMG00321.png",
+      "size": 2321312,
+      "crc": 3896187147
+    },
+    {
+      "name": "train/images/IMG00408.png",
+      "size": 1760370,
+      "crc": 1630821125
+    },
+    {
+      "name": "train/images/IMG00728.jpeg",
+      "size": 1266542,
+      "crc": 3272389077
+    },
+    {
+      "name": "train/images/IMG00329.png",
+      "size": 1026805,
+      "crc": 2854160796
+    },
+    {
+      "name": "train/images/IMG00382.png",
+      "size": 1462865,
+      "crc": 2757861532
+    },
+    {
+      "name": "train/images/IMG00392.png",
+      "size": 861096,
+      "crc": 3805701730
+    },
+    {
+      "name": "train/images/IMG00475.png",
+      "size": 3015357,
+      "crc": 1619670740
+    },
+    {
+      "name": "train/images/IMG00616.png",
+      "size": 2661468,
+      "crc": 1725347608
+    },
+    {
+      "name": "train/images/IMG00136.png",
+      "size": 1479549,
+      "crc": 2974860072
+    },
+    {
+      "name": "train/images/IMG00304.png",
+      "size": 2383681,
+      "crc": 3193763164
+    },
+    {
+      "name": "train/images/IMG00664.png",
+      "size": 3760767,
+      "crc": 66120832
+    },
+    {
+      "name": "train/images/IMG00324.png",
+      "size": 1856046,
+      "crc": 551845430
+    },
+    {
+      "name": "train/images/IMG00374.png",
+      "size": 1791715,
+      "crc": 635115668
+    },
+    {
+      "name": "train/images/IMG00647.png",
+      "size": 3348315,
+      "crc": 2574955604
+    },
+    {
+      "name": "train/images/IMG00349.png",
+      "size": 1959313,
+      "crc": 1285140365
+    },
+    {
+      "name": "train/images/IMG00481.png",
+      "size": 3480325,
+      "crc": 2529700093
+    },
+    {
+      "name": "train/images/IMG00187.png",
+      "size": 1665263,
+      "crc": 1006457839
+    },
+    {
+      "name": "train/images/IMG00558.png",
+      "size": 1563344,
+      "crc": 983606452
+    },
+    {
+      "name": "train/images/IMG00019.png",
+      "size": 1613783,
+      "crc": 806619613
+    },
+    {
+      "name": "train/images/IMG00121.png",
+      "size": 1876225,
+      "crc": 530230013
+    },
+    {
+      "name": "train/images/IMG00461.png",
+      "size": 2838416,
+      "crc": 4197792098
+    },
+    {
+      "name": "train/images/IMG00695.jpeg",
+      "size": 1317522,
+      "crc": 4200345205
+    },
+    {
+      "name": "train/images/IMG00723.jpeg",
+      "size": 1819835,
+      "crc": 44498359
+    },
+    {
+      "name": "train/images/IMG00608.png",
+      "size": 2535080,
+      "crc": 4012866921
+    },
+    {
+      "name": "train/images/IMG00297.png",
+      "size": 1999331,
+      "crc": 2254455390
+    },
+    {
+      "name": "train/images/IMG00035.png",
+      "size": 4135577,
+      "crc": 1595258599
+    },
+    {
+      "name": "train/images/IMG00234.png",
+      "size": 1687772,
+      "crc": 2569746281
+    },
+    {
+      "name": "train/images/IMG00568.png",
+      "size": 2622869,
+      "crc": 2918850816
+    },
+    {
+      "name": "train/images/IMG00702.jpeg",
+      "size": 1349695,
+      "crc": 3632104331
+    },
+    {
+      "name": "train/images/IMG00633.png",
+      "size": 4155319,
+      "crc": 974974268
+    },
+    {
+      "name": "train/images/IMG00145.png",
+      "size": 1480634,
+      "crc": 3468970810
+    },
+    {
+      "name": "train/images/IMG00369.png",
+      "size": 1290984,
+      "crc": 2266396517
+    },
+    {
+      "name": "train/images/IMG00502.png",
+      "size": 1555553,
+      "crc": 2551901041
+    },
+    {
+      "name": "train/images/IMG00424.png",
+      "size": 1573274,
+      "crc": 3028531917
+    },
+    {
+      "name": "train/images/IMG00030.png",
+      "size": 4886712,
+      "crc": 1344079263
+    },
+    {
+      "name": "train/images/IMG00745.jpeg",
+      "size": 2113994,
+      "crc": 243928277
+    },
+    {
+      "name": "train/images/IMG00266.png",
+      "size": 1507909,
+      "crc": 1558795276
+    },
+    {
+      "name": "train/images/IMG00672.png",
+      "size": 4129480,
+      "crc": 4035428107
+    },
+    {
+      "name": "train/images/IMG00273.png",
+      "size": 1699521,
+      "crc": 1979800360
+    },
+    {
+      "name": "train/images/IMG00359.png",
+      "size": 1683541,
+      "crc": 3275340260
+    },
+    {
+      "name": "train/images/IMG00391.png",
+      "size": 1874430,
+      "crc": 455759200
+    },
+    {
+      "name": "train/images/IMG00762.jpeg",
+      "size": 1315003,
+      "crc": 1379429977
+    },
+    {
+      "name": "train/images/IMG00434.png",
+      "size": 2196787,
+      "crc": 968737740
+    },
+    {
+      "name": "train/images/IMG00721.jpeg",
+      "size": 1007095,
+      "crc": 2443771141
+    },
+    {
+      "name": "train/images/IMG00070.png",
+      "size": 3908410,
+      "crc": 3107848969
+    },
+    {
+      "name": "train/images/IMG00325.png",
+      "size": 1373722,
+      "crc": 2161028346
+    },
+    {
+      "name": "train/images/IMG00218.png",
+      "size": 2435808,
+      "crc": 2034094873
+    },
+    {
+      "name": "train/images/IMG00531.png",
+      "size": 2242191,
+      "crc": 3462116629
+    },
+    {
+      "name": "train/images/IMG00322.png",
+      "size": 1435971,
+      "crc": 2425082624
+    },
+    {
+      "name": "train/images/IMG00499.png",
+      "size": 2883713,
+      "crc": 3703479820
+    },
+    {
+      "name": "train/images/IMG00641.png",
+      "size": 3992596,
+      "crc": 561191636
+    },
+    {
+      "name": "train/images/IMG00007.png",
+      "size": 3933950,
+      "crc": 4078513892
+    },
+    {
+      "name": "train/images/IMG00659.png",
+      "size": 2913489,
+      "crc": 3987814830
+    },
+    {
+      "name": "train/images/IMG00500.png",
+      "size": 2571430,
+      "crc": 2946430830
+    },
+    {
+      "name": "train/images/IMG00445.png",
+      "size": 2190129,
+      "crc": 4056236236
+    },
+    {
+      "name": "train/images/IMG00658.png",
+      "size": 4357341,
+      "crc": 2201926601
+    },
+    {
+      "name": "train/images/IMG00308.png",
+      "size": 1945596,
+      "crc": 39610956
+    },
+    {
+      "name": "train/images/IMG00573.png",
+      "size": 2239945,
+      "crc": 1379600441
+    },
+    {
+      "name": "train/images/IMG00635.png",
+      "size": 2651862,
+      "crc": 1279717616
+    },
+    {
+      "name": "train/images/IMG00495.png",
+      "size": 2490015,
+      "crc": 3793822323
+    },
+    {
+      "name": "train/images/IMG00556.png",
+      "size": 2190535,
+      "crc": 2008359941
+    },
+    {
+      "name": "train/images/IMG00240.png",
+      "size": 1669367,
+      "crc": 159363858
+    },
+    {
+      "name": "train/images/IMG00326.png",
+      "size": 1075751,
+      "crc": 3202528500
+    },
+    {
+      "name": "train/images/IMG00654.png",
+      "size": 4532393,
+      "crc": 2756951201
+    },
+    {
+      "name": "train/images/IMG00055.png",
+      "size": 2027518,
+      "crc": 4272381715
+    },
+    {
+      "name": "train/images/IMG00578.png",
+      "size": 3271551,
+      "crc": 3805471049
+    },
+    {
+      "name": "train/images/IMG00774.jpeg",
+      "size": 803412,
+      "crc": 816695166
+    },
+    {
+      "name": "train/images/IMG00154.png",
+      "size": 1484727,
+      "crc": 2320038149
+    },
+    {
+      "name": "train/images/IMG00008.png",
+      "size": 2228981,
+      "crc": 2559945678
+    },
+    {
+      "name": "train/images/IMG00082.png",
+      "size": 1773430,
+      "crc": 2262914742
+    },
+    {
+      "name": "train/images/IMG00336.png",
+      "size": 828898,
+      "crc": 3648939709
+    },
+    {
+      "name": "train/images/IMG00268.png",
+      "size": 2063453,
+      "crc": 4037090844
+    },
+    {
+      "name": "train/images/IMG00582.png",
+      "size": 1873509,
+      "crc": 4212066245
+    },
+    {
+      "name": "train/images/IMG00279.png",
+      "size": 1447262,
+      "crc": 3161274350
+    },
+    {
+      "name": "train/images/IMG00216.png",
+      "size": 2043946,
+      "crc": 934934400
+    },
+    {
+      "name": "train/images/IMG00285.png",
+      "size": 2105876,
+      "crc": 2392165369
+    },
+    {
+      "name": "train/images/IMG00365.png",
+      "size": 1806013,
+      "crc": 3108897446
+    },
+    {
+      "name": "train/images/IMG00586.png",
+      "size": 3470062,
+      "crc": 1808676675
+    },
+    {
+      "name": "train/images/IMG00037.png",
+      "size": 2604396,
+      "crc": 1031977595
+    },
+    {
+      "name": "train/images/IMG00104.png",
+      "size": 1640591,
+      "crc": 3270353922
+    },
+    {
+      "name": "train/images/IMG00348.png",
+      "size": 1816002,
+      "crc": 3604765227
+    },
+    {
+      "name": "train/images/IMG00708.jpeg",
+      "size": 1942996,
+      "crc": 288390788
+    },
+    {
+      "name": "train/images/IMG00649.png",
+      "size": 4929740,
+      "crc": 1710872754
+    },
+    {
+      "name": "train/images/IMG00209.png",
+      "size": 2361566,
+      "crc": 640026847
+    },
+    {
+      "name": "train/images/IMG00174.png",
+      "size": 2944712,
+      "crc": 1598672480
+    },
+    {
+      "name": "train/images/IMG00163.png",
+      "size": 1814451,
+      "crc": 207102193
+    },
+    {
+      "name": "train/images/IMG00703.jpeg",
+      "size": 1359387,
+      "crc": 2499216256
+    },
+    {
+      "name": "train/images/IMG00466.png",
+      "size": 2936212,
+      "crc": 3836948645
+    },
+    {
+      "name": "train/images/IMG00579.png",
+      "size": 2153878,
+      "crc": 1323233230
+    },
+    {
+      "name": "train/images/IMG00470.png",
+      "size": 1252697,
+      "crc": 1360256930
+    },
+    {
+      "name": "train/images/IMG00356.png",
+      "size": 2321593,
+      "crc": 2354952206
+    },
+    {
+      "name": "train/images/IMG00522.png",
+      "size": 1902393,
+      "crc": 1548833999
+    },
+    {
+      "name": "train/images/IMG00295.png",
+      "size": 1794270,
+      "crc": 2252103900
+    },
+    {
+      "name": "train/images/IMG00150.png",
+      "size": 1246198,
+      "crc": 393093533
+    },
+    {
+      "name": "train/images/IMG00607.png",
+      "size": 2584532,
+      "crc": 4093237366
+    },
+    {
+      "name": "train/images/IMG00333.png",
+      "size": 1465368,
+      "crc": 2391690605
+    },
+    {
+      "name": "train/images/IMG00347.png",
+      "size": 1564170,
+      "crc": 4205681644
+    },
+    {
+      "name": "train/images/IMG00618.png",
+      "size": 5082023,
+      "crc": 320388935
+    },
+    {
+      "name": "train/images/IMG00384.png",
+      "size": 1293943,
+      "crc": 549063923
+    },
+    {
+      "name": "train/images/IMG00411.png",
+      "size": 2197527,
+      "crc": 1152607787
+    },
+    {
+      "name": "train/images/IMG00543.png",
+      "size": 1724269,
+      "crc": 3940246808
+    },
+    {
+      "name": "train/images/IMG00368.png",
+      "size": 1585264,
+      "crc": 2270487573
+    },
+    {
+      "name": "train/images/IMG00666.png",
+      "size": 5137814,
+      "crc": 4106944324
+    },
+    {
+      "name": "train/images/IMG00701.jpeg",
+      "size": 1479120,
+      "crc": 3406510585
+    },
+    {
+      "name": "train/images/IMG00264.png",
+      "size": 1598446,
+      "crc": 3294930182
+    },
+    {
+      "name": "train/images/IMG00432.png",
+      "size": 2528661,
+      "crc": 2822443590
+    },
+    {
+      "name": "train/images/IMG00553.png",
+      "size": 1610998,
+      "crc": 516850717
+    },
+    {
+      "name": "train/images/IMG00410.png",
+      "size": 2237874,
+      "crc": 2053774956
+    },
+    {
+      "name": "train/images/IMG00435.png",
+      "size": 1226325,
+      "crc": 3019244525
+    },
+    {
+      "name": "train/images/IMG00109.png",
+      "size": 2489963,
+      "crc": 3634349819
+    },
+    {
+      "name": "train/images/IMG00760.jpeg",
+      "size": 742084,
+      "crc": 4191327916
+    },
+    {
+      "name": "train/images/IMG00395.png",
+      "size": 1844164,
+      "crc": 1656674691
+    },
+    {
+      "name": "train/images/IMG00588.png",
+      "size": 2378524,
+      "crc": 3633304976
+    },
+    {
+      "name": "train/images/IMG00472.png",
+      "size": 2319391,
+      "crc": 2915076783
+    },
+    {
+      "name": "train/images/IMG00366.png",
+      "size": 2317667,
+      "crc": 1917807698
+    },
+    {
+      "name": "train/images/IMG00505.png",
+      "size": 1942792,
+      "crc": 2412812732
+    },
+    {
+      "name": "train/images/IMG00422.png",
+      "size": 2575160,
+      "crc": 1798549952
+    },
+    {
+      "name": "train/images/IMG00144.png",
+      "size": 580212,
+      "crc": 807283871
+    },
+    {
+      "name": "train/images/IMG00741.jpeg",
+      "size": 1334957,
+      "crc": 970616481
+    },
+    {
+      "name": "train/images/IMG00629.png",
+      "size": 3123070,
+      "crc": 621980769
+    },
+    {
+      "name": "train/images/IMG00086.png",
+      "size": 1568255,
+      "crc": 1640011300
+    },
+    {
+      "name": "train/images/IMG00752.jpeg",
+      "size": 1355500,
+      "crc": 4192097223
+    },
+    {
+      "name": "train/images/IMG00694.jpeg",
+      "size": 1470314,
+      "crc": 3244618746
+    },
+    {
+      "name": "train/images/IMG00042.png",
+      "size": 2632876,
+      "crc": 616124011
+    },
+    {
+      "name": "train/images/IMG00467.png",
+      "size": 2803043,
+      "crc": 113955100
+    },
+    {
+      "name": "train/images/IMG00290.png",
+      "size": 2348759,
+      "crc": 1561734361
+    },
+    {
+      "name": "train/images/IMG00541.png",
+      "size": 1767236,
+      "crc": 3219329131
+    },
+    {
+      "name": "train/images/IMG00542.png",
+      "size": 2062134,
+      "crc": 2554628472
+    },
+    {
+      "name": "train/images/IMG00075.png",
+      "size": 4296263,
+      "crc": 1263848160
+    },
+    {
+      "name": "train/images/IMG00179.png",
+      "size": 3443820,
+      "crc": 81478756
+    },
+    {
+      "name": "train/images/IMG00598.png",
+      "size": 3410385,
+      "crc": 1759515657
+    },
+    {
+      "name": "train/images/IMG00506.png",
+      "size": 2190776,
+      "crc": 721403879
+    },
+    {
+      "name": "train/images/IMG00118.png",
+      "size": 2224144,
+      "crc": 1253106787
+    },
+    {
+      "name": "train/images/IMG00034.png",
+      "size": 3909356,
+      "crc": 1699833591
+    },
+    {
+      "name": "train/images/IMG00229.png",
+      "size": 1330840,
+      "crc": 967893733
+    },
+    {
+      "name": "train/images/IMG00204.png",
+      "size": 1477950,
+      "crc": 2580126519
+    },
+    {
+      "name": "train/images/IMG00514.png",
+      "size": 2245027,
+      "crc": 3357119375
+    },
+    {
+      "name": "train/images/IMG00184.png",
+      "size": 1526059,
+      "crc": 2659936202
+    },
+    {
+      "name": "train/images/IMG00233.png",
+      "size": 1281255,
+      "crc": 3267294957
+    },
+    {
+      "name": "train/images/IMG00064.png",
+      "size": 4032755,
+      "crc": 2047767915
+    },
+    {
+      "name": "train/images/IMG00041.png",
+      "size": 4298424,
+      "crc": 856275838
+    },
+    {
+      "name": "train/images/IMG00765.jpeg",
+      "size": 720014,
+      "crc": 3764646129
+    },
+    {
+      "name": "train/images/IMG00650.png",
+      "size": 3100772,
+      "crc": 3931879311
+    },
+    {
+      "name": "train/images/IMG00254.png",
+      "size": 1617236,
+      "crc": 3211520480
+    },
+    {
+      "name": "train/images/IMG00645.png",
+      "size": 4309308,
+      "crc": 1988895195
+    },
+    {
+      "name": "train/images/IMG00317.png",
+      "size": 1291686,
+      "crc": 452909531
+    },
+    {
+      "name": "train/images/IMG00731.jpeg",
+      "size": 1068888,
+      "crc": 539089909
+    },
+    {
+      "name": "train/images/IMG00471.png",
+      "size": 2840794,
+      "crc": 3604003889
+    },
+    {
+      "name": "train/images/IMG00263.png",
+      "size": 1782462,
+      "crc": 3129501062
+    },
+    {
+      "name": "train/images/IMG00537.png",
+      "size": 1721555,
+      "crc": 376531609
+    },
+    {
+      "name": "train/images/IMG00051.png",
+      "size": 2884041,
+      "crc": 2974075720
+    },
+    {
+      "name": "train/images/IMG00756.jpeg",
+      "size": 1646589,
+      "crc": 1058894491
+    },
+    {
+      "name": "train/images/IMG00705.jpeg",
+      "size": 2093284,
+      "crc": 2686345956
+    },
+    {
+      "name": "train/images/IMG00501.png",
+      "size": 1553511,
+      "crc": 1431293356
+    },
+    {
+      "name": "train/images/IMG00636.png",
+      "size": 4273852,
+      "crc": 103641419
+    },
+    {
+      "name": "train/images/IMG00130.png",
+      "size": 2213024,
+      "crc": 791854825
+    },
+    {
+      "name": "train/images/IMG00288.png",
+      "size": 1957209,
+      "crc": 3936815155
+    },
+    {
+      "name": "train/images/IMG00512.png",
+      "size": 2447862,
+      "crc": 1951227155
+    },
+    {
+      "name": "train/images/IMG00332.png",
+      "size": 1326548,
+      "crc": 3005610051
+    },
+    {
+      "name": "train/images/IMG00351.png",
+      "size": 1744764,
+      "crc": 677861399
+    },
+    {
+      "name": "train/images/IMG00753.jpeg",
+      "size": 1710505,
+      "crc": 690451611
+    },
+    {
+      "name": "train/images/IMG00662.png",
+      "size": 4712800,
+      "crc": 746446883
+    },
+    {
+      "name": "train/images/IMG00440.png",
+      "size": 1745385,
+      "crc": 751741581
+    },
+    {
+      "name": "train/images/IMG00200.png",
+      "size": 1926048,
+      "crc": 4014735570
+    },
+    {
+      "name": "train/images/IMG00072.png",
+      "size": 1563724,
+      "crc": 744246737
+    },
+    {
+      "name": "train/images/IMG00372.png",
+      "size": 1449304,
+      "crc": 1909524441
+    },
+    {
+      "name": "train/images/IMG00387.png",
+      "size": 839100,
+      "crc": 2245875356
+    },
+    {
+      "name": "train/images/IMG00084.png",
+      "size": 2022764,
+      "crc": 751011478
+    },
+    {
+      "name": "train/images/IMG00091.png",
+      "size": 2630242,
+      "crc": 2220649107
+    },
+    {
+      "name": "train/images/IMG00478.png",
+      "size": 1513421,
+      "crc": 3287505219
+    },
+    {
+      "name": "train/images/IMG00080.png",
+      "size": 3600966,
+      "crc": 3970063406
+    },
+    {
+      "name": "train/images/IMG00214.png",
+      "size": 1676486,
+      "crc": 1191511437
+    },
+    {
+      "name": "train/images/IMG00186.png",
+      "size": 3597423,
+      "crc": 885533245
+    },
+    {
+      "name": "train/images/IMG00255.png",
+      "size": 2968481,
+      "crc": 2554480250
+    },
+    {
+      "name": "train/images/IMG00477.png",
+      "size": 2423187,
+      "crc": 2854033546
+    },
+    {
+      "name": "train/images/IMG00552.png",
+      "size": 1519015,
+      "crc": 3608991814
+    },
+    {
+      "name": "train/images/IMG00474.png",
+      "size": 3409549,
+      "crc": 739144728
+    },
+    {
+      "name": "train/images/IMG00555.png",
+      "size": 1569450,
+      "crc": 2708145547
+    },
+    {
+      "name": "train/images/IMG00224.png",
+      "size": 1891032,
+      "crc": 1926929602
+    },
+    {
+      "name": "train/images/IMG00027.png",
+      "size": 4506285,
+      "crc": 3062573529
+    },
+    {
+      "name": "train/images/IMG00249.png",
+      "size": 1321265,
+      "crc": 3997828044
+    },
+    {
+      "name": "train/images/IMG00426.png",
+      "size": 1817025,
+      "crc": 1509782460
+    },
+    {
+      "name": "train/images/IMG00749.jpeg",
+      "size": 1627961,
+      "crc": 305146622
+    },
+    {
+      "name": "train/images/IMG00770.jpeg",
+      "size": 1460298,
+      "crc": 1774956494
+    },
+    {
+      "name": "train/images/IMG00206.png",
+      "size": 1848721,
+      "crc": 821308478
+    },
+    {
+      "name": "train/images/IMG00604.png",
+      "size": 2521087,
+      "crc": 682450022
+    },
+    {
+      "name": "train/images/IMG00620.png",
+      "size": 4802217,
+      "crc": 4086242152
+    },
+    {
+      "name": "train/images/IMG00313.png",
+      "size": 2579891,
+      "crc": 3985063440
+    },
+    {
+      "name": "train/images/IMG00181.png",
+      "size": 3518319,
+      "crc": 1142511248
+    },
+    {
+      "name": "train/images/IMG00690.jpeg",
+      "size": 1164061,
+      "crc": 150078378
+    },
+    {
+      "name": "train/images/IMG00156.png",
+      "size": 1951480,
+      "crc": 3511054072
+    },
+    {
+      "name": "train/images/IMG00328.png",
+      "size": 1840253,
+      "crc": 431759509
+    },
+    {
+      "name": "train/images/IMG00732.jpeg",
+      "size": 1619479,
+      "crc": 4177194714
+    },
+    {
+      "name": "train/images/IMG00388.png",
+      "size": 1049320,
+      "crc": 1765986910
+    },
+    {
+      "name": "train/images/IMG00020.png",
+      "size": 3251707,
+      "crc": 4023034986
+    },
+    {
+      "name": "train/images/IMG00684.jpeg",
+      "size": 1191414,
+      "crc": 4160718243
+    },
+    {
+      "name": "train/images/IMG00235.png",
+      "size": 1797715,
+      "crc": 176551750
+    },
+    {
+      "name": "train/images/IMG00544.png",
+      "size": 2298823,
+      "crc": 1425380409
+    },
+    {
+      "name": "train/images/IMG00594.png",
+      "size": 3954107,
+      "crc": 2462802663
+    },
+    {
+      "name": "train/images/IMG00207.png",
+      "size": 1912498,
+      "crc": 1396536485
+    },
+    {
+      "name": "train/images/IMG00407.png",
+      "size": 1686503,
+      "crc": 1514152596
+    },
+    {
+      "name": "train/images/IMG00242.png",
+      "size": 2346780,
+      "crc": 914471059
+    },
+    {
+      "name": "train/images/IMG00768.jpeg",
+      "size": 791413,
+      "crc": 1041936325
+    },
+    {
+      "name": "train/images/IMG00669.png",
+      "size": 4440575,
+      "crc": 1764415404
+    },
+    {
+      "name": "train/images/IMG00699.jpeg",
+      "size": 1350969,
+      "crc": 2776280931
+    },
+    {
+      "name": "train/images/IMG00115.png",
+      "size": 2990312,
+      "crc": 2805882802
+    },
+    {
+      "name": "train/images/IMG00123.png",
+      "size": 3177801,
+      "crc": 2165049419
+    },
+    {
+      "name": "train/images/IMG00417.png",
+      "size": 876595,
+      "crc": 3955810744
+    },
+    {
+      "name": "train/images/IMG00103.png",
+      "size": 2577944,
+      "crc": 337630731
+    },
+    {
+      "name": "train/images/IMG00258.png",
+      "size": 2021090,
+      "crc": 3449766485
+    },
+    {
+      "name": "train/images/IMG00437.png",
+      "size": 3177517,
+      "crc": 2821224818
+    },
+    {
+      "name": "train/images/IMG00668.png",
+      "size": 2573861,
+      "crc": 2274824288
+    },
+    {
+      "name": "train/images/IMG00114.png",
+      "size": 2987318,
+      "crc": 3535073809
+    },
+    {
+      "name": "train/images/IMG00287.png",
+      "size": 2776766,
+      "crc": 916208302
+    },
+    {
+      "name": "train/images/IMG00709.jpeg",
+      "size": 1374324,
+      "crc": 125894068
+    },
+    {
+      "name": "train/images/IMG00597.png",
+      "size": 4916283,
+      "crc": 137098877
+    },
+    {
+      "name": "train/images/IMG00464.png",
+      "size": 2617115,
+      "crc": 895112117
+    },
+    {
+      "name": "train/images/IMG00342.png",
+      "size": 1690919,
+      "crc": 181814453
+    },
+    {
+      "name": "train/images/IMG00405.png",
+      "size": 1022321,
+      "crc": 3728211298
+    },
+    {
+      "name": "train/images/IMG00139.png",
+      "size": 2301951,
+      "crc": 503869966
+    },
+    {
+      "name": "train/images/IMG00132.png",
+      "size": 2860489,
+      "crc": 3337572588
+    },
+    {
+      "name": "train/images/IMG00024.png",
+      "size": 3056663,
+      "crc": 2087965705
+    },
+    {
+      "name": "train/images/IMG00227.png",
+      "size": 1861572,
+      "crc": 2433260417
+    },
+    {
+      "name": "train/images/IMG00142.png",
+      "size": 2477431,
+      "crc": 3279769210
+    },
+    {
+      "name": "train/images/IMG00197.png",
+      "size": 1302883,
+      "crc": 2396928110
+    },
+    {
+      "name": "train/images/IMG00386.png",
+      "size": 1362967,
+      "crc": 2318177413
+    },
+    {
+      "name": "train/images/IMG00244.png",
+      "size": 975035,
+      "crc": 2635727913
+    },
+    {
+      "name": "train/images/IMG00390.png",
+      "size": 2188091,
+      "crc": 236778084
+    },
+    {
+      "name": "train/images/IMG00532.png",
+      "size": 2647773,
+      "crc": 4286427459
+    },
+    {
+      "name": "train/images/IMG00237.png",
+      "size": 1529311,
+      "crc": 4059632635
+    },
+    {
+      "name": "train/images/IMG00238.png",
+      "size": 2308620,
+      "crc": 1182252953
+    },
+    {
+      "name": "train/images/IMG00564.png",
+      "size": 3299907,
+      "crc": 353996075
+    },
+    {
+      "name": "train/images/IMG00205.png",
+      "size": 2025605,
+      "crc": 3101537244
+    },
+    {
+      "name": "train/images/IMG00590.png",
+      "size": 1649720,
+      "crc": 1120750951
+    },
+    {
+      "name": "train/images/IMG00047.png",
+      "size": 2495237,
+      "crc": 3820655090
+    },
+    {
+      "name": "train/images/IMG00704.jpeg",
+      "size": 1593133,
+      "crc": 2550920683
+    },
+    {
+      "name": "train/images/IMG00314.png",
+      "size": 1565746,
+      "crc": 2713439664
+    },
+    {
+      "name": "train/images/IMG00465.png",
+      "size": 2990149,
+      "crc": 4218230925
+    },
+    {
+      "name": "train/images/IMG00751.jpeg",
+      "size": 1827096,
+      "crc": 896766062
+    },
+    {
+      "name": "train/images/IMG00507.png",
+      "size": 1948716,
+      "crc": 1029911549
+    },
+    {
+      "name": "train/images/IMG00363.png",
+      "size": 1326748,
+      "crc": 23015139
+    },
+    {
+      "name": "train/images/IMG00715.jpeg",
+      "size": 1829462,
+      "crc": 53884883
+    },
+    {
+      "name": "train/images/IMG00272.png",
+      "size": 1383231,
+      "crc": 3866724196
+    },
+    {
+      "name": "train/images/IMG00361.png",
+      "size": 1179528,
+      "crc": 2131957600
+    },
+    {
+      "name": "train/images/IMG00182.png",
+      "size": 3192227,
+      "crc": 4020148293
+    },
+    {
+      "name": "train/images/IMG00250.png",
+      "size": 1463429,
+      "crc": 1393282438
+    },
+    {
+      "name": "train/images/IMG00630.png",
+      "size": 2089860,
+      "crc": 2975357525
+    },
+    {
+      "name": "train/images/IMG00318.png",
+      "size": 1759031,
+      "crc": 771014958
+    },
+    {
+      "name": "train/images/IMG00642.png",
+      "size": 2857317,
+      "crc": 4127649047
+    },
+    {
+      "name": "train/images/IMG00534.png",
+      "size": 1757515,
+      "crc": 1657594405
+    },
+    {
+      "name": "train/images/IMG00778.jpeg",
+      "size": 1565965,
+      "crc": 2738025998
+    },
+    {
+      "name": "train/images/IMG00433.png",
+      "size": 2620783,
+      "crc": 3556668948
+    },
+    {
+      "name": "train/images/IMG00655.png",
+      "size": 4582627,
+      "crc": 3960346201
+    },
+    {
+      "name": "train/images/IMG00180.png",
+      "size": 3485620,
+      "crc": 1607035674
+    },
+    {
+      "name": "train/images/IMG00203.png",
+      "size": 1674880,
+      "crc": 1515124391
+    },
+    {
+      "name": "train/images/IMG00656.png",
+      "size": 4589671,
+      "crc": 3508059789
+    },
+    {
+      "name": "train/images/IMG00536.png",
+      "size": 1799615,
+      "crc": 1528541623
+    },
+    {
+      "name": "train/labels/",
+      "size": 0,
+      "crc": 0
+    },
+    {
+      "name": "train/labels/IMG00092.txt",
+      "size": 3208,
+      "crc": 988524935
+    },
+    {
+      "name": "train/labels/IMG00046.txt",
+      "size": 3135,
+      "crc": 2654659884
+    },
+    {
+      "name": "train/labels/IMG00222.txt",
+      "size": 1206,
+      "crc": 268780377
+    },
+    {
+      "name": "train/labels/IMG00660.txt",
+      "size": 3650,
+      "crc": 1181262250
+    },
+    {
+      "name": "train/labels/IMG00219.txt",
+      "size": 2681,
+      "crc": 3713283746
+    },
+    {
+      "name": "train/labels/IMG00523.txt",
+      "size": 2240,
+      "crc": 3460711329
+    },
+    {
+      "name": "train/labels/IMG00311.txt",
+      "size": 2105,
+      "crc": 1651850522
+    },
+    {
+      "name": "train/labels/IMG00624.txt",
+      "size": 1699,
+      "crc": 423332522
+    },
+    {
+      "name": "train/labels/IMG00615.txt",
+      "size": 1536,
+      "crc": 1790455927
+    },
+    {
+      "name": "train/labels/IMG00131.txt",
+      "size": 6743,
+      "crc": 2959735525
+    },
+    {
+      "name": "train/labels/IMG00559.txt",
+      "size": 4618,
+      "crc": 2129090989
+    },
+    {
+      "name": "train/labels/IMG00185.txt",
+      "size": 2268,
+      "crc": 1171284444
+    },
+    {
+      "name": "train/labels/IMG00065.txt",
+      "size": 1209,
+      "crc": 3885329053
+    },
+    {
+      "name": "train/labels/IMG00571.txt",
+      "size": 2354,
+      "crc": 1066734785
+    },
+    {
+      "name": "train/labels/IMG00012.txt",
+      "size": 1950,
+      "crc": 1357258503
+    },
+    {
+      "name": "train/labels/IMG00400.txt",
+      "size": 1660,
+      "crc": 2013115031
+    },
+    {
+      "name": "train/labels/IMG00011.txt",
+      "size": 2169,
+      "crc": 1303182697
+    },
+    {
+      "name": "train/labels/IMG00067.txt",
+      "size": 3887,
+      "crc": 3972619036
+    },
+    {
+      "name": "train/labels/IMG00546.txt",
+      "size": 2723,
+      "crc": 387920389
+    },
+    {
+      "name": "train/labels/IMG00085.txt",
+      "size": 3147,
+      "crc": 628956214
+    },
+    {
+      "name": "train/labels/IMG00225.txt",
+      "size": 1683,
+      "crc": 443644218
+    },
+    {
+      "name": "train/labels/IMG00315.txt",
+      "size": 1218,
+      "crc": 3099512250
+    },
+    {
+      "name": "train/labels/IMG00443.txt",
+      "size": 889,
+      "crc": 2365264462
+    },
+    {
+      "name": "train/labels/IMG00063.txt",
+      "size": 2364,
+      "crc": 2773505169
+    },
+    {
+      "name": "train/labels/IMG00421.txt",
+      "size": 4043,
+      "crc": 3954329047
+    },
+    {
+      "name": "train/labels/IMG00632.txt",
+      "size": 1547,
+      "crc": 322026480
+    },
+    {
+      "name": "train/labels/IMG00726.txt",
+      "size": 1225,
+      "crc": 2175328601
+    },
+    {
+      "name": "train/labels/IMG00172.txt",
+      "size": 5571,
+      "crc": 2126224031
+    },
+    {
+      "name": "train/labels/IMG00438.txt",
+      "size": 6620,
+      "crc": 2001941504
+    },
+    {
+      "name": "train/labels/IMG00278.txt",
+      "size": 1220,
+      "crc": 3500831874
+    },
+    {
+      "name": "train/labels/IMG00081.txt",
+      "size": 2167,
+      "crc": 2558093467
+    },
+    {
+      "name": "train/labels/IMG00357.txt",
+      "size": 5546,
+      "crc": 639305923
+    },
+    {
+      "name": "train/labels/IMG00761.txt",
+      "size": 1138,
+      "crc": 3792606333
+    },
+    {
+      "name": "train/labels/IMG00265.txt",
+      "size": 1130,
+      "crc": 2047175927
+    },
+    {
+      "name": "train/labels/IMG00516.txt",
+      "size": 1215,
+      "crc": 1053379963
+    },
+    {
+      "name": "train/labels/IMG00165.txt",
+      "size": 2769,
+      "crc": 1715655082
+    },
+    {
+      "name": "train/labels/IMG00043.txt",
+      "size": 4109,
+      "crc": 551861684
+    },
+    {
+      "name": "train/labels/IMG00376.txt",
+      "size": 2732,
+      "crc": 432001169
+    },
+    {
+      "name": "train/labels/IMG00653.txt",
+      "size": 3564,
+      "crc": 2252604722
+    },
+    {
+      "name": "train/labels/IMG00375.txt",
+      "size": 2182,
+      "crc": 185290889
+    },
+    {
+      "name": "train/labels/IMG00682.txt",
+      "size": 4653,
+      "crc": 3036624614
+    },
+    {
+      "name": "train/labels/IMG00637.txt",
+      "size": 1454,
+      "crc": 620080140
+    },
+    {
+      "name": "train/labels/IMG00066.txt",
+      "size": 1700,
+      "crc": 218734201
+    },
+    {
+      "name": "train/labels/IMG00191.txt",
+      "size": 2740,
+      "crc": 779719078
+    },
+    {
+      "name": "train/labels/IMG00403.txt",
+      "size": 3481,
+      "crc": 2305842876
+    },
+    {
+      "name": "train/labels/IMG00455.txt",
+      "size": 1040,
+      "crc": 2531533411
+    },
+    {
+      "name": "train/labels/IMG00489.txt",
+      "size": 2279,
+      "crc": 514775380
+    },
+    {
+      "name": "train/labels/IMG00004.txt",
+      "size": 1203,
+      "crc": 106931722
+    },
+    {
+      "name": "train/labels/IMG00776.txt",
+      "size": 10414,
+      "crc": 2828425615
+    },
+    {
+      "name": "train/labels/IMG00319.txt",
+      "size": 1215,
+      "crc": 830399785
+    },
+    {
+      "name": "train/labels/IMG00036.txt",
+      "size": 2677,
+      "crc": 452391028
+    },
+    {
+      "name": "train/labels/IMG00631.txt",
+      "size": 2148,
+      "crc": 517470072
+    },
+    {
+      "name": "train/labels/IMG00538.txt",
+      "size": 1222,
+      "crc": 2430259339
+    },
+    {
+      "name": "train/labels/IMG00764.txt",
+      "size": 2179,
+      "crc": 1597234462
+    },
+    {
+      "name": "train/labels/IMG00453.txt",
+      "size": 2192,
+      "crc": 2617905406
+    },
+    {
+      "name": "train/labels/IMG00469.txt",
+      "size": 4968,
+      "crc": 2744279974
+    },
+    {
+      "name": "train/labels/IMG00033.txt",
+      "size": 1784,
+      "crc": 171048998
+    },
+    {
+      "name": "train/labels/IMG00107.txt",
+      "size": 2175,
+      "crc": 1863310434
+    },
+    {
+      "name": "train/labels/IMG00473.txt",
+      "size": 1200,
+      "crc": 3369222712
+    },
+    {
+      "name": "train/labels/IMG00520.txt",
+      "size": 1207,
+      "crc": 856645665
+    },
+    {
+      "name": "train/labels/IMG00429.txt",
+      "size": 3482,
+      "crc": 3479354481
+    },
+    {
+      "name": "train/labels/IMG00164.txt",
+      "size": 1219,
+      "crc": 1700479457
+    },
+    {
+      "name": "train/labels/IMG00576.txt",
+      "size": 1134,
+      "crc": 1933774533
+    },
+    {
+      "name": "train/labels/IMG00623.txt",
+      "size": 1786,
+      "crc": 3952669863
+    },
+    {
+      "name": "train/labels/IMG00605.txt",
+      "size": 1528,
+      "crc": 1077379771
+    },
+    {
+      "name": "train/labels/IMG00276.txt",
+      "size": 2754,
+      "crc": 1944633372
+    },
+    {
+      "name": "train/labels/IMG00146.txt",
+      "size": 2262,
+      "crc": 477274208
+    },
+    {
+      "name": "train/labels/IMG00398.txt",
+      "size": 3619,
+      "crc": 2485106993
+    },
+    {
+      "name": "train/labels/IMG00178.txt",
+      "size": 1203,
+      "crc": 3757413653
+    },
+    {
+      "name": "train/labels/IMG00460.txt",
+      "size": 5551,
+      "crc": 2106968250
+    },
+    {
+      "name": "train/labels/IMG00193.txt",
+      "size": 1209,
+      "crc": 493611575
+    },
+    {
+      "name": "train/labels/IMG00095.txt",
+      "size": 3632,
+      "crc": 3551859390
+    },
+    {
+      "name": "train/labels/IMG00626.txt",
+      "size": 2276,
+      "crc": 652844523
+    },
+    {
+      "name": "train/labels/IMG00038.txt",
+      "size": 2649,
+      "crc": 3300599097
+    },
+    {
+      "name": "train/labels/IMG00602.txt",
+      "size": 3152,
+      "crc": 4107800700
+    },
+    {
+      "name": "train/labels/IMG00010.txt",
+      "size": 3645,
+      "crc": 1338962487
+    },
+    {
+      "name": "train/labels/IMG00707.txt",
+      "size": 1634,
+      "crc": 1101166826
+    },
+    {
+      "name": "train/labels/IMG00451.txt",
+      "size": 1222,
+      "crc": 3667803544
+    },
+    {
+      "name": "train/labels/IMG00547.txt",
+      "size": 3229,
+      "crc": 1273739773
+    },
+    {
+      "name": "train/labels/IMG00494.txt",
+      "size": 1169,
+      "crc": 3212389602
+    },
+    {
+      "name": "train/labels/IMG00058.txt",
+      "size": 4195,
+      "crc": 2925752625
+    },
+    {
+      "name": "train/labels/IMG00134.txt",
+      "size": 1672,
+      "crc": 2141550242
+    },
+    {
+      "name": "train/labels/IMG00316.txt",
+      "size": 2184,
+      "crc": 4048368512
+    },
+    {
+      "name": "train/labels/IMG00257.txt",
+      "size": 2760,
+      "crc": 195957593
+    },
+    {
+      "name": "train/labels/IMG00248.txt",
+      "size": 1135,
+      "crc": 2665744676
+    },
+    {
+      "name": "train/labels/IMG00574.txt",
+      "size": 1691,
+      "crc": 359158011
+    },
+    {
+      "name": "train/labels/IMG00416.txt",
+      "size": 891,
+      "crc": 2116389676
+    },
+    {
+      "name": "train/labels/IMG00414.txt",
+      "size": 1226,
+      "crc": 1302261164
+    },
+    {
+      "name": "train/labels/IMG00663.txt",
+      "size": 3164,
+      "crc": 2271112164
+    },
+    {
+      "name": "train/labels/IMG00044.txt",
+      "size": 4908,
+      "crc": 304590238
+    },
+    {
+      "name": "train/labels/IMG00577.txt",
+      "size": 4927,
+      "crc": 1280226031
+    },
+    {
+      "name": "train/labels/IMG00711.txt",
+      "size": 1774,
+      "crc": 1587546828
+    },
+    {
+      "name": "train/labels/IMG00619.txt",
+      "size": 1697,
+      "crc": 1858341345
+    },
+    {
+      "name": "train/labels/IMG00167.txt",
+      "size": 3237,
+      "crc": 3898237266
+    },
+    {
+      "name": "train/labels/IMG00483.txt",
+      "size": 1781,
+      "crc": 2228361569
+    },
+    {
+      "name": "train/labels/IMG00127.txt",
+      "size": 1210,
+      "crc": 1043648548
+    },
+    {
+      "name": "train/labels/IMG00259.txt",
+      "size": 2524,
+      "crc": 170080181
+    },
+    {
+      "name": "train/labels/IMG00592.txt",
+      "size": 2589,
+      "crc": 3852343601
+    },
+    {
+      "name": "train/labels/IMG00754.txt",
+      "size": 6330,
+      "crc": 2585594531
+    },
+    {
+      "name": "train/labels/IMG00303.txt",
+      "size": 3628,
+      "crc": 674713852
+    },
+    {
+      "name": "train/labels/IMG00569.txt",
+      "size": 2502,
+      "crc": 2282368292
+    },
+    {
+      "name": "train/labels/IMG00026.txt",
+      "size": 1373,
+      "crc": 3443912586
+    },
+    {
+      "name": "train/labels/IMG00340.txt",
+      "size": 2671,
+      "crc": 912993021
+    },
+    {
+      "name": "train/labels/IMG00137.txt",
+      "size": 961,
+      "crc": 1927429799
+    },
+    {
+      "name": "train/labels/IMG00029.txt",
+      "size": 1221,
+      "crc": 1727874943
+    },
+    {
+      "name": "train/labels/IMG00560.txt",
+      "size": 3606,
+      "crc": 78686939
+    },
+    {
+      "name": "train/labels/IMG00100.txt",
+      "size": 5903,
+      "crc": 1551604907
+    },
+    {
+      "name": "train/labels/IMG00634.txt",
+      "size": 1703,
+      "crc": 2309789015
+    },
+    {
+      "name": "train/labels/IMG00736.txt",
+      "size": 3628,
+      "crc": 2392026995
+    },
+    {
+      "name": "train/labels/IMG00298.txt",
+      "size": 1705,
+      "crc": 2591445527
+    },
+    {
+      "name": "train/labels/IMG00370.txt",
+      "size": 4136,
+      "crc": 3136141906
+    },
+    {
+      "name": "train/labels/IMG00059.txt",
+      "size": 9880,
+      "crc": 1393236388
+    },
+    {
+      "name": "train/labels/IMG00570.txt",
+      "size": 5165,
+      "crc": 3873452544
+    },
+    {
+      "name": "train/labels/IMG00022.txt",
+      "size": 1545,
+      "crc": 1988466446
+    },
+    {
+      "name": "train/labels/IMG00129.txt",
+      "size": 2749,
+      "crc": 3666331883
+    },
+    {
+      "name": "train/labels/IMG00301.txt",
+      "size": 4618,
+      "crc": 2455703050
+    },
+    {
+      "name": "train/labels/IMG00228.txt",
+      "size": 1696,
+      "crc": 4105470912
+    },
+    {
+      "name": "train/labels/IMG00540.txt",
+      "size": 1771,
+      "crc": 3944637500
+    },
+    {
+      "name": "train/labels/IMG00226.txt",
+      "size": 1711,
+      "crc": 1934787099
+    },
+    {
+      "name": "train/labels/IMG00530.txt",
+      "size": 3613,
+      "crc": 11583531
+    },
+    {
+      "name": "train/labels/IMG00611.txt",
+      "size": 941,
+      "crc": 1171444922
+    },
+    {
+      "name": "train/labels/IMG00283.txt",
+      "size": 3506,
+      "crc": 2504800986
+    },
+    {
+      "name": "train/labels/IMG00337.txt",
+      "size": 4611,
+      "crc": 3899170221
+    },
+    {
+      "name": "train/labels/IMG00383.txt",
+      "size": 1052,
+      "crc": 3942085694
+    },
+    {
+      "name": "train/labels/IMG00743.txt",
+      "size": 1441,
+      "crc": 989403888
+    },
+    {
+      "name": "train/labels/IMG00458.txt",
+      "size": 3877,
+      "crc": 3776340749
+    },
+    {
+      "name": "train/labels/IMG00049.txt",
+      "size": 6278,
+      "crc": 3862435419
+    },
+    {
+      "name": "train/labels/IMG00689.txt",
+      "size": 3716,
+      "crc": 364248233
+    },
+    {
+      "name": "train/labels/IMG00353.txt",
+      "size": 2034,
+      "crc": 4215100726
+    },
+    {
+      "name": "train/labels/IMG00734.txt",
+      "size": 1040,
+      "crc": 591048050
+    },
+    {
+      "name": "train/labels/IMG00344.txt",
+      "size": 4598,
+      "crc": 955590628
+    },
+    {
+      "name": "train/labels/IMG00001.txt",
+      "size": 1606,
+      "crc": 1881466613
+    },
+    {
+      "name": "train/labels/IMG00622.txt",
+      "size": 1039,
+      "crc": 1440520023
+    },
+    {
+      "name": "train/labels/IMG00775.txt",
+      "size": 1216,
+      "crc": 2258018597
+    },
+    {
+      "name": "train/labels/IMG00638.txt",
+      "size": 2024,
+      "crc": 4250226087
+    },
+    {
+      "name": "train/labels/IMG00394.txt",
+      "size": 892,
+      "crc": 247045382
+    },
+    {
+      "name": "train/labels/IMG00335.txt",
+      "size": 1133,
+      "crc": 676881879
+    },
+    {
+      "name": "train/labels/IMG00009.txt",
+      "size": 1200,
+      "crc": 65453215
+    },
+    {
+      "name": "train/labels/IMG00777.txt",
+      "size": 2611,
+      "crc": 356417505
+    },
+    {
+      "name": "train/labels/IMG00459.txt",
+      "size": 7496,
+      "crc": 4159890928
+    },
+    {
+      "name": "train/labels/IMG00670.txt",
+      "size": 4557,
+      "crc": 2500903300
+    },
+    {
+      "name": "train/labels/IMG00057.txt",
+      "size": 990,
+      "crc": 552970809
+    },
+    {
+      "name": "train/labels/IMG00581.txt",
+      "size": 2268,
+      "crc": 1241438900
+    },
+    {
+      "name": "train/labels/IMG00269.txt",
+      "size": 1054,
+      "crc": 1173116670
+    },
+    {
+      "name": "train/labels/IMG00511.txt",
+      "size": 3741,
+      "crc": 2127688077
+    },
+    {
+      "name": "train/labels/IMG00580.txt",
+      "size": 3562,
+      "crc": 4086384091
+    },
+    {
+      "name": "train/labels/IMG00173.txt",
+      "size": 4154,
+      "crc": 3135025224
+    },
+    {
+      "name": "train/labels/IMG00525.txt",
+      "size": 3150,
+      "crc": 3351500045
+    },
+    {
+      "name": "train/labels/IMG00503.txt",
+      "size": 3152,
+      "crc": 53759345
+    },
+    {
+      "name": "train/labels/IMG00447.txt",
+      "size": 3241,
+      "crc": 2416467311
+    },
+    {
+      "name": "train/labels/IMG00246.txt",
+      "size": 2591,
+      "crc": 4154648533
+    },
+    {
+      "name": "train/labels/IMG00023.txt",
+      "size": 2610,
+      "crc": 2118557485
+    },
+    {
+      "name": "train/labels/IMG00177.txt",
+      "size": 6944,
+      "crc": 2485009519
+    },
+    {
+      "name": "train/labels/IMG00239.txt",
+      "size": 1567,
+      "crc": 4200082076
+    },
+    {
+      "name": "train/labels/IMG00260.txt",
+      "size": 1695,
+      "crc": 1517298475
+    },
+    {
+      "name": "train/labels/IMG00196.txt",
+      "size": 2279,
+      "crc": 429197234
+    },
+    {
+      "name": "train/labels/IMG00032.txt",
+      "size": 1134,
+      "crc": 2989652480
+    },
+    {
+      "name": "train/labels/IMG00755.txt",
+      "size": 5289,
+      "crc": 3596691427
+    },
+    {
+      "name": "train/labels/IMG00747.txt",
+      "size": 1055,
+      "crc": 3669777017
+    },
+    {
+      "name": "train/labels/IMG00294.txt",
+      "size": 1704,
+      "crc": 3409749215
+    },
+    {
+      "name": "train/labels/IMG00759.txt",
+      "size": 2988,
+      "crc": 451886029
+    },
+    {
+      "name": "train/labels/IMG00251.txt",
+      "size": 1136,
+      "crc": 530214536
+    },
+    {
+      "name": "train/labels/IMG00217.txt",
+      "size": 1122,
+      "crc": 879299178
+    },
+    {
+      "name": "train/labels/IMG00299.txt",
+      "size": 4582,
+      "crc": 2815356491
+    },
+    {
+      "name": "train/labels/IMG00002.txt",
+      "size": 5826,
+      "crc": 410590232
+    },
+    {
+      "name": "train/labels/IMG00149.txt",
+      "size": 1699,
+      "crc": 2821670100
+    },
+    {
+      "name": "train/labels/IMG00170.txt",
+      "size": 5612,
+      "crc": 1656996082
+    },
+    {
+      "name": "train/labels/IMG00126.txt",
+      "size": 1131,
+      "crc": 2268757854
+    },
+    {
+      "name": "train/labels/IMG00143.txt",
+      "size": 1704,
+      "crc": 329374159
+    },
+    {
+      "name": "train/labels/IMG00673.txt",
+      "size": 5150,
+      "crc": 3229097060
+    },
+    {
+      "name": "train/labels/IMG00373.txt",
+      "size": 2570,
+      "crc": 3111967490
+    },
+    {
+      "name": "train/labels/IMG00513.txt",
+      "size": 2661,
+      "crc": 2974991775
+    },
+    {
+      "name": "train/labels/IMG00722.txt",
+      "size": 6194,
+      "crc": 2797140000
+    },
+    {
+      "name": "train/labels/IMG00596.txt",
+      "size": 4220,
+      "crc": 4154949144
+    },
+    {
+      "name": "train/labels/IMG00737.txt",
+      "size": 1128,
+      "crc": 767759231
+    },
+    {
+      "name": "train/labels/IMG00159.txt",
+      "size": 1211,
+      "crc": 4084717708
+    },
+    {
+      "name": "train/labels/IMG00441.txt",
+      "size": 1613,
+      "crc": 1763809542
+    },
+    {
+      "name": "train/labels/IMG00727.txt",
+      "size": 1226,
+      "crc": 444050287
+    },
+    {
+      "name": "train/labels/IMG00194.txt",
+      "size": 2193,
+      "crc": 3087306108
+    },
+    {
+      "name": "train/labels/IMG00769.txt",
+      "size": 1224,
+      "crc": 2448176133
+    },
+    {
+      "name": "train/labels/IMG00371.txt",
+      "size": 1734,
+      "crc": 1159481360
+    },
+    {
+      "name": "train/labels/IMG00312.txt",
+      "size": 1224,
+      "crc": 4002701340
+    },
+    {
+      "name": "train/labels/IMG00140.txt",
+      "size": 1196,
+      "crc": 1609358660
+    },
+    {
+      "name": "train/labels/IMG00112.txt",
+      "size": 1043,
+      "crc": 2303417046
+    },
+    {
+      "name": "train/labels/IMG00628.txt",
+      "size": 2269,
+      "crc": 912108012
+    },
+    {
+      "name": "train/labels/IMG00166.txt",
+      "size": 3648,
+      "crc": 2731643988
+    },
+    {
+      "name": "train/labels/IMG00515.txt",
+      "size": 5006,
+      "crc": 102231812
+    },
+    {
+      "name": "train/labels/IMG00208.txt",
+      "size": 1789,
+      "crc": 2381581177
+    },
+    {
+      "name": "train/labels/IMG00291.txt",
+      "size": 3501,
+      "crc": 386435046
+    },
+    {
+      "name": "train/labels/IMG00120.txt",
+      "size": 2175,
+      "crc": 3007451309
+    },
+    {
+      "name": "train/labels/IMG00053.txt",
+      "size": 1060,
+      "crc": 1508970864
+    },
+    {
+      "name": "train/labels/IMG00719.txt",
+      "size": 2189,
+      "crc": 3153848869
+    },
+    {
+      "name": "train/labels/IMG00779.txt",
+      "size": 1228,
+      "crc": 3024684408
+    },
+    {
+      "name": "train/labels/IMG00518.txt",
+      "size": 3636,
+      "crc": 3112166702
+    },
+    {
+      "name": "train/labels/IMG00401.txt",
+      "size": 5543,
+      "crc": 4125518504
+    },
+    {
+      "name": "train/labels/IMG00210.txt",
+      "size": 1787,
+      "crc": 1227332469
+    },
+    {
+      "name": "train/labels/IMG00006.txt",
+      "size": 1919,
+      "crc": 4038202653
+    },
+    {
+      "name": "train/labels/IMG00093.txt",
+      "size": 2824,
+      "crc": 3805312785
+    },
+    {
+      "name": "train/labels/IMG00463.txt",
+      "size": 2101,
+      "crc": 522972371
+    },
+    {
+      "name": "train/labels/IMG00612.txt",
+      "size": 2033,
+      "crc": 256730224
+    },
+    {
+      "name": "train/labels/IMG00396.txt",
+      "size": 892,
+      "crc": 3837541638
+    },
+    {
+      "name": "train/labels/IMG00168.txt",
+      "size": 3716,
+      "crc": 3625068476
+    },
+    {
+      "name": "train/labels/IMG00014.txt",
+      "size": 4028,
+      "crc": 1019066592
+    },
+    {
+      "name": "train/labels/IMG00724.txt",
+      "size": 4091,
+      "crc": 2865660045
+    },
+    {
+      "name": "train/labels/IMG00183.txt",
+      "size": 2354,
+      "crc": 2367569975
+    },
+    {
+      "name": "train/labels/IMG00352.txt",
+      "size": 4863,
+      "crc": 130515284
+    },
+    {
+      "name": "train/labels/IMG00346.txt",
+      "size": 2202,
+      "crc": 657320485
+    },
+    {
+      "name": "train/labels/IMG00321.txt",
+      "size": 2996,
+      "crc": 2664183231
+    },
+    {
+      "name": "train/labels/IMG00408.txt",
+      "size": 2594,
+      "crc": 3156929509
+    },
+    {
+      "name": "train/labels/IMG00728.txt",
+      "size": 1055,
+      "crc": 681442122
+    },
+    {
+      "name": "train/labels/IMG00329.txt",
+      "size": 1215,
+      "crc": 3405263771
+    },
+    {
+      "name": "train/labels/IMG00382.txt",
+      "size": 1115,
+      "crc": 3948686747
+    },
+    {
+      "name": "train/labels/IMG00392.txt",
+      "size": 1536,
+      "crc": 3837024097
+    },
+    {
+      "name": "train/labels/IMG00475.txt",
+      "size": 7535,
+      "crc": 503189974
+    },
+    {
+      "name": "train/labels/IMG00616.txt",
+      "size": 2677,
+      "crc": 3204391648
+    },
+    {
+      "name": "train/labels/IMG00136.txt",
+      "size": 1040,
+      "crc": 2608698712
+    },
+    {
+      "name": "train/labels/IMG00304.txt",
+      "size": 2748,
+      "crc": 144798982
+    },
+    {
+      "name": "train/labels/IMG00664.txt",
+      "size": 5059,
+      "crc": 2712026752
+    },
+    {
+      "name": "train/labels/IMG00324.txt",
+      "size": 5108,
+      "crc": 3693753477
+    },
+    {
+      "name": "train/labels/IMG00374.txt",
+      "size": 1766,
+      "crc": 3489508675
+    },
+    {
+      "name": "train/labels/IMG00647.txt",
+      "size": 1128,
+      "crc": 1769247805
+    },
+    {
+      "name": "train/labels/IMG00349.txt",
+      "size": 4213,
+      "crc": 3214281346
+    },
+    {
+      "name": "train/labels/IMG00481.txt",
+      "size": 3065,
+      "crc": 3914627415
+    },
+    {
+      "name": "train/labels/IMG00187.txt",
+      "size": 1696,
+      "crc": 427117373
+    },
+    {
+      "name": "train/labels/IMG00558.txt",
+      "size": 2666,
+      "crc": 3679522840
+    },
+    {
+      "name": "train/labels/IMG00019.txt",
+      "size": 4118,
+      "crc": 396526929
+    },
+    {
+      "name": "train/labels/IMG00121.txt",
+      "size": 2183,
+      "crc": 3914026527
+    },
+    {
+      "name": "train/labels/IMG00461.txt",
+      "size": 2160,
+      "crc": 164432314
+    },
+    {
+      "name": "train/labels/IMG00695.txt",
+      "size": 1140,
+      "crc": 3710898717
+    },
+    {
+      "name": "train/labels/IMG00723.txt",
+      "size": 1222,
+      "crc": 2233043134
+    },
+    {
+      "name": "train/labels/IMG00608.txt",
+      "size": 1529,
+      "crc": 2433161021
+    },
+    {
+      "name": "train/labels/IMG00297.txt",
+      "size": 1379,
+      "crc": 1582118521
+    },
+    {
+      "name": "train/labels/IMG00035.txt",
+      "size": 1688,
+      "crc": 2725228894
+    },
+    {
+      "name": "train/labels/IMG00234.txt",
+      "size": 1137,
+      "crc": 1000767340
+    },
+    {
+      "name": "train/labels/IMG00568.txt",
+      "size": 3135,
+      "crc": 249017789
+    },
+    {
+      "name": "train/labels/IMG00702.txt",
+      "size": 1131,
+      "crc": 3949356966
+    },
+    {
+      "name": "train/labels/IMG00633.txt",
+      "size": 1129,
+      "crc": 254110892
+    },
+    {
+      "name": "train/labels/IMG00145.txt",
+      "size": 1670,
+      "crc": 2154981182
+    },
+    {
+      "name": "train/labels/IMG00369.txt",
+      "size": 3373,
+      "crc": 1980358981
+    },
+    {
+      "name": "train/labels/IMG00502.txt",
+      "size": 1705,
+      "crc": 790694371
+    },
+    {
+      "name": "train/labels/IMG00424.txt",
+      "size": 4025,
+      "crc": 2220209729
+    },
+    {
+      "name": "train/labels/IMG00030.txt",
+      "size": 1213,
+      "crc": 833244545
+    },
+    {
+      "name": "train/labels/IMG00745.txt",
+      "size": 5888,
+      "crc": 1701641598
+    },
+    {
+      "name": "train/labels/IMG00266.txt",
+      "size": 1217,
+      "crc": 3798809601
+    },
+    {
+      "name": "train/labels/IMG00672.txt",
+      "size": 4187,
+      "crc": 819709341
+    },
+    {
+      "name": "train/labels/IMG00273.txt",
+      "size": 1780,
+      "crc": 112790411
+    },
+    {
+      "name": "train/labels/IMG00359.txt",
+      "size": 2264,
+      "crc": 3297563811
+    },
+    {
+      "name": "train/labels/IMG00391.txt",
+      "size": 5952,
+      "crc": 3206197727
+    },
+    {
+      "name": "train/labels/IMG00762.txt",
+      "size": 3020,
+      "crc": 4128634282
+    },
+    {
+      "name": "train/labels/IMG00434.txt",
+      "size": 4594,
+      "crc": 2441019686
+    },
+    {
+      "name": "train/labels/IMG00721.txt",
+      "size": 1123,
+      "crc": 1832262037
+    },
+    {
+      "name": "train/labels/IMG00070.txt",
+      "size": 1705,
+      "crc": 4118711314
+    },
+    {
+      "name": "train/labels/IMG00325.txt",
+      "size": 3162,
+      "crc": 2261891991
+    },
+    {
+      "name": "train/labels/IMG00218.txt",
+      "size": 11439,
+      "crc": 3748290985
+    },
+    {
+      "name": "train/labels/IMG00531.txt",
+      "size": 2099,
+      "crc": 1234963906
+    },
+    {
+      "name": "train/labels/IMG00322.txt",
+      "size": 2268,
+      "crc": 1146445920
+    },
+    {
+      "name": "train/labels/IMG00499.txt",
+      "size": 1615,
+      "crc": 3990009392
+    },
+    {
+      "name": "train/labels/IMG00641.txt",
+      "size": 1692,
+      "crc": 2897839615
+    },
+    {
+      "name": "train/labels/IMG00007.txt",
+      "size": 2663,
+      "crc": 1481019104
+    },
+    {
+      "name": "train/labels/IMG00659.txt",
+      "size": 2641,
+      "crc": 2840341223
+    },
+    {
+      "name": "train/labels/IMG00500.txt",
+      "size": 1617,
+      "crc": 1617419225
+    },
+    {
+      "name": "train/labels/IMG00445.txt",
+      "size": 4898,
+      "crc": 2570535450
+    },
+    {
+      "name": "train/labels/IMG00658.txt",
+      "size": 2920,
+      "crc": 2728376614
+    },
+    {
+      "name": "train/labels/IMG00308.txt",
+      "size": 1690,
+      "crc": 1799608790
+    },
+    {
+      "name": "train/labels/IMG00573.txt",
+      "size": 3709,
+      "crc": 4161306531
+    },
+    {
+      "name": "train/labels/IMG00635.txt",
+      "size": 1703,
+      "crc": 2050333537
+    },
+    {
+      "name": "train/labels/IMG00495.txt",
+      "size": 1705,
+      "crc": 101331198
+    },
+    {
+      "name": "train/labels/IMG00556.txt",
+      "size": 2661,
+      "crc": 2744618304
+    },
+    {
+      "name": "train/labels/IMG00240.txt",
+      "size": 2821,
+      "crc": 1458706992
+    },
+    {
+      "name": "train/labels/IMG00326.txt",
+      "size": 2267,
+      "crc": 3506743411
+    },
+    {
+      "name": "train/labels/IMG00654.txt",
+      "size": 2904,
+      "crc": 4146586663
+    },
+    {
+      "name": "train/labels/IMG00055.txt",
+      "size": 1038,
+      "crc": 3545173793
+    },
+    {
+      "name": "train/labels/IMG00578.txt",
+      "size": 1110,
+      "crc": 2110955521
+    },
+    {
+      "name": "train/labels/IMG00774.txt",
+      "size": 1143,
+      "crc": 723181061
+    },
+    {
+      "name": "train/labels/IMG00154.txt",
+      "size": 1130,
+      "crc": 2092629729
+    },
+    {
+      "name": "train/labels/IMG00008.txt",
+      "size": 1193,
+      "crc": 2971130180
+    },
+    {
+      "name": "train/labels/IMG00082.txt",
+      "size": 726,
+      "crc": 2997163766
+    },
+    {
+      "name": "train/labels/IMG00336.txt",
+      "size": 1127,
+      "crc": 399451083
+    },
+    {
+      "name": "train/labels/IMG00268.txt",
+      "size": 3647,
+      "crc": 1284196071
+    },
+    {
+      "name": "train/labels/IMG00582.txt",
+      "size": 1707,
+      "crc": 2036924293
+    },
+    {
+      "name": "train/labels/IMG00279.txt",
+      "size": 1052,
+      "crc": 260289272
+    },
+    {
+      "name": "train/labels/IMG00216.txt",
+      "size": 2674,
+      "crc": 1960208676
+    },
+    {
+      "name": "train/labels/IMG00285.txt",
+      "size": 6055,
+      "crc": 2561392049
+    },
+    {
+      "name": "train/labels/IMG00365.txt",
+      "size": 3644,
+      "crc": 2647362922
+    },
+    {
+      "name": "train/labels/IMG00586.txt",
+      "size": 5615,
+      "crc": 3324798131
+    },
+    {
+      "name": "train/labels/IMG00037.txt",
+      "size": 3468,
+      "crc": 3070671071
+    },
+    {
+      "name": "train/labels/IMG00104.txt",
+      "size": 1216,
+      "crc": 2305592358
+    },
+    {
+      "name": "train/labels/IMG00348.txt",
+      "size": 2676,
+      "crc": 3678179208
+    },
+    {
+      "name": "train/labels/IMG00708.txt",
+      "size": 1127,
+      "crc": 1548811455
+    },
+    {
+      "name": "train/labels/IMG00649.txt",
+      "size": 1218,
+      "crc": 3463300606
+    },
+    {
+      "name": "train/labels/IMG00209.txt",
+      "size": 3629,
+      "crc": 1396245283
+    },
+    {
+      "name": "train/labels/IMG00174.txt",
+      "size": 3013,
+      "crc": 2042605003
+    },
+    {
+      "name": "train/labels/IMG00163.txt",
+      "size": 1712,
+      "crc": 4228021352
+    },
+    {
+      "name": "train/labels/IMG00703.txt",
+      "size": 1139,
+      "crc": 1683051493
+    },
+    {
+      "name": "train/labels/IMG00466.txt",
+      "size": 1866,
+      "crc": 4194440020
+    },
+    {
+      "name": "train/labels/IMG00579.txt",
+      "size": 1222,
+      "crc": 3290242478
+    },
+    {
+      "name": "train/labels/IMG00470.txt",
+      "size": 1205,
+      "crc": 1362499809
+    },
+    {
+      "name": "train/labels/IMG00356.txt",
+      "size": 5972,
+      "crc": 2782567398
+    },
+    {
+      "name": "train/labels/IMG00522.txt",
+      "size": 2668,
+      "crc": 3777551452
+    },
+    {
+      "name": "train/labels/IMG00295.txt",
+      "size": 1374,
+      "crc": 2784913825
+    },
+    {
+      "name": "train/labels/IMG00150.txt",
+      "size": 1208,
+      "crc": 1360553850
+    },
+    {
+      "name": "train/labels/IMG00607.txt",
+      "size": 1196,
+      "crc": 1927134399
+    },
+    {
+      "name": "train/labels/IMG00333.txt",
+      "size": 1620,
+      "crc": 3252274497
+    },
+    {
+      "name": "train/labels/IMG00347.txt",
+      "size": 1214,
+      "crc": 1242553905
+    },
+    {
+      "name": "train/labels/IMG00618.txt",
+      "size": 1133,
+      "crc": 875858376
+    },
+    {
+      "name": "train/labels/IMG00384.txt",
+      "size": 2239,
+      "crc": 88154073
+    },
+    {
+      "name": "train/labels/IMG00411.txt",
+      "size": 2191,
+      "crc": 903158225
+    },
+    {
+      "name": "train/labels/IMG00543.txt",
+      "size": 1194,
+      "crc": 4294817033
+    },
+    {
+      "name": "train/labels/IMG00368.txt",
+      "size": 1198,
+      "crc": 3916830468
+    },
+    {
+      "name": "train/labels/IMG00666.txt",
+      "size": 5508,
+      "crc": 2873084060
+    },
+    {
+      "name": "train/labels/IMG00701.txt",
+      "size": 2659,
+      "crc": 3603290883
+    },
+    {
+      "name": "train/labels/IMG00264.txt",
+      "size": 1209,
+      "crc": 1510769347
+    },
+    {
+      "name": "train/labels/IMG00432.txt",
+      "size": 2097,
+      "crc": 4291155431
+    },
+    {
+      "name": "train/labels/IMG00553.txt",
+      "size": 1296,
+      "crc": 1828298374
+    },
+    {
+      "name": "train/labels/IMG00410.txt",
+      "size": 2667,
+      "crc": 3114484085
+    },
+    {
+      "name": "train/labels/IMG00435.txt",
+      "size": 2183,
+      "crc": 2576090963
+    },
+    {
+      "name": "train/labels/IMG00109.txt",
+      "size": 4579,
+      "crc": 3649290767
+    },
+    {
+      "name": "train/labels/IMG00760.txt",
+      "size": 1796,
+      "crc": 4181605745
+    },
+    {
+      "name": "train/labels/IMG00395.txt",
+      "size": 1148,
+      "crc": 4075445833
+    },
+    {
+      "name": "train/labels/IMG00588.txt",
+      "size": 2264,
+      "crc": 1068895136
+    },
+    {
+      "name": "train/labels/IMG00472.txt",
+      "size": 1047,
+      "crc": 3559652827
+    },
+    {
+      "name": "train/labels/IMG00366.txt",
+      "size": 5012,
+      "crc": 1565786729
+    },
+    {
+      "name": "train/labels/IMG00505.txt",
+      "size": 1215,
+      "crc": 638581583
+    },
+    {
+      "name": "train/labels/IMG00422.txt",
+      "size": 3310,
+      "crc": 2807458580
+    },
+    {
+      "name": "train/labels/IMG00144.txt",
+      "size": 1530,
+      "crc": 746137025
+    },
+    {
+      "name": "train/labels/IMG00741.txt",
+      "size": 1138,
+      "crc": 4240090341
+    },
+    {
+      "name": "train/labels/IMG00629.txt",
+      "size": 1152,
+      "crc": 2483002355
+    },
+    {
+      "name": "train/labels/IMG00086.txt",
+      "size": 1213,
+      "crc": 1159908691
+    },
+    {
+      "name": "train/labels/IMG00752.txt",
+      "size": 1705,
+      "crc": 1513050300
+    },
+    {
+      "name": "train/labels/IMG00694.txt",
+      "size": 3080,
+      "crc": 1861214598
+    },
+    {
+      "name": "train/labels/IMG00042.txt",
+      "size": 1217,
+      "crc": 389492294
+    },
+    {
+      "name": "train/labels/IMG00467.txt",
+      "size": 4131,
+      "crc": 3964466225
+    },
+    {
+      "name": "train/labels/IMG00290.txt",
+      "size": 2266,
+      "crc": 3134477357
+    },
+    {
+      "name": "train/labels/IMG00541.txt",
+      "size": 3170,
+      "crc": 923209100
+    },
+    {
+      "name": "train/labels/IMG00542.txt",
+      "size": 4123,
+      "crc": 4236257802
+    },
+    {
+      "name": "train/labels/IMG00075.txt",
+      "size": 4590,
+      "crc": 3875518040
+    },
+    {
+      "name": "train/labels/IMG00179.txt",
+      "size": 2590,
+      "crc": 2409836948
+    },
+    {
+      "name": "train/labels/IMG00598.txt",
+      "size": 7395,
+      "crc": 1656218224
+    },
+    {
+      "name": "train/labels/IMG00506.txt",
+      "size": 1712,
+      "crc": 68783811
+    },
+    {
+      "name": "train/labels/IMG00118.txt",
+      "size": 4146,
+      "crc": 2583089051
+    },
+    {
+      "name": "train/labels/IMG00034.txt",
+      "size": 1208,
+      "crc": 575448243
+    },
+    {
+      "name": "train/labels/IMG00229.txt",
+      "size": 1703,
+      "crc": 3243656242
+    },
+    {
+      "name": "train/labels/IMG00204.txt",
+      "size": 2654,
+      "crc": 1266570646
+    },
+    {
+      "name": "train/labels/IMG00514.txt",
+      "size": 4607,
+      "crc": 3660118803
+    },
+    {
+      "name": "train/labels/IMG00184.txt",
+      "size": 1215,
+      "crc": 2311430877
+    },
+    {
+      "name": "train/labels/IMG00233.txt",
+      "size": 1616,
+      "crc": 3196830431
+    },
+    {
+      "name": "train/labels/IMG00064.txt",
+      "size": 4357,
+      "crc": 1681576876
+    },
+    {
+      "name": "train/labels/IMG00041.txt",
+      "size": 2753,
+      "crc": 1204868087
+    },
+    {
+      "name": "train/labels/IMG00765.txt",
+      "size": 4232,
+      "crc": 359703985
+    },
+    {
+      "name": "train/labels/IMG00650.txt",
+      "size": 2198,
+      "crc": 1958254701
+    },
+    {
+      "name": "train/labels/IMG00254.txt",
+      "size": 1380,
+      "crc": 170432836
+    },
+    {
+      "name": "train/labels/IMG00645.txt",
+      "size": 4600,
+      "crc": 85349908
+    },
+    {
+      "name": "train/labels/IMG00317.txt",
+      "size": 2506,
+      "crc": 681102733
+    },
+    {
+      "name": "train/labels/IMG00731.txt",
+      "size": 2683,
+      "crc": 3646994681
+    },
+    {
+      "name": "train/labels/IMG00471.txt",
+      "size": 2506,
+      "crc": 1092957588
+    },
+    {
+      "name": "train/labels/IMG00263.txt",
+      "size": 1211,
+      "crc": 397509732
+    },
+    {
+      "name": "train/labels/IMG00537.txt",
+      "size": 1222,
+      "crc": 2724579967
+    },
+    {
+      "name": "train/labels/IMG00051.txt",
+      "size": 2308,
+      "crc": 1870318231
+    },
+    {
+      "name": "train/labels/IMG00756.txt",
+      "size": 4672,
+      "crc": 1304098027
+    },
+    {
+      "name": "train/labels/IMG00705.txt",
+      "size": 2105,
+      "crc": 3694014776
+    },
+    {
+      "name": "train/labels/IMG00501.txt",
+      "size": 1715,
+      "crc": 1606474921
+    },
+    {
+      "name": "train/labels/IMG00636.txt",
+      "size": 2184,
+      "crc": 3191224204
+    },
+    {
+      "name": "train/labels/IMG00130.txt",
+      "size": 4923,
+      "crc": 952628120
+    },
+    {
+      "name": "train/labels/IMG00288.txt",
+      "size": 3719,
+      "crc": 305412410
+    },
+    {
+      "name": "train/labels/IMG00512.txt",
+      "size": 3077,
+      "crc": 3059480628
+    },
+    {
+      "name": "train/labels/IMG00332.txt",
+      "size": 1699,
+      "crc": 159289764
+    },
+    {
+      "name": "train/labels/IMG00351.txt",
+      "size": 3152,
+      "crc": 4154410529
+    },
+    {
+      "name": "train/labels/IMG00753.txt",
+      "size": 1284,
+      "crc": 460321624
+    },
+    {
+      "name": "train/labels/IMG00662.txt",
+      "size": 2482,
+      "crc": 1043325399
+    },
+    {
+      "name": "train/labels/IMG00440.txt",
+      "size": 4204,
+      "crc": 3827174137
+    },
+    {
+      "name": "train/labels/IMG00200.txt",
+      "size": 1681,
+      "crc": 3836708200
+    },
+    {
+      "name": "train/labels/IMG00072.txt",
+      "size": 2337,
+      "crc": 187978954
+    },
+    {
+      "name": "train/labels/IMG00372.txt",
+      "size": 1921,
+      "crc": 2202524173
+    },
+    {
+      "name": "train/labels/IMG00387.txt",
+      "size": 968,
+      "crc": 2883855430
+    },
+    {
+      "name": "train/labels/IMG00084.txt",
+      "size": 1061,
+      "crc": 2443958776
+    },
+    {
+      "name": "train/labels/IMG00091.txt",
+      "size": 1706,
+      "crc": 2498474376
+    },
+    {
+      "name": "train/labels/IMG00478.txt",
+      "size": 1224,
+      "crc": 2889313281
+    },
+    {
+      "name": "train/labels/IMG00080.txt",
+      "size": 2184,
+      "crc": 1826407422
+    },
+    {
+      "name": "train/labels/IMG00214.txt",
+      "size": 1220,
+      "crc": 1156644922
+    },
+    {
+      "name": "train/labels/IMG00186.txt",
+      "size": 3550,
+      "crc": 1607844711
+    },
+    {
+      "name": "train/labels/IMG00255.txt",
+      "size": 1625,
+      "crc": 3585946852
+    },
+    {
+      "name": "train/labels/IMG00477.txt",
+      "size": 4600,
+      "crc": 3438983655
+    },
+    {
+      "name": "train/labels/IMG00552.txt",
+      "size": 2264,
+      "crc": 2119539370
+    },
+    {
+      "name": "train/labels/IMG00474.txt",
+      "size": 6974,
+      "crc": 1377806521
+    },
+    {
+      "name": "train/labels/IMG00555.txt",
+      "size": 1693,
+      "crc": 3296053526
+    },
+    {
+      "name": "train/labels/IMG00224.txt",
+      "size": 1687,
+      "crc": 2619722038
+    },
+    {
+      "name": "train/labels/IMG00027.txt",
+      "size": 1051,
+      "crc": 557844998
+    },
+    {
+      "name": "train/labels/IMG00249.txt",
+      "size": 1116,
+      "crc": 1552193557
+    },
+    {
+      "name": "train/labels/IMG00426.txt",
+      "size": 3223,
+      "crc": 426697337
+    },
+    {
+      "name": "train/labels/IMG00749.txt",
+      "size": 2754,
+      "crc": 1370589042
+    },
+    {
+      "name": "train/labels/IMG00770.txt",
+      "size": 1044,
+      "crc": 4142426507
+    },
+    {
+      "name": "train/labels/IMG00206.txt",
+      "size": 1714,
+      "crc": 3427308744
+    },
+    {
+      "name": "train/labels/IMG00604.txt",
+      "size": 1774,
+      "crc": 563135921
+    },
+    {
+      "name": "train/labels/IMG00620.txt",
+      "size": 1218,
+      "crc": 1073893691
+    },
+    {
+      "name": "train/labels/IMG00313.txt",
+      "size": 1628,
+      "crc": 838302787
+    },
+    {
+      "name": "train/labels/IMG00181.txt",
+      "size": 4362,
+      "crc": 574509998
+    },
+    {
+      "name": "train/labels/IMG00690.txt",
+      "size": 1136,
+      "crc": 1097517878
+    },
+    {
+      "name": "train/labels/IMG00156.txt",
+      "size": 2650,
+      "crc": 23709409
+    },
+    {
+      "name": "train/labels/IMG00328.txt",
+      "size": 4112,
+      "crc": 2836832467
+    },
+    {
+      "name": "train/labels/IMG00732.txt",
+      "size": 2436,
+      "crc": 4202487914
+    },
+    {
+      "name": "train/labels/IMG00388.txt",
+      "size": 880,
+      "crc": 2828067492
+    },
+    {
+      "name": "train/labels/IMG00020.txt",
+      "size": 1899,
+      "crc": 242781118
+    },
+    {
+      "name": "train/labels/IMG00684.txt",
+      "size": 1222,
+      "crc": 204897321
+    },
+    {
+      "name": "train/labels/IMG00235.txt",
+      "size": 1206,
+      "crc": 1616714497
+    },
+    {
+      "name": "train/labels/IMG00544.txt",
+      "size": 3648,
+      "crc": 1380804410
+    },
+    {
+      "name": "train/labels/IMG00594.txt",
+      "size": 3160,
+      "crc": 2181880829
+    },
+    {
+      "name": "train/labels/IMG00207.txt",
+      "size": 1701,
+      "crc": 1367963930
+    },
+    {
+      "name": "train/labels/IMG00407.txt",
+      "size": 2516,
+      "crc": 3460885368
+    },
+    {
+      "name": "train/labels/IMG00242.txt",
+      "size": 5973,
+      "crc": 3111436606
+    },
+    {
+      "name": "train/labels/IMG00768.txt",
+      "size": 1224,
+      "crc": 2602081358
+    },
+    {
+      "name": "train/labels/IMG00669.txt",
+      "size": 2675,
+      "crc": 315611676
+    },
+    {
+      "name": "train/labels/IMG00699.txt",
+      "size": 2677,
+      "crc": 3459722454
+    },
+    {
+      "name": "train/labels/IMG00115.txt",
+      "size": 2175,
+      "crc": 83596440
+    },
+    {
+      "name": "train/labels/IMG00123.txt",
+      "size": 1129,
+      "crc": 1878778431
+    },
+    {
+      "name": "train/labels/IMG00417.txt",
+      "size": 958,
+      "crc": 1116999182
+    },
+    {
+      "name": "train/labels/IMG00103.txt",
+      "size": 2793,
+      "crc": 2166826076
+    },
+    {
+      "name": "train/labels/IMG00258.txt",
+      "size": 3148,
+      "crc": 684820459
+    },
+    {
+      "name": "train/labels/IMG00437.txt",
+      "size": 5481,
+      "crc": 32439934
+    },
+    {
+      "name": "train/labels/IMG00668.txt",
+      "size": 2695,
+      "crc": 3579461341
+    },
+    {
+      "name": "train/labels/IMG00114.txt",
+      "size": 1539,
+      "crc": 4060368463
+    },
+    {
+      "name": "train/labels/IMG00287.txt",
+      "size": 3977,
+      "crc": 3585679940
+    },
+    {
+      "name": "train/labels/IMG00709.txt",
+      "size": 2121,
+      "crc": 1896309230
+    },
+    {
+      "name": "train/labels/IMG00597.txt",
+      "size": 5614,
+      "crc": 3427829305
+    },
+    {
+      "name": "train/labels/IMG00464.txt",
+      "size": 4918,
+      "crc": 1189674855
+    },
+    {
+      "name": "train/labels/IMG00342.txt",
+      "size": 2557,
+      "crc": 3159680520
+    },
+    {
+      "name": "train/labels/IMG00405.txt",
+      "size": 879,
+      "crc": 2360428355
+    },
+    {
+      "name": "train/labels/IMG00139.txt",
+      "size": 4983,
+      "crc": 1578185283
+    },
+    {
+      "name": "train/labels/IMG00132.txt",
+      "size": 1142,
+      "crc": 1905045555
+    },
+    {
+      "name": "train/labels/IMG00024.txt",
+      "size": 4026,
+      "crc": 727866299
+    },
+    {
+      "name": "train/labels/IMG00227.txt",
+      "size": 1764,
+      "crc": 2588521312
+    },
+    {
+      "name": "train/labels/IMG00142.txt",
+      "size": 5978,
+      "crc": 4258640421
+    },
+    {
+      "name": "train/labels/IMG00197.txt",
+      "size": 1691,
+      "crc": 483405425
+    },
+    {
+      "name": "train/labels/IMG00386.txt",
+      "size": 881,
+      "crc": 304082752
+    },
+    {
+      "name": "train/labels/IMG00244.txt",
+      "size": 646,
+      "crc": 255206341
+    },
+    {
+      "name": "train/labels/IMG00390.txt",
+      "size": 1468,
+      "crc": 2396974453
+    },
+    {
+      "name": "train/labels/IMG00532.txt",
+      "size": 2275,
+      "crc": 2812151806
+    },
+    {
+      "name": "train/labels/IMG00237.txt",
+      "size": 1200,
+      "crc": 4071083441
+    },
+    {
+      "name": "train/labels/IMG00238.txt",
+      "size": 5770,
+      "crc": 2231823578
+    },
+    {
+      "name": "train/labels/IMG00564.txt",
+      "size": 6008,
+      "crc": 2682002326
+    },
+    {
+      "name": "train/labels/IMG00205.txt",
+      "size": 3131,
+      "crc": 567099489
+    },
+    {
+      "name": "train/labels/IMG00590.txt",
+      "size": 877,
+      "crc": 3511017647
+    },
+    {
+      "name": "train/labels/IMG00047.txt",
+      "size": 3576,
+      "crc": 2550789257
+    },
+    {
+      "name": "train/labels/IMG00704.txt",
+      "size": 2094,
+      "crc": 2927468253
+    },
+    {
+      "name": "train/labels/IMG00314.txt",
+      "size": 1699,
+      "crc": 977906189
+    },
+    {
+      "name": "train/labels/IMG00465.txt",
+      "size": 5311,
+      "crc": 2960775570
+    },
+    {
+      "name": "train/labels/IMG00751.txt",
+      "size": 4051,
+      "crc": 341545379
+    },
+    {
+      "name": "train/labels/IMG00507.txt",
+      "size": 1697,
+      "crc": 252200246
+    },
+    {
+      "name": "train/labels/IMG00363.txt",
+      "size": 1220,
+      "crc": 2495536539
+    },
+    {
+      "name": "train/labels/IMG00715.txt",
+      "size": 8838,
+      "crc": 2150248429
+    },
+    {
+      "name": "train/labels/IMG00272.txt",
+      "size": 2263,
+      "crc": 566699631
+    },
+    {
+      "name": "train/labels/IMG00361.txt",
+      "size": 1922,
+      "crc": 2143086469
+    },
+    {
+      "name": "train/labels/IMG00182.txt",
+      "size": 2667,
+      "crc": 1986881160
+    },
+    {
+      "name": "train/labels/IMG00250.txt",
+      "size": 1140,
+      "crc": 2502653427
+    },
+    {
+      "name": "train/labels/IMG00630.txt",
+      "size": 1704,
+      "crc": 3494508862
+    },
+    {
+      "name": "train/labels/IMG00318.txt",
+      "size": 2113,
+      "crc": 669612149
+    },
+    {
+      "name": "train/labels/IMG00642.txt",
+      "size": 1625,
+      "crc": 3916393682
+    },
+    {
+      "name": "train/labels/IMG00534.txt",
+      "size": 1694,
+      "crc": 2925271880
+    },
+    {
+      "name": "train/labels/IMG00778.txt",
+      "size": 2255,
+      "crc": 2178142464
+    },
+    {
+      "name": "train/labels/IMG00433.txt",
+      "size": 3144,
+      "crc": 602702707
+    },
+    {
+      "name": "train/labels/IMG00655.txt",
+      "size": 3561,
+      "crc": 3189290503
+    },
+    {
+      "name": "train/labels/IMG00180.txt",
+      "size": 2097,
+      "crc": 1249754855
+    },
+    {
+      "name": "train/labels/IMG00203.txt",
+      "size": 1210,
+      "crc": 3485748409
+    },
+    {
+      "name": "train/labels/IMG00656.txt",
+      "size": 2596,
+      "crc": 2724705115
+    },
+    {
+      "name": "train/labels/IMG00536.txt",
+      "size": 1701,
+      "crc": 3408310954
+    }
+  ]
+}

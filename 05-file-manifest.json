@@ -1,0 +1,42 @@
+[
+    {
+        "path":  "00-보관상태.md",
+        "bytes":  1238,
+        "sha256":  "013D8FCBA5650C1E841361040EDE731DF908B6774C74D62D66F335CBA6C32AAE"
+    },
+    {
+        "path":  "01-codex-planning-review.md",
+        "bytes":  57248,
+        "sha256":  "C293CBF35CE19F49A94E2F8DDFC8712AE70A0C08FE88A8C35A4B71100F4FF975"
+    },
+    {
+        "path":  "02-claude-independent-review.md",
+        "bytes":  47832,
+        "sha256":  "46626BA65B68AE9493A8AB635DBC6CDA1CB39C1C97E2299DDE89F36892AA6BAD"
+    },
+    {
+        "path":  "03-claude-mvp-prebuild-design.md",
+        "bytes":  85165,
+        "sha256":  "6B1342BE585A33CE2A70827623135B291268BE6CF17E4DCAA5AE32EC9F4AD8EB"
+    },
+    {
+        "path":  "04-mvp-frame-in-progress-20261117-072112.zip",
+        "bytes":  117293,
+        "sha256":  "EA4B5500478DBC71143894C6B43A2E0ADD41D55DF965E4A2AD37627B04555630"
+    },
+    {
+        "path":  "reference-materials\\모임·정산 앱 통합 기획서.md",
+        "bytes":  29794,
+        "sha256":  "953DCB8FAC5B12A3B6524079C7BD8215D2DB46A6EA9C0E789D2E2923480B0797"
+    },
+    {
+        "path":  "reference-materials\\reviews\\01-codex-review.md",
+        "bytes":  92346,
+        "sha256":  "FCAF0564EA727DB2EF222C89325BB57D81AF5F6753F8339E0D9560B7214A127B"
+    },
+    {
+        "path":  "reference-materials\\reviews\\02-claude-review.md",
+        "bytes":  33355,
+        "sha256":  "D962C509B7B9523DF4A2EB3C0B3FB1BE89AA10161E6F5B2E391718593BECCAF1"
+    }
+]

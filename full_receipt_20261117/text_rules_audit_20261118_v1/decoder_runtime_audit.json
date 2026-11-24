@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "training_and_runtime_order_identical": true,
+  "base_character_count": 11945,
+  "effective_character_count": 11947,
+  "blank_index": 0,
+  "space_index": 11946,
+  "ctc_repeat_blank_space_test": "가가 11",
+  "runtime_constructor": "(character_list=None, use_space_char=True)",
+  "predictor_decoder_construction": "        )\n\n    def build_postprocess(self, **kwargs):\n        if kwargs.get(\"name\") == \"CTCLabelDecode\":\n            return CTCLabelDecode(\n                character_list=kwargs.get(\"character_dict\"),\n            )\n        else:\n            raise Exception()\n\n                \"the character dictionary required for text recognition decoding.\"\n            )\n        if character_list[0] == \"blank\":\n            character_list = character_list[1:]\n        return CTCLabelDecode(character_list=character_list)\n\n    def _get_rec_image_shape(self):\n        size = getattr(self.image_processor, \"size\", {}) or {}\n        pad_size = getattr(self.image_processor, \"pad_size\", {}) or size\n        img_h = int(pad_size.get(\"height\", size.get(\"height\", 48)))"
+}

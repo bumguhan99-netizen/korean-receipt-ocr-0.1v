@@ -1,0 +1,942 @@
+{
+  "dictionary": {
+    "training_dict_sha256": "2193f5dd0c62a4f268902b5d96dadfec3908d299afa9a6e5cad2c6a96c772828",
+    "training_dict_count": 11945,
+    "exported_count": 11945,
+    "ordered_match_export_vs_train": false,
+    "ordered_match_export_vs_file_without_space": true,
+    "use_space_char": true,
+    "space_indices": [],
+    "duplicate_export_entries": {},
+    "multichar_entries": [],
+    "gt_nfc_changed": 0,
+    "gt_nfkc_changed": 56,
+    "gt_whitespace": {
+      "U+0020 SPACE": 7633
+    },
+    "gt_oov_lines": 85,
+    "gt_oov": [
+      {
+        "character": "♥",
+        "codepoint": "U+2665",
+        "name": "BLACK HEART SUIT",
+        "occurrences": 15,
+        "line_count": 15,
+        "examples": [
+          "r100_029",
+          "r132_034",
+          "r151_043",
+          "r151_044",
+          "r151_046",
+          "r151_047",
+          "r211_049",
+          "r222_031"
+        ],
+        "nfkc": "♥"
+      },
+      {
+        "character": "★",
+        "codepoint": "U+2605",
+        "name": "BLACK STAR",
+        "occurrences": 9,
+        "line_count": 6,
+        "examples": [
+          "r035_031",
+          "r050_020",
+          "r114_036",
+          "r116_040",
+          "r223_023",
+          "r223_028"
+        ],
+        "nfkc": "★"
+      },
+      {
+        "character": "◆",
+        "codepoint": "U+25C6",
+        "name": "BLACK DIAMOND",
+        "occurrences": 9,
+        "line_count": 9,
+        "examples": [
+          "r062_024",
+          "r063_012",
+          "r114_028",
+          "r123_023",
+          "r128_022",
+          "r174_024",
+          "r238_016",
+          "r288_023"
+        ],
+        "nfkc": "◆"
+      },
+      {
+        "character": "₩",
+        "codepoint": "U+20A9",
+        "name": "WON SIGN",
+        "occurrences": 8,
+        "line_count": 8,
+        "examples": [
+          "r114_036",
+          "r127_013",
+          "r154_034",
+          "r154_042",
+          "r154_043",
+          "r154_044",
+          "r197_015",
+          "r198_016"
+        ],
+        "nfkc": "₩"
+      },
+      {
+        "character": "」",
+        "codepoint": "U+300D",
+        "name": "RIGHT CORNER BRACKET",
+        "occurrences": 8,
+        "line_count": 8,
+        "examples": [
+          "r143_037",
+          "r176_011",
+          "r244_006",
+          "r244_021",
+          "r277_006",
+          "r277_023",
+          "r295_006",
+          "r300_009"
+        ],
+        "nfkc": "」"
+      },
+      {
+        "character": "☎",
+        "codepoint": "U+260E",
+        "name": "BLACK TELEPHONE",
+        "occurrences": 7,
+        "line_count": 7,
+        "examples": [
+          "r230_005",
+          "r232_005",
+          "r268_005",
+          "r269_003",
+          "r292_004",
+          "r295_005",
+          "r295_015"
+        ],
+        "nfkc": "☎"
+      },
+      {
+        "character": "♣",
+        "codepoint": "U+2663",
+        "name": "BLACK CLUB SUIT",
+        "occurrences": 4,
+        "line_count": 4,
+        "examples": [
+          "r050_026",
+          "r254_010",
+          "r274_021",
+          "r276_011"
+        ],
+        "nfkc": "♣"
+      },
+      {
+        "character": "〕",
+        "codepoint": "U+3015",
+        "name": "RIGHT TORTOISE SHELL BRACKET",
+        "occurrences": 3,
+        "line_count": 3,
+        "examples": [
+          "r099_002",
+          "r241_006",
+          "r260_008"
+        ],
+        "nfkc": "〕"
+      },
+      {
+        "character": "＆",
+        "codepoint": "U+FF06",
+        "name": "FULLWIDTH AMPERSAND",
+        "occurrences": 3,
+        "line_count": 3,
+        "examples": [
+          "r149_045",
+          "r151_009",
+          "r165_040"
+        ],
+        "nfkc": "&"
+      },
+      {
+        "character": "己",
+        "codepoint": "U+5DF1",
+        "name": "CJK UNIFIED IDEOGRAPH-5DF1",
+        "occurrences": 3,
+        "line_count": 3,
+        "examples": [
+          "r181_007",
+          "r191_007",
+          "r192_007"
+        ],
+        "nfkc": "己"
+      },
+      {
+        "character": "〉",
+        "codepoint": "U+3009",
+        "name": "RIGHT ANGLE BRACKET",
+        "occurrences": 3,
+        "line_count": 3,
+        "examples": [
+          "r293_008",
+          "r293_010",
+          "r304_048"
+        ],
+        "nfkc": "〉"
+      },
+      {
+        "character": "香",
+        "codepoint": "U+9999",
+        "name": "CJK UNIFIED IDEOGRAPH-9999",
+        "occurrences": 2,
+        "line_count": 2,
+        "examples": [
+          "r052_001",
+          "r052_032"
+        ],
+        "nfkc": "香"
+      },
+      {
+        "character": "味",
+        "codepoint": "U+5473",
+        "name": "CJK UNIFIED IDEOGRAPH-5473",
+        "occurrences": 2,
+        "line_count": 2,
+        "examples": [
+          "r052_001",
+          "r052_032"
+        ],
+        "nfkc": "味"
+      },
+      {
+        "character": "林",
+        "codepoint": "U+6797",
+        "name": "CJK UNIFIED IDEOGRAPH-6797",
+        "occurrences": 2,
+        "line_count": 2,
+        "examples": [
+          "r052_001",
+          "r052_032"
+        ],
+        "nfkc": "林"
+      },
+      {
+        "character": "晷",
+        "codepoint": "U+6677",
+        "name": "CJK UNIFIED IDEOGRAPH-6677",
+        "occurrences": 2,
+        "line_count": 1,
+        "examples": [
+          "r114_030"
+        ],
+        "nfkc": "晷"
+      },
+      {
+        "character": "昺",
+        "codepoint": "U+663A",
+        "name": "CJK UNIFIED IDEOGRAPH-663A",
+        "occurrences": 2,
+        "line_count": 2,
+        "examples": [
+          "r158_010",
+          "r278_026"
+        ],
+        "nfkc": "昺"
+      },
+      {
+        "character": "大",
+        "codepoint": "U+5927",
+        "name": "CJK UNIFIED IDEOGRAPH-5927",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r021_024"
+        ],
+        "nfkc": "大"
+      },
+      {
+        "character": "ⓔ",
+        "codepoint": "U+24D4",
+        "name": "CIRCLED LATIN SMALL LETTER E",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r062_035"
+        ],
+        "nfkc": "e"
+      },
+      {
+        "character": "人",
+        "codepoint": "U+4EBA",
+        "name": "CJK UNIFIED IDEOGRAPH-4EBA",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r133_038"
+        ],
+        "nfkc": "人"
+      },
+      {
+        "character": "㉣",
+        "codepoint": "U+3263",
+        "name": "CIRCLED HANGUL RIEUL",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r151_050"
+        ],
+        "nfkc": "ᄅ"
+      },
+      {
+        "character": "尹",
+        "codepoint": "U+5C39",
+        "name": "CJK UNIFIED IDEOGRAPH-5C39",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r170_026"
+        ],
+        "nfkc": "尹"
+      },
+      {
+        "character": "刁",
+        "codepoint": "U+5201",
+        "name": "CJK UNIFIED IDEOGRAPH-5201",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r185_004"
+        ],
+        "nfkc": "刁"
+      },
+      {
+        "character": "三",
+        "codepoint": "U+4E09",
+        "name": "CJK UNIFIED IDEOGRAPH-4E09",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r268_019"
+        ],
+        "nfkc": "三"
+      },
+      {
+        "character": "夭",
+        "codepoint": "U+592D",
+        "name": "CJK UNIFIED IDEOGRAPH-592D",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r273_005"
+        ],
+        "nfkc": "夭"
+      },
+      {
+        "character": "芒",
+        "codepoint": "U+8292",
+        "name": "CJK UNIFIED IDEOGRAPH-8292",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r276_018"
+        ],
+        "nfkc": "芒"
+      },
+      {
+        "character": "Ⓒ",
+        "codepoint": "U+24B8",
+        "name": "CIRCLED LATIN CAPITAL LETTER C",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r282_039"
+        ],
+        "nfkc": "C"
+      },
+      {
+        "character": "ⓧ",
+        "codepoint": "U+24E7",
+        "name": "CIRCLED LATIN SMALL LETTER X",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r282_040"
+        ],
+        "nfkc": "x"
+      },
+      {
+        "character": "斟",
+        "codepoint": "U+659F",
+        "name": "CJK UNIFIED IDEOGRAPH-659F",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r289_003"
+        ],
+        "nfkc": "斟"
+      },
+      {
+        "character": "「",
+        "codepoint": "U+300C",
+        "name": "LEFT CORNER BRACKET",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r300_009"
+        ],
+        "nfkc": "「"
+      },
+      {
+        "character": "〈",
+        "codepoint": "U+3008",
+        "name": "LEFT ANGLE BRACKET",
+        "occurrences": 1,
+        "line_count": 1,
+        "examples": [
+          "r304_048"
+        ],
+        "nfkc": "〈"
+      }
+    ],
+    "model_sha256": "10e0e6b65bce1582339440abcf844e1c1e40a1d6357c5722a177c0dabce8a155",
+    "policy": "NFC; whitespace-ignore removes all Unicode isspace characters only; punctuation preserved; no inference rerun; ignore CER denominator excludes whitespace; WER after removal is not reported",
+    "export_space_note": "Export stores the 11,945 base characters. Both training and runtime append space and prepend CTC blank. Effective ordered dictionaries are identical at 11,947 entries. The raw base-vs-expanded comparison being false is expected, not a mismatch."
+  },
+  "conditions": {
+    "crop": {
+      "source": "D:\\ssafy\\ocr\\mogumogu\\full_receipt_20261117\\phone_baseline\\crops_diagnostic_v1\\predictions.jsonl",
+      "source_sha256": "f77827b02be776b84e63e89a05ecb7a83d0343190e3d2dd141aa4aa660b186e7",
+      "keep": {
+        "n": 8343,
+        "cer_pct": 8.177353924987546,
+        "wer_pct": 41.93164747120681,
+        "exact_match_pct": 59.486995085700585,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 87.80578206078577,
+        "char_edits": 6894,
+        "gt_chars": 84306,
+        "word_edits": 6699,
+        "gt_words": 15976
+      },
+      "ignore_whitespace": {
+        "n": 8343,
+        "cer_pct": 5.379990348623375,
+        "exact_match_pct": 70.6100922929402,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 91.47516679021497,
+        "char_edits": 4125,
+        "gt_chars": 76673
+      },
+      "ignore_ascii_space": {
+        "n": 8343,
+        "cer_pct": 5.379990348623375,
+        "exact_match_pct": 70.6100922929402,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 91.47516679021497,
+        "char_edits": 4125,
+        "gt_chars": 76673
+      },
+      "whitespace_only_n": 928,
+      "whitespace_only_examples": [
+        {
+          "line_id": "r001_011",
+          "gt": "금 액",
+          "prediction": "금액"
+        },
+        {
+          "line_id": "r001_013",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r001_028",
+          "gt": "과 세 물품",
+          "prediction": "과 세 물 품"
+        },
+        {
+          "line_id": "r001_030",
+          "gt": "결 제 대 상 금액",
+          "prediction": "결제대상금 액"
+        },
+        {
+          "line_id": "r001_047",
+          "gt": "0014 현 대",
+          "prediction": "0014현 대"
+        },
+        {
+          "line_id": "r001_048",
+          "gt": "일시불 / 14,990",
+          "prediction": "일시불 /14,990"
+        },
+        {
+          "line_id": "r001_051",
+          "gt": "금회발생포인트 T9350**050*",
+          "prediction": "금회발생포인트T9350**050*"
+        },
+        {
+          "line_id": "r002_006",
+          "gt": "※ 정상상품에 한 함. 30일 이내(신선 7일)",
+          "prediction": "※정상상품에 한 함. 30일 이내(신선 7일)"
+        },
+        {
+          "line_id": "r002_009",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r002_017",
+          "gt": "과 세 물 품",
+          "prediction": "과세 물품"
+        },
+        {
+          "line_id": "r002_020",
+          "gt": "금 액",
+          "prediction": "금액"
+        },
+        {
+          "line_id": "r004_008",
+          "gt": "고추짜장",
+          "prediction": "고추 짜장"
+        }
+      ],
+      "raw_edits": 6894,
+      "raw_exact": 4963,
+      "nfc_changed_predictions": 0,
+      "prediction_oov": {},
+      "prediction_whitespace": {
+        "U+0020 SPACE": 5988
+      },
+      "gt_oov_group": {
+        "n": 85,
+        "cer_pct": 15.447761194029852,
+        "wer_pct": 57.751937984496124,
+        "exact_match_pct": 0.0,
+        "numeric_symbol_only_n": 14,
+        "numeric_symbol_only_exact_pct": 0.0,
+        "char_edits": 207,
+        "gt_chars": 1340,
+        "word_edits": 149,
+        "gt_words": 258
+      },
+      "gt_covered_group": {
+        "n": 8258,
+        "cer_pct": 8.05992816334402,
+        "wer_pct": 41.67196844382237,
+        "exact_match_pct": 60.0992976507629,
+        "numeric_symbol_only_n": 2684,
+        "numeric_symbol_only_exact_pct": 88.26378539493294,
+        "char_edits": 6687,
+        "gt_chars": 82966,
+        "word_edits": 6550,
+        "gt_words": 15718
+      }
+    },
+    "before": {
+      "source": "D:\\ssafy\\ocr\\mogumogu\\full_receipt_20261117\\phone_baseline\\aligned_partial_v1\\partial_predictions.jsonl",
+      "source_sha256": "79a603f541d5a225556d40d79a520b0c4d75b15c1c9746a30b2cd20d79f81217",
+      "keep": {
+        "n": 8343,
+        "cer_pct": 21.450430574336345,
+        "wer_pct": 54.6006509764647,
+        "exact_match_pct": 47.440968476567186,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 74.09191994069681,
+        "char_edits": 18084,
+        "gt_chars": 84306,
+        "word_edits": 8723,
+        "gt_words": 15976
+      },
+      "ignore_whitespace": {
+        "n": 8343,
+        "cer_pct": 18.43152087436255,
+        "exact_match_pct": 54.62064005753326,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 76.61230541141586,
+        "char_edits": 14132,
+        "gt_chars": 76673
+      },
+      "ignore_ascii_space": {
+        "n": 8343,
+        "cer_pct": 18.43152087436255,
+        "exact_match_pct": 54.62064005753326,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 76.61230541141586,
+        "char_edits": 14132,
+        "gt_chars": 76673
+      },
+      "whitespace_only_n": 599,
+      "whitespace_only_examples": [
+        {
+          "line_id": "r001_011",
+          "gt": "금 액",
+          "prediction": "금액"
+        },
+        {
+          "line_id": "r001_027",
+          "gt": "(*)면 세 물 품",
+          "prediction": "(*)면 세 물품"
+        },
+        {
+          "line_id": "r001_030",
+          "gt": "결 제 대 상 금액",
+          "prediction": "결제대상금액"
+        },
+        {
+          "line_id": "r001_047",
+          "gt": "0014 현 대",
+          "prediction": "0014현 대"
+        },
+        {
+          "line_id": "r001_048",
+          "gt": "일시불 / 14,990",
+          "prediction": "일시불 /14,990"
+        },
+        {
+          "line_id": "r002_009",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r002_017",
+          "gt": "과 세 물 품",
+          "prediction": "과세 물품"
+        },
+        {
+          "line_id": "r004_016",
+          "gt": "신용 카드",
+          "prediction": "신용카드"
+        },
+        {
+          "line_id": "r005_006",
+          "gt": "사업자 번호: 102-81-11670",
+          "prediction": "사업자번호:102-81-11670"
+        },
+        {
+          "line_id": "r005_007",
+          "gt": "대표이사: 허 정 도",
+          "prediction": "대표이사:허 정 도"
+        },
+        {
+          "line_id": "r006_026",
+          "gt": "[ 결제금액",
+          "prediction": "[결제금액"
+        },
+        {
+          "line_id": "r007_008",
+          "gt": "거래일시: 25/11/22 13:49:05",
+          "prediction": "거래일시:25/11/22 13:49:05"
+        }
+      ],
+      "raw_edits": 18084,
+      "raw_exact": 3958,
+      "nfc_changed_predictions": 0,
+      "prediction_oov": {},
+      "prediction_whitespace": {
+        "U+0020 SPACE": 4502
+      },
+      "gt_oov_group": {
+        "n": 85,
+        "cer_pct": 21.119402985074625,
+        "wer_pct": 61.627906976744185,
+        "exact_match_pct": 0.0,
+        "numeric_symbol_only_n": 14,
+        "numeric_symbol_only_exact_pct": 0.0,
+        "char_edits": 283,
+        "gt_chars": 1340,
+        "word_edits": 159,
+        "gt_words": 258
+      },
+      "gt_covered_group": {
+        "n": 8258,
+        "cer_pct": 21.45577706530386,
+        "wer_pct": 54.48530347372439,
+        "exact_match_pct": 47.92928069750545,
+        "numeric_symbol_only_n": 2684,
+        "numeric_symbol_only_exact_pct": 74.47839046199702,
+        "char_edits": 17801,
+        "gt_chars": 82966,
+        "word_edits": 8564,
+        "gt_words": 15718
+      }
+    },
+    "after_detector": {
+      "source": "C:\\Users\\hbeom\\Documents\\Codex\\2026-11-17\\v\\work\\final_plain\\predictions.jsonl",
+      "source_sha256": "293b0110fe4c89a2560420401c30fc3b58d36c371820d6e067adcc0ccc06944a",
+      "keep": {
+        "n": 8343,
+        "cer_pct": 20.579792660071643,
+        "wer_pct": 51.92789183775663,
+        "exact_match_pct": 50.365575931918976,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 78.31727205337288,
+        "char_edits": 17350,
+        "gt_chars": 84306,
+        "word_edits": 8296,
+        "gt_words": 15976
+      },
+      "ignore_whitespace": {
+        "n": 8343,
+        "cer_pct": 17.4989892139345,
+        "exact_match_pct": 58.25242718446602,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 80.91178650852483,
+        "char_edits": 13417,
+        "gt_chars": 76673
+      },
+      "ignore_ascii_space": {
+        "n": 8343,
+        "cer_pct": 17.4989892139345,
+        "exact_match_pct": 58.25242718446602,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 80.91178650852483,
+        "char_edits": 13417,
+        "gt_chars": 76673
+      },
+      "whitespace_only_n": 658,
+      "whitespace_only_examples": [
+        {
+          "line_id": "r001_013",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r001_028",
+          "gt": "과 세 물품",
+          "prediction": "과 세 물 품"
+        },
+        {
+          "line_id": "r001_030",
+          "gt": "결 제 대 상 금액",
+          "prediction": "결제대상금액"
+        },
+        {
+          "line_id": "r001_047",
+          "gt": "0014 현 대",
+          "prediction": "0014현 대"
+        },
+        {
+          "line_id": "r001_048",
+          "gt": "일시불 / 14,990",
+          "prediction": "일시불 /14,990"
+        },
+        {
+          "line_id": "r002_006",
+          "gt": "※ 정상상품에 한 함. 30일 이내(신선 7일)",
+          "prediction": "※ 정상상품에 한 함.30일 이내(신선 7일)"
+        },
+        {
+          "line_id": "r002_009",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r002_017",
+          "gt": "과 세 물 품",
+          "prediction": "과세 물품"
+        },
+        {
+          "line_id": "r002_020",
+          "gt": "금 액",
+          "prediction": "금액"
+        },
+        {
+          "line_id": "r005_006",
+          "gt": "사업자 번호: 102-81-11670",
+          "prediction": "사업자번호:102-81-11670"
+        },
+        {
+          "line_id": "r005_007",
+          "gt": "대표이사: 허 정 도",
+          "prediction": "대표이사:허정 도"
+        },
+        {
+          "line_id": "r006_026",
+          "gt": "[ 결제금액",
+          "prediction": "[결제금액"
+        }
+      ],
+      "raw_edits": 17350,
+      "raw_exact": 4202,
+      "nfc_changed_predictions": 0,
+      "prediction_oov": {},
+      "prediction_whitespace": {
+        "U+0020 SPACE": 4719
+      },
+      "gt_oov_group": {
+        "n": 85,
+        "cer_pct": 25.29850746268657,
+        "wer_pct": 62.01550387596899,
+        "exact_match_pct": 0.0,
+        "numeric_symbol_only_n": 14,
+        "numeric_symbol_only_exact_pct": 0.0,
+        "char_edits": 339,
+        "gt_chars": 1340,
+        "word_edits": 160,
+        "gt_words": 258
+      },
+      "gt_covered_group": {
+        "n": 8258,
+        "cer_pct": 20.50357977966878,
+        "wer_pct": 51.76231072655554,
+        "exact_match_pct": 50.883991281181885,
+        "numeric_symbol_only_n": 2684,
+        "numeric_symbol_only_exact_pct": 78.725782414307,
+        "char_edits": 17011,
+        "gt_chars": 82966,
+        "word_edits": 8136,
+        "gt_words": 15718
+      }
+    },
+    "after_merge": {
+      "source": "C:\\Users\\hbeom\\Documents\\Codex\\2026-11-17\\v\\outputs\\region_improvement_20261118_v1\\evaluation\\predictions.jsonl",
+      "source_sha256": "84741c733718061ba1e6aaf7e9e3104caee57e33ee626a7c0653765dfbe90ad9",
+      "keep": {
+        "n": 8343,
+        "cer_pct": 20.524043365833986,
+        "wer_pct": 51.86529794692038,
+        "exact_match_pct": 50.269687162891046,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 78.05782060785768,
+        "char_edits": 17303,
+        "gt_chars": 84306,
+        "word_edits": 8286,
+        "gt_words": 15976
+      },
+      "ignore_whitespace": {
+        "n": 8343,
+        "cer_pct": 17.472904412244205,
+        "exact_match_pct": 58.16852451156658,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 80.61527057079319,
+        "char_edits": 13397,
+        "gt_chars": 76673
+      },
+      "ignore_ascii_space": {
+        "n": 8343,
+        "cer_pct": 17.472904412244205,
+        "exact_match_pct": 58.16852451156658,
+        "numeric_symbol_only_n": 2698,
+        "numeric_symbol_only_exact_pct": 80.61527057079319,
+        "char_edits": 13397,
+        "gt_chars": 76673
+      },
+      "whitespace_only_n": 659,
+      "whitespace_only_examples": [
+        {
+          "line_id": "r001_013",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r001_028",
+          "gt": "과 세 물품",
+          "prediction": "과 세 물 품"
+        },
+        {
+          "line_id": "r001_030",
+          "gt": "결 제 대 상 금액",
+          "prediction": "결제대상금액"
+        },
+        {
+          "line_id": "r001_047",
+          "gt": "0014 현 대",
+          "prediction": "0014현 대"
+        },
+        {
+          "line_id": "r001_048",
+          "gt": "일시불 / 14,990",
+          "prediction": "일시불 /14,990"
+        },
+        {
+          "line_id": "r002_006",
+          "gt": "※ 정상상품에 한 함. 30일 이내(신선 7일)",
+          "prediction": "※ 정상상품에 한 함.30일 이내(신선 7일)"
+        },
+        {
+          "line_id": "r002_009",
+          "gt": "상 품 명",
+          "prediction": "상품명"
+        },
+        {
+          "line_id": "r002_017",
+          "gt": "과 세 물 품",
+          "prediction": "과세 물품"
+        },
+        {
+          "line_id": "r002_020",
+          "gt": "금 액",
+          "prediction": "금액"
+        },
+        {
+          "line_id": "r005_006",
+          "gt": "사업자 번호: 102-81-11670",
+          "prediction": "사업자번호:102-81-11670"
+        },
+        {
+          "line_id": "r005_007",
+          "gt": "대표이사: 허 정 도",
+          "prediction": "대표이사:허정 도"
+        },
+        {
+          "line_id": "r006_026",
+          "gt": "[ 결제금액",
+          "prediction": "[결제금액"
+        }
+      ],
+      "raw_edits": 17303,
+      "raw_exact": 4194,
+      "nfc_changed_predictions": 0,
+      "prediction_oov": {},
+      "prediction_whitespace": {
+        "U+0020 SPACE": 4774
+      },
+      "gt_oov_group": {
+        "n": 85,
+        "cer_pct": 25.29850746268657,
+        "wer_pct": 62.01550387596899,
+        "exact_match_pct": 0.0,
+        "numeric_symbol_only_n": 14,
+        "numeric_symbol_only_exact_pct": 0.0,
+        "char_edits": 339,
+        "gt_chars": 1340,
+        "word_edits": 160,
+        "gt_words": 258
+      },
+      "gt_covered_group": {
+        "n": 8258,
+        "cer_pct": 20.44693006773859,
+        "wer_pct": 51.69868940068711,
+        "exact_match_pct": 50.78711552434003,
+        "numeric_symbol_only_n": 2684,
+        "numeric_symbol_only_exact_pct": 78.46497764530551,
+        "char_edits": 16964,
+        "gt_chars": 82966,
+        "word_edits": 8126,
+        "gt_words": 15718
+      }
+    }
+  },
+  "runtime_decoder": {
+    "status": "passed",
+    "training_and_runtime_order_identical": true,
+    "base_character_count": 11945,
+    "effective_character_count": 11947,
+    "blank_index": 0,
+    "space_index": 11946,
+    "ctc_repeat_blank_space_test": "가가 11",
+    "runtime_constructor": "(character_list=None, use_space_char=True)",
+    "predictor_decoder_construction": "        )\n\n    def build_postprocess(self, **kwargs):\n        if kwargs.get(\"name\") == \"CTCLabelDecode\":\n            return CTCLabelDecode(\n                character_list=kwargs.get(\"character_dict\"),\n            )\n        else:\n            raise Exception()\n\n                \"the character dictionary required for text recognition decoding.\"\n            )\n        if character_list[0] == \"blank\":\n            character_list = character_list[1:]\n        return CTCLabelDecode(character_list=character_list)\n\n    def _get_rec_image_shape(self):\n        size = getattr(self.image_processor, \"size\", {}) or {}\n        pad_size = getattr(self.image_processor, \"pad_size\", {}) or size\n        img_h = int(pad_size.get(\"height\", size.get(\"height\", 48)))"
+  },
+  "checks": {
+    "saved_predictions_reproduced": true,
+    "no_new_ocr_inference": true,
+    "all_conditions_same_8343_lines": true,
+    "nfc_no_score_change": true,
+    "unicode_whitespace_and_ascii_space_same_scores": true,
+    "runtime_dictionary_order_identical": true,
+    "ctc_synthetic_test_passed": true
+  }
+}

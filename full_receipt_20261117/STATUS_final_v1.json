@@ -1,0 +1,57 @@
+{
+  "status": "completed",
+  "selection": {
+    "selected": "round2",
+    "export": "/workspace/full_receipt_20261117/round2/run_001/export",
+    "criterion": "Keep round2 only if full validation CER and EM are both non-worse; epoch chosen by internal val accuracy",
+    "validation": {
+      "baseline": {
+        "n": 1785,
+        "cer_pct": 23.957423580786028,
+        "wer_pct": 42.669172932330824,
+        "exact_match_pct": 71.70868347338936,
+        "numeric_symbol_only_n": 1465,
+        "numeric_symbol_only_exact_pct": 75.63139931740615,
+        "char_edits": 4389,
+        "gt_chars": 18320,
+        "word_edits": 1362,
+        "gt_words": 3192,
+        "amount_n": 549,
+        "amount_exact_pct": 76.32058287795992,
+        "seconds": 33.386937464999846
+      },
+      "candidate": {
+        "n": 1785,
+        "cer_pct": 23.351528384279476,
+        "wer_pct": 40.288220551378444,
+        "exact_match_pct": 74.34173669467788,
+        "numeric_symbol_only_n": 1465,
+        "numeric_symbol_only_exact_pct": 78.15699658703072,
+        "char_edits": 4278,
+        "gt_chars": 18320,
+        "word_edits": 1286,
+        "gt_words": 3192,
+        "amount_n": 549,
+        "amount_exact_pct": 78.14207650273224,
+        "seconds": 30.506021510999744
+      }
+    }
+  },
+  "full_val": {
+    "status": "completed",
+    "n": 154,
+    "boxes": 9422,
+    "changed_texts": 1767,
+    "cache_sha256": "d7c70a7f298c23ef51216c81136bc11d2d4cd000f38be82ab4b0e349b3379294",
+    "model_sha256": "10e0e6b65bce1582339440abcf844e1c1e40a1d6357c5722a177c0dabce8a155",
+    "limitation": "Text changes are not accuracy; full transcriptions unavailable"
+  },
+  "full_test": {
+    "status": "completed",
+    "n": 156,
+    "failures": [],
+    "limitation": "Partial key-information boxes have no transcriptions; full OCR CER/precision unavailable"
+  },
+  "report": "최종_실험보고서_v1.txt",
+  "phone_plan": "receipt_labeled_평가설계_v1.txt"
+}

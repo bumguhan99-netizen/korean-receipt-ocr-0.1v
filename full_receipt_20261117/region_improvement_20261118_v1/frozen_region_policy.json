@@ -1,0 +1,11 @@
+{
+  "resolution": 1920,
+  "limit_type": "max",
+  "thresh": 0.3,
+  "box_thresh": 0.45,
+  "unclip_ratio": 1.2,
+  "merge": true,
+  "selection": "lowest development CER among prespecified evaluated candidates; 48 source-hash groups; frozen before remaining 256 receipts",
+  "scope": "Previously inspected diagnostic corpus, not untouched test",
+  "script_sha256": "ccee2f6ed68aca86c54e1257f828c25a6b4c72e62ddc76427da476d52909ebcf"
+}

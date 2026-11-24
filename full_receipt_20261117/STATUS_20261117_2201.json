@@ -1,0 +1,26 @@
+{
+  "status": "round2_training",
+  "training_session": 75487,
+  "training_container_last_seen": "sweet_faraday",
+  "training_run": "round2/run_001",
+  "training_progress_at_record": "epoch 10/30; best internal val accuracy 0.789722381631882 at epoch 5; 13m49s ETA",
+  "training_live_log": "round2/run_001/outputs_train/train.log",
+  "launcher": "run_round2_v1.ps1 (smoke/train/export/validate)",
+  "identity": "restored_identity_v1/identity.json passed; exported pdiparams SHA256 identical to selected round1",
+  "pre_evaluation": "evaluation/pre_round2_val completed 1785; baseline CER 30.8679 EM 54.5658; round1 CER 23.9574 EM 71.7087",
+  "full_val": "evaluation/full_val_v1 completed 154, failures 0",
+  "post_training_steps": [
+    "Wait for launcher to finish export and validation; inspect run_001/validation/summary.json and failures",
+    "Run recognize_cache_v1.py --cache /workspace/full_receipt_20261117/evaluation/full_val_v1 --model /workspace/full_receipt_20261117/round2/run_001/export --output /workspace/full_receipt_20261117/evaluation/full_val_round2_v1 in training Docker image",
+    "Review validation then run run_final_test_v1.ps1; freezes selection before final crop/full test",
+    "Write final evidence report and final status; do not retrain based on test",
+    "Finish requested smartphone receipt evaluation design/code; inspect phone audit and link plan/code in final"
+  ],
+  "phone_audit_session": 39611,
+  "phone_audit_output": "phone_baseline/audit_v1",
+  "phone_plan": "receipt_labeled_평가설계_v1.txt",
+  "phone_code": "phone_receipt_eval_v1.py",
+  "tests_passed": {"training/test_korie.py":5,"test_round2_guards_v1.py":3,"test_partial_matching_v1.py":4,"test_phone_eval_v1.py":4},
+  "constraints": "Preserve existing files; new versions. No further permission needed. Never finish merely because training started. Respond Korean. No subagents authorized.",
+  "git_note": "Repository has pre-existing staged deletions plus untracked copies; do not reset/checkout working tree. LFS fetched original weights and copied object to restored_round1."
+}
